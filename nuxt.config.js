@@ -43,7 +43,7 @@ export default {
   build: {},
 
   router: {
-    base: '/cat2koban.github.io/',
+    base: '/',
   },
 
   generate: {
