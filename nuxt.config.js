@@ -45,4 +45,8 @@ export default {
   router: {
     base: '/cat2koban.github.io/',
   },
+
+  generate: {
+    fallback: true,
+  },
 }
