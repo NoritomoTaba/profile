@@ -1,8 +1,7 @@
 <template>
   <div>
     <SiteHero class="mt-4"/>
-    <Projects class="mt-4" />
-    <ArticleList class="mt-4" :isPaginated="false" :postsPerPage="2"/>
+    <ArticleList class="mt-4" :isPaginated="false" :postsPerPage="4"/>
   </div>
 </template>
 
