@@ -1,9 +1,7 @@
 <template>
   <section :key="$route.params.post">
-    <div>
       <header class="mt-6">
         <h3 class="font-bold text-4xl text-gray-800">{{ attributes.title }}</h3>
-        <blockquote class="border-l-4 border-gray-500 bg-gray-100 p-3 pl-4 my-4 italic">{{ attributes.description }}</blockquote>
         <p class="text-sm text-gray-500">
           Published on <time>{{require('moment')(attributes.ctime).format('YYYY/MM/DD')}}</time>
         </p>
@@ -14,9 +12,6 @@
       <article class="markdown">
         <div class="mt-2" v-html="content"></div>
       </article>
-      <div>
-        <nuxt-link class="font-bold text-purple-500" to="/blog/">Back to blog</nuxt-link>
-      </div>
     </div>
   </section>
 </template>
@@ -24,8 +19,10 @@
 <script>
 const fm = require("front-matter");
 const md = require("markdown-it")({
+  injected: true,
   html: true,
-  typographer: true
+  linkify: true,
+  typography: true
 }).use(require("markdown-it-highlightjs"), { auto: true });
 
 export default {
@@ -51,3 +48,14 @@ export default {
   }
 };
 </script>
+
+<style lang='scss'>
+.markdown {
+  a {
+    color: #4299e1
+  }
+  a:hover {
+      text-decoration: underline
+  }
+}
+</style>
