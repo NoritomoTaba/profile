@@ -1,40 +1,30 @@
 <template>
-  <div class="container">
-    <div>
-      <h1 class="title font-black">cat2koban.dev</h1>
-    </div>
+  <div>
+    <SiteHero class="mt-4"/>
+    <Projects class="mt-4" />
+    <ArticleList class="mt-4" :isPaginated="false" :postsPerPage="2"/>
   </div>
 </template>
 
-<script lang="ts">
-import Vue from 'vue'
+<script>
+import SiteHero from "~/components/SiteHero";
+import ArticleList from "~/components/ArticleList";
+import Projects from "~/components/Projects";
 
-export default Vue.extend({})
+export default {
+  components: {
+    SiteHero,
+    ArticleList,
+    Projects,
+  },
+  head() {
+    return {
+      title: "Home",
+    };
+  }
+};
 </script>
 
+
 <style>
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  text-align: center;
-}
-
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-size: 60px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
 </style>
