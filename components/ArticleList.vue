@@ -1,11 +1,11 @@
 <template>
   <section>
-    <h3 class="font-bold text-3xl lg:text-4xl text-gray-700 px-3">
+    <h3 class="font-bold text-3xl lg:text-4xl text-gray-700">
       Posts
     </h3>
     <article
       v-for="(post,key) in bloglist" :key="key"
-      class="py-2 px-3 rounded-lg"
+      class="py-2 rounded-lg"
       :class="key == bloglist.length -1 ? '' : 'mb-1'"
     >
       <nuxt-link :to="`/blog/${post.slug}`">
@@ -19,7 +19,7 @@
           </figure>
       </div>
       <div>
-        <h4 class="text-xl font-normal text-purple-600 hover:underline">
+        <h4 class="font-mono text-xl text-gray-700 hover:text-blue-500 underline">
           {{ post.title }}
         </h4>
         <p class="mt-1 text-sm text-gray-600">Published on {{ post.ctime }}</p>
