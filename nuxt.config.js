@@ -40,7 +40,7 @@ module.exports = {
       { name: "og:title", content: "cat2koban.dev" },
       { name: "og:type", content: "website" },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "~/static/favicon.ico" }],
+    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     htmlAttrs: {
       lang: "ja-JP"
     }
