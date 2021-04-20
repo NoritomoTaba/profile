@@ -5,27 +5,28 @@ tags: blog
 ctime: 2021-04-18
 ---
 
+<img src="https://i.imgur.com/mqSZ50J.jpg" width="240">
+
 ## name:
 
 cat2koban
 
+## job:
+
+Money Forward inc. (2020/04 - present)
+
 ## language:
-- ruby
-- rails
-- go
-- javascript
-- typescript
-- vuejs
-- nuxtjs
-- docker
+
+Ruby, TypeScript, Golang
 
 ## favorite:
-- watching movie
-- [Ringo Sheena](https://www.kronekodow.com/art.php?id=1)
-- [Tokyo Jihen](https://tokyojihen.com)
+
+- Watching movies
+- https://www.kronekodow.com/art.php?id=1
+- https://tokyojihen.com
 
 ## link:
 
-- [Twitter](https://twitter.com/cat2koban)
-- [Filmarks](https://filmarks.com/users/cat2koban)
-- [Github](https://github.com/cat2koban)
+- https://twitter.com/cat2koban
+- https://filmarks.com/users/cat2koban
+- https://github.com/cat2koban
