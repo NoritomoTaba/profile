@@ -1,6 +1,6 @@
 <template>
   <section>
-    <h3 class="font-bold text-3xl lg:text-4xl text-gray-700">
+    <h3 class="text-gray-800 font-bold text-3xl lg:text-4xl">
       Posts
     </h3>
     <article
@@ -19,7 +19,7 @@
           </figure>
       </div>
       <div>
-        <h4 class="font-mono text-xl text-gray-700 hover:text-blue-500 underline">
+        <h4 class="font-mono text-xl hover:text-blue-500 underline">
           {{ post.title }}
         </h4>
         <p class="mt-1 text-sm text-gray-600">Published on {{ post.ctime }}</p>

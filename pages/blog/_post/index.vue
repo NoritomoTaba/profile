@@ -1,13 +1,10 @@
 <template>
   <section :key="$route.params.post">
       <header class="mt-6">
-        <h3 class="font-bold text-4xl text-gray-800">{{ attributes.title }}</h3>
-        <p class="text-sm text-gray-500">
+        <h3 class="text-gray-800 font-bold text-4xl">{{ attributes.title }}</h3>
+        <p class="text-sm mb-5">
           Published on <time>{{require('moment')(attributes.ctime).format('YYYY/MM/DD')}}</time>
         </p>
-        <figure v-if="attributes.cover_image">
-          <img :src="require(`~/assets/images/articles/${attributes.cover_image}`)" :alt="attributes.cover_image_cp" loading="lazy"/>
-        </figure>
       </header>
       <article class="markdown">
         <div class="mt-2" v-html="content"></div>

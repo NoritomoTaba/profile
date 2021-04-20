@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 .markdown {
-  @apply text-gray-800 leading-normal mb-4;
+  @apply text-gray-700 leading-normal mb-4;
   & > * + *, & li > p + p {
     @apply mt-6;
   }
@@ -25,10 +25,10 @@
     @apply font-bold;
   }
   & h2 {
-    @apply leading-tight text-xl font-bold text-black mb-2 mt-8;
+    @apply leading-tight text-xl font-bold text-gray-800 mb-2 mt-8;
   }
   & h3 {
-    @apply leading-tight text-lg font-bold text-black mt-8 -mb-2;
+    @apply leading-tight text-lg font-bold text-gray-800 mt-8 -mb-2;
   }
   & code {
     @apply font-mono text-sm inline bg-gray-200 px-1;
@@ -44,6 +44,9 @@
     @screen sm {
       @apply pl-10;
     }
+  }
+  & img.is-center {
+    @apply max-w-xs mx-auto;
   }
 }
 
