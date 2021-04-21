@@ -9,7 +9,7 @@ function getSlugs(post, _) {
 }
 
 module.exports = {
-  mode: "universal",
+  mode: "static",
   head: {
     title: "cat2koban.dev",
     titleTemplate: "%s - cat2koban.dev",
@@ -52,19 +52,7 @@ module.exports = {
   },
   css: ["~assets/tailwind.scss"],
   plugins: [],
-  modules: [
-    [
-      "nuxt-fontawesome",
-      {
-        imports: [
-          {
-            set: "@fortawesome/free-brands-svg-icons",
-            icons: ["fab"]
-          }
-        ]
-      }
-    ]
-  ],
+  modules: [],
   build: {
     postcss: {
       plugins: {
