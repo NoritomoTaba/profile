@@ -20,7 +20,7 @@
   "devDependencies": {
     "@nuxtjs/markdownit": "^1.2.4",
     "@nuxtjs/markdownit-loader": "^1.1.1",
-    "@nuxtjs/sitemap": "^1.2.0",
+    "@nuxtjs/sitemap": "^2.4.0",
     "@nuxt/types": "^2.14.6",
     "@nuxt/typescript-build": "^2.0.3",
     "frontmatter-markdown-loader": "^1.6.0",
