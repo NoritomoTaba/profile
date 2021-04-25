@@ -1,7 +1,10 @@
 ---
-title: "markdown-test"
+title: "表示確認用"
+author: cat2koban
 date: 2021-04-25T20:49:37+09:00
-draft: true
+tags: [markdown]
+aliases:
+- /posts/markdown-test.html
 ---
 
 ---
