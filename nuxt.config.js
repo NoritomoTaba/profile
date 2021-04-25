@@ -68,6 +68,7 @@ module.exports = {
   },
   generate: {
     fallback: true,
+    crawler: false,
   },
   router: {
     base: '/',
