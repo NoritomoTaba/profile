@@ -35,9 +35,6 @@ export default {
     bloglist() {
       return this.$store.state.bloglist;
     },
-  },
-  props: {
-    isPaginated: Boolean,
   }
 };
 </script>
