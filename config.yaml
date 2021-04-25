@@ -1,0 +1,10 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: cat2koban.dev
+theme: hugo-tania
+
+params:
+  socialOptions:
+    github: https://github.com/cat2koban
+    twitter: https://twitter.com/cat2koban
+
