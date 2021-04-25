@@ -9,7 +9,7 @@ function getSlugs(post, _) {
 }
 
 module.exports = {
-  mode: "static",
+  target: "static",
   head: {
     title: "cat2koban.dev",
     titleTemplate: "%s - cat2koban.dev",
@@ -68,9 +68,6 @@ module.exports = {
   },
   generate: {
     fallback: true,
-    routes: function() {
-      return files.map(getSlugs);
-    }
   },
   router: {
     base: '/',
