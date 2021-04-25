@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - renewal-to-hugo  # Set a branch to deploy
 
 jobs:
   deploy:
