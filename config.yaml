@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: cat2koban.dev
+title: $cat2koban->{blog}
 theme: hugo-tania
 
 params:
