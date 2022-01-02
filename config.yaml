@@ -2,3 +2,12 @@ baseURL: http://example.org/
 languageCode: en-us
 title: cat2koban.dev
 theme: hugo-tania
+
+menu:
+  header:
+    - name: About
+      url: "/about"
+    - name: Tags
+      url: "/tags/"
+    - name: RSS
+      url: "/index.xml"
