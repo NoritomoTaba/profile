@@ -1,10 +1,20 @@
 <nav class="navbar">
   <div class="container">
     <div class="flex">
-      <div class="brand">
+      <div>
         <a class="brand" href="{{ relURL "/" }}">
+          {{ if .Site.Params.titleEmoji }}
+          <span class="emoji">
+            {{ .Site.Params.titleEmoji }}
+          </span>
+          {{ end }}
           {{ .Site.Title }}
         </a>
+      </div>
+      <div class="flex header-links">
+        {{ range .Site.Menus.header }}
+        <a class="header-link" href="{{ .URL | relURL }}"{{ if eq .URL $.RelPermalink }} aria-current="page"{{ end }}>{{ .Pre }}{{ .Name }}{{ .Post }}</a>
+        {{ end }}
       </div>
     </div>
   </div>
