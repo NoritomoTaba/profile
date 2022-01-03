@@ -11,3 +11,8 @@ menu:
       url: "/tags/"
     - name: RSS
       url: "/index.xml"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
