@@ -6,7 +6,7 @@ theme: hugo-tania
 menu:
   header:
     - name: About
-      url: "/about"
+      url: "/about/"
     - name: Tags
       url: "/tags/"
     - name: RSS
