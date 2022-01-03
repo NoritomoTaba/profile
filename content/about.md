@@ -13,4 +13,4 @@ cat2koban / ソフトウェアエンジニア / 映画鑑賞
 
 - https://github.com/cat2koban
 - https://twitter.com/cat2koban
-- https://filmarks.com/cat2koban
+- https://filmarks.com/users/cat2koban
