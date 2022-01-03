@@ -14,23 +14,20 @@
 
 <div class="container">
   <section>
-    {{ range $pages.GroupByDate "2006" }}
-    <div class="all-posts">
-        <div class="posts">
-          {{ range .Pages }}
+    <div class="posts">
+      {{ range $pages.GroupByDate "2006" }}
+        {{ range .Pages }}
           <div class="post">
             <a href="{{ .RelPermalink }}">
               <div class="post-row">
                 <time>{{ .Date.Format "2006/01/02" }}</time>
                 <h3>{{ .Title }}</h3>
               </div>
-              <!--<div class="new-post">New!</div>-->
             </a>
           </div>
-          {{ end }}
-        </div>
-    </div>
-    {{ end }}
+        {{ end }}
+      {{ end }}
+      </div>
   </section>
 </div>
 
