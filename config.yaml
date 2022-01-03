@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://cat2koban.dev/
 languageCode: en-us
 title: cat2koban.dev
 theme: hugo-tania
