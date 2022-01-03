@@ -11,12 +11,14 @@
           {{ .Site.Title }}
         </a>
       </div>
-      <div class="flex header-links">
-        {{ range .Site.Menus.header }}
-        <a class="header-link" href="{{ .URL | relURL }}"{{ if eq .URL $.RelPermalink }} aria-current="page"{{ end }}>{{ .Pre }}{{ .Name }}{{ .Post }}</a>
-        {{ end }}
-      </div>
       <button id="dark-mode-button"></button>
+    </div>
+  </div>
+  <div class="container">
+    <div class="header-links">
+      {{ range .Site.Menus.header }}
+      <u><a class="header-link" href="{{ .URL | relURL }}"{{ if eq .URL $.RelPermalink }} aria-current="page"{{ end }}>{{ .Pre }}{{ .Name }}{{ .Post }}</a></u>
+      {{ end }}
     </div>
   </div>
 </nav>
