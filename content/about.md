@@ -2,7 +2,6 @@
 title: "About"
 author: cat2koban
 date: 2021-05-02
-tags: [hugo]
 aliases:
 - /about.html
 ---
