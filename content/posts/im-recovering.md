@@ -1,7 +1,8 @@
 ---
+categories: ["blah"]
 title: "本調子じゃない"
 author: cat2koban
-date: 2021-10-04
+date: 2021-10-04T15:04:05Z
 tags: [work]
 aliases:
 - /articles/im-recovering.html

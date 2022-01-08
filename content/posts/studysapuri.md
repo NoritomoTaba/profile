@@ -1,7 +1,8 @@
 ---
+categories: ["blah"]
 title: "スタディサプリ TOEIC を始めた"
 author: cat2koban
-date: 2021-05-03
+date: 2021-05-03T15:04:05Z
 tags: [english, toeic]
 aliases:
 - /articles/studysapuri.html
