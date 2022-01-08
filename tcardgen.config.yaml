@@ -1,4 +1,4 @@
-template: static/tcards/template_simple.png
+template: static/tcard/template_simple.png
 title:
   start:
     px: 145
