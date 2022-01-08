@@ -3,6 +3,9 @@ languageCode: en-us
 title: cat2koban.dev
 theme: hugo-tania
 
+params:
+  twitterName: cat2koban
+
 menu:
   header:
     - name: About
