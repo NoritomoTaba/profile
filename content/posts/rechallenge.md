@@ -2,7 +2,7 @@
 categories: ["blah"]
 title: "Nuxtjs3 が来るみたい"
 author: cat2koban
-date: 2021-10-03T15:04:05Z
+date: 2021-10-03
 tags: [nuxtjs]
 aliases:
 - /articles/rechallenge.html
