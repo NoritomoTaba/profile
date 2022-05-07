@@ -5,7 +5,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/16x16.png">
 </head>
 
-<img src="cat2koban_icon.png" alt="selfie" width="300px">
+<img src="assets/images/cat2koban_icon.png" alt="selfie" width="300px">
 
 ## Accounts
 - Github: [cat2koban](https://github.com/cat2koban)
