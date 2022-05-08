@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>yapc on cat2koban.dev</title><link>https://cat2koban.dev/tags/yapc/</link><description>Recent content in yapc on cat2koban.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cat2koban.dev/tags/yapc/index.xml" rel="self" type="application/rss+xml"/><item><title>YAPC::Japan::Online 2022 に応募した</title><link>https://cat2koban.dev/posts/2022-01-14/</link><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-14/</guid><description>今日 は Twitter で YAPC のチケット販売のツイートを見かけたので、早速応募した。
+チケットの販売を開始しました🎉https://t.co/ZgrCNnb2bw
+&amp;mdash; yapcjapan (@yapcjapan) January 14, 2022 というかこの shortcode 、デフォで入ってるの知らなかった。とても便利。 このサイトを参考に埋め込んでみたけど、普通にいけたっぽい。
+https://takaken.tokyo/dev/hugo/hugo-embed-code/
+そしてそして 「あれ、今何やってたっけ？」ってよくなる僕にうってつけなアプリを見つけた。インストールしようと思ったが、まだ macOS 12.1 以上にしてないので使えてない。明日アプデしつつ、触ってみようかなと思っている。
+アプリへのリンク（https://apps.apple.com/app/id1604176982）
+アプリの紹介記事（https://applech2.com/archives/20220114-one-thing-for-mac-put-task-in-menu-bar.html）</description></item><item><title>YAPC::Tokyo 2019 に参加してきました</title><link>https://cat2koban.dev/posts/2019-01-28/</link><pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2019-01-28/</guid><description>はじめに
+今回のYAPC::Tokyo 2019 へ参加するにあたり，学生旅費支援制度で交通費等を給付していただいた企業の皆さま，ありがとうございます。
+聴講したトーク
+肩のこらない型の話
+私とOSSとPerl
+YAPC座談会
+Perl5の静的解析入門
+Perlでも分散トレーシングしたい
+ISUCON8予選問題作成の裏側
+多くのCPAN Authorに育てられ，息をするように CPAN モジュールを書けるようになり，そして分かったこと
+印象に残ったトーク
+私とOSSとPerl
+私とOSS活動とPerl from Shunsuke Maeda
+www.slideshare.net
+トークの最後にスピーカーが仰っていた「世界はOSSに優しい」がとても印象にのこった。
+「OSSは意外と近くにある」という言葉にも強い共感を覚えた。僕自身も，CPANから引っ張って来たモジュールを使ったり，VSCodeをつかってコードを書いたり，ネットワークのログを監視する時にSnortを用いたり，Pecoをつかってファイル検索を行ったりと，思い返してみれOSSに囲まれて生活しているな，と感じた。
+CPAN authorになりたくてモジュールを開発(3年目になると称号が欲しくなるらしい)。僕もそろそろPerlを初めて3年になるので，何か称号の一つや二つ欲しいなって思ったりした。
+転職後の勉強会で自分の作ったモジュールを使っている人と遭遇するなどあったらしい。(実際に同じ立場だったらとても嬉しいなと思った...)
+YAPC座談会
+トークを聞いていると，ほとんどJPAの方から話があった様子。
+「どう，YAPCやってみない？」(?)
+沖縄に関しては一度断っている。その点に関しては Okinawa.pm ができてまだ日が浅く，オーガナイザー個々の事情もあったと認識している。
+それでも開催できたのは勢い。Code-Hex「そもそも同級生の子が nekokak さんに 「沖縄でもできたらいいですねぇ(ここは曖昧)」 ていったのがきっかけ！」(笑)
+福岡はやるぞ！の一言がきっかけだったらしい。
+辛かったこと，楽しかったことで，北海道は航空便など欠航が相次ぎ、登壇者や参加者が参加できなくなったことがあったみたい。。 登壇者の方に関しては google hongout で乗り越えたとのこと。
+沖縄は会場までのバスを用意する点や、会場の選定が苦労した。しかしOISTの環境はとても良く，ほぼほぼ即決に近かった。 (バスに関しては初の試みで，乗り遅れた人がいたりと少しわちゃわちゃしていたが，特に滞りなく済んだと認識している。(スタッフの事故もあったが..(無事でした)))
+perl5の静的解析入門
+speakerdeck.com
+Perl5を使った静的解析のノウハウをまとめたような内容だった。この発表ではちょくちょく出て来る言葉が個人的に心に刺さった...
+コードの迷いは思考の迷い
+動的型付け言語でも心に静的型付けコンパイラを持つ
+機械にも人間にも優しいコードはPerlのサブセットになる
+人間には雑念があり，自己を律するのは難しい(哲学...!)
+トークの最後にチラッと見えたFunction::Parameters，Types::Standardが気になった。この2つのモジュールについて少し勘違いしていたが，スピーカーのmackee_wさんにコメントで教えていただいたので，訂正しておきます。
+静的解析の発表をした者です。 Function::ParametersとTypes::Standardは実行時型検査をかける文法を導入するもので、静的型付けをやるのはこれからという感じです / “YAPC::Tokyo 2019…” https://t.co/GOmLP75gio
+— トーカナイザの守護霊 (@mackee_w) January 28, 2019
+動的型付け言語に部分的に静的型付けを導入する方法がPerlにもあるのかと驚愕。懇親会で聞こうと思っていたが話しかけられず断念.</description></item><item><title>YAPC::Fukuoka 2017 HAKATA に参加してきました！</title><link>https://cat2koban.dev/posts/2017-07-07/</link><pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2017-07-07/</guid><description>これはPerl Advent Calender 2017 20日目の記事です。
+広告
+YAPC::Okinawaは現在，カンファレンス参加チケット・トークプロポーザルを絶賛募集中です！
+yapcjapan.org
+この広告は，90日以上更新されていないブログにのみなんちゃらかんちゃr
+はじめに
+普段は南の島の大学の4年生やってます。絶賛卒業研kうっ...頭が..(ノートはここで途切れているようだ...)
+よくバイトや研究をしていて，作業の開始時間と終了時間を簡単に記録できたらいいななんて思うことがありました。
+Terminalで簡単に管理できる作業時間ツールでも作るか，と意気込んでいたその時。
+タイミングよく友人がShell Scriptでそのツールを書いていたので，勉強がてらそれをPerlに書き直すことにしようと決めました(┐「ε:)
+友人の作成した作業時間管理ツールがこちら。
+github.com
+checkは研究時間を記録するために作られました。基本的な使い方は指定したプロジェクトにcheck-in, check-outをするというシンプルな機能です。複数のプロジェクトに対応しているので毎日の活動を記録するのに最適です。check-inした後もバックグラウンドで動いていないのでコンピュータを再起動したりしても問題ありません。
+ふむふむ，すごい(語彙ry..
+Perlへ移行
+僕がPerlで書き直す上で年内に移行したい機能たち
+check man
+使い方を表示してくれる help みたいなもの
+check in &amp;lt;project_name
+作業時間の記録を開始。
+check out
+作業時間の記録を終了。
+今回は序章ということもあり(ｵｲｵｲ...)，項目1. check manまでの移行に関してまで書きます。
+生暖かい目で見守っていただけますと幸いです。
+manオプションの移行
+書き直す前のShell Scriptではこんな感じ
+- 受け取ったオプションを if 文で分岐かけてそれぞれの処理に流す感じ。
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 main() { #$1がないなら終了する check_nonactive $1 #コマンドの実行環境の確認 check_database #$HOME/checkに移動する(( )) cd $dirpath #実行状態の確認 if [ $1 = &amp;#34;in&amp;#34; ] ; then check_in $1 $2 elif [ $1 = &amp;#34;out&amp;#34; ] ; then check_out ~~ 省略 ~~ elif [ $1 = &amp;#34;man&amp;#34; ] ; then check_man fi #元のディレクトリに移動する cd - &amp;gt; /dev/null } main $1 $2 $3 ひとまず，terminal上で check &amp;lt;オプション てな感じでやりたい。
+モジュールを自分で作って使ってみたいなとか考えて，Shell で書かれたものとは違うファイル構成にしました。下図がその構成</description></item><item><title>YAPC::Kansai 2017 Osakaに参加してきました！</title><link>https://cat2koban.dev/posts/2017-03-08/</link><pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2017-03-08/</guid><description>YAPC( Yet Another Perl Conference ) に初めて参加しました！
+I&amp;#39;m at YAPC::Kansai 2017 OSAKA https://t.co/9yvqAGfFkI
+&amp;mdash; たば (@cat2koban) 2017年3月4日
+YAPC::Kansai 2017 Osakaに参加するにあたり, 学生旅費支援制度で交通費等を給付していただいた企業の皆様, 並びにYAPC期間中に宿泊先を提供してくださりました@papixさん, そしてそのご家族の皆様, 大変ありがとうございました. いくつか聴講させていただいたトークの感想
+2017年 春のPerl : @charsbarさん
+www.slideshare.net
+ perl5.24.1が最近出たというのもこのトークで初めて知りました. 正直なところプログラミング言語が今どのような調整がされているか, どのような機能が追加されるのか等, あまり気にしたことがなかった. このトークをきっかけに, 少しでもPerlの現状に目を向け, 今自分が扱っているプログラミング言語の動向をちゃんと知っていこうと思いました. Webアプリケーションのキャッシュ戦略とそのパターン : @moznionさん
+speakerdeck.com
+あまり意識したことのないキャッシュについて, レイヤ別, パターン化についての解説をしてくれていました. 正直まだWebアプリケーションを運用したことがなかったために, トークの内容についていけるか心配でしたが, キャッシュを扱う上でのシチュエーションなども例に挙げて話を進めてくれていたり, ところどころに笑いを挟んだりと, とても聞きやすいトークでした. Mojoliciousで始めるマイクロサービスアーキテクチャ : @masakystさん
+speakerdeck.com
+Okinawa.pmの@masakystさんのトーク！印象に残ったのがJWT(Json Web Token)によるセキュリティ認証について. 以前のperl入学式後の食事会で小耳に挟んだ程度だったのであまり使い所もわからずそのまま放置していた知見の一つでしたが, ここで@masakystさんの解説を聞き, 少しばかり理解したつもり(ry...になりました. トーク最後のokinawa.pmの紹介でyomitan.pmの頃の話などもあり, 生い立ちを知るいい機会でもありました. Perl to Go : @code_hex
+http://go-talks.appspot.com/github.com/Code-Hex/talks/yapc-kansai/main.slide#5
+まさか友人であるKくんこと@CodeHexくんがYAPCでトークをするとは...と思いながら複雑な気持ち?でトークを聴講させていただきました. といっても正直Go言語についてはさっぱりで, 話について行くのは少し大変でした.</description></item></channel></rss>

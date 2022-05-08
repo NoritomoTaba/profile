@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rubymine on cat2koban.dev</title><link>https://cat2koban.dev/tags/rubymine/</link><description>Recent content in rubymine on cat2koban.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cat2koban.dev/tags/rubymine/index.xml" rel="self" type="application/rss+xml"/><item><title>RubyMine で開いた Terminal で fish shell のパスがうまく動作していない</title><link>https://cat2koban.dev/posts/2020-05-05/</link><pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-05-05/</guid><description>TL;DR
+1 2 3 4 5 6 7 8 &amp;gt; ~/ $ cd /Applications/RubyMine.app/Contents/plugins/terminal &amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal $ mv fish/ fish.back/ &amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal $ ln -s ~/.config/fish . 経緯
+RubyMine のみで開発を行おうと奮闘している最中、 Terminal tab を開き、bundle exec rails ... とコマンドを入力すると bundlerが無いみたいですね。 gem install bundler してください。 と言われてしまうことがありました。
+いつも iTerm からコマンドを入力すると実行できていたけどなぁ...と不思議に思い、実際に開いて入力してみると、正常にコマンドが実行される…… :thinking:
+なるほど分からん。となったので、ひとまず、 rubymine fish-shell [検索] として調べてみることに。すると以下の記事が。
+blog.corocn.jp
+一通り読んでみると、この記事の著者は Intellij Ulitimate を使用している際に、同様の現象に遭遇した様子。
+解決方法
+IntelliJのapp内にもconfig.fishがあってそっちを読んでるのが問題っぽい。 stackoverflow見るとfunctionsの読み込み処理追加しろよ〜っ&amp;hellip;
+Intellij が Terminal tab を開くときに読み込んでいる shell の設定ファイルは、/Applications/RubyMine.</description></item></channel></rss>

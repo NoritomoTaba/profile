@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rails on cat2koban.dev</title><link>https://cat2koban.dev/tags/rails/</link><description>Recent content in rails on cat2koban.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cat2koban.dev/tags/rails/index.xml" rel="self" type="application/rss+xml"/><item><title>会社で出た ActiveRecord の Nested transactions のクイズが解けなかた</title><link>https://cat2koban.dev/posts/2022-01-26/</link><pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-26/</guid><description>どの ユーザーが作られる？っていう問題。会社で出たんだけど、解けなくて死んだ。
+1 2 3 4 5 6 7 User.transaction do User.create(username: &amp;#39;Kotori&amp;#39;) User.transaction do User.create(username: &amp;#39;Nemu&amp;#39;) raise ActiveRecord::Rollback end end
+Q. どのユーザーが作られる？
+kotori kotori と Nemu どちらも作られない 答えはこちら ▼ https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html</description></item><item><title>Macbook で動かしている Rails アプリを IE11 で確認する</title><link>https://cat2koban.dev/posts/2020-06-07/</link><pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-06-07/</guid><description>環境
+OS: macOS Catalina 10.15.5
+CPU: 2.4GHz 8-Core Intel Core i5
+メモリ: 8GB
+HDD: 512GB
+VirtualBox: 6.1.8
+windows 環境 (VM) の用意
+VirtualBox でも Vagrant でも好きな方を選んで Microsoft の公式ページ から、仮想マシンを立ち上げるためのイメージファイルをダウンロードします。
+リンク先の公式ページに行くと、以下の画像のようなボタンがいっぱい表示されていると思います。
+今回は VirutalBox のケースで考えようと思うので、 [VirtualBox ] のボタンを押します。すると MSEdge - Win10.zip なるもののダウンロードが開始されるはずです。
+ダウンロードは結構時間がかかります。なのでゆっくりお茶でも飲んで、積み本していた技術書などを消化するなどして時間を潰しましょう。
+終わるまで大体3時間ちょっと程かかった記憶...とはいえ、ダウンロードが終わったら設定は楽なのですぐに環境を用意できると思います。
+ダウンロードが終わったら解凍して、一旦中身を確認しましょう。画像のように、MSEdge - Win10.ovf と、MSEdge - Win10-disk001.vmdk の二つのファイルがあれば良いです。
+次に[File Import Appliance] から、解凍したファイルの中にある MSEdge - Win10.ovf を選択します。
+そのまま [continue] を押せば、あとは VirtualBox が勝手に VM を作ってくれます。以下の画像のように、Win10 環境が作成された様子がメニューから確認できれば、一通り終わりです。</description></item></channel></rss>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on cat2koban.dev</title><link>https://cat2koban.dev/posts/</link><description>Recent content in Posts on cat2koban.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cat2koban.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>手が冷たくてタイピングし辛い</title><link>https://cat2koban.dev/posts/2022-03-06/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-03-06/</guid><description>最近 寒いからか、タイピングがし辛い。手が固まってしまう。 冬は色々とモチベを奪われるなと、この歳になって気づいたかもしれない。
+textlint ってやつが気になってる。このブログで使ってみようかしら。</description></item><item><title>学びがななない</title><link>https://cat2koban.dev/posts/2022-02-28/</link><pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-28/</guid><description>今日 も学びは何もない。duolingo をやったくらいだ。
+仕事 のやり方が本当にダメなんだろうな、ここ最近の生産性がよろしくない。明日は自分の仕事のやり方を振り返ってみても良いかもしれない。まぁやらないだろう。
+そもそも時間の使い方に関して振り返りたいって気持ちはずっとあるのに、計測が続かないな。切り忘れとか防ぐくらいなら、やっぱり自動でアプリごとに計測してもらうしかないものか、、、、
+そういえば Hackaru に乗り換えてからやらなくなったタスクベース計測の ToDoist / Toggl の体験は良かった思い出。まぁあれに戻してみても良いかもしれないな。タスクベース、っていう言い方が合ってるかわからないけど。</description></item><item><title>色々と事切れていた</title><link>https://cat2koban.dev/posts/2022-02-27/</link><pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-27/</guid><description>最近 はダメダメモードが加速していて、仕事もプライベートの勉学も何もうまくいかない毎日だった。結局残業を言い訳に AWS 認定試験プラウドプラクティショナーはキャンセルして受験を辞退してしまった。
+duoling に関してもかなり続いていたのにやめてしまった。
+この日記に関してもそう。ふと更新をやめてしまった。
+やる気がなかった 原因は本業が多忙なのもそうだけど、暗いニュースばかりでメンタルもしんどくなっていた。
+大学の頃少し仲の良かった人の訃報をインスタで知ったのがきっかけで去年の研究室のボスの訃報を思い出したり。戦争の話題とか聞いててもうあれやこれやとしんどい気持ち。
+とはいえ このままだと自堕落人間サイコショッカーになりかねないので、少しずつ前の意識高かった猫に戻していこうと思う。</description></item><item><title>ドラム式洗濯機</title><link>https://cat2koban.dev/posts/2022-02-14/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-14/</guid><description>今日 と言うか昨日というか、買おうとしていたドラム式洗濯機の寸法が今の家だと入らないことに気づいて落ち込んでいた。
+チームのメンバーに聞いたお得な情報、かなり助かった。が、寸法が、、、悔しい。。。
+次はキッチンが今より広くて食洗機もおけて、脱衣所が広くてドラム式洗濯機が置けるようなペット可能物件の3LDKあたりに3万とかで住みたい。</description></item><item><title>2日空いちゃった</title><link>https://cat2koban.dev/posts/2022-02-12/</link><pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-12/</guid><description>題目 の通り。この日記、2/10 と 2/11 サボってしまった。言い訳をすると、仕事が忙しかった。
+仕事が忙しくても朝の 5時 に rails の commit を毎日チェックする人もいるわけだが、僕の場合は忙しいと習慣づいてたものがストップしてしまうらしい。
+Rails ガイド の読み会を同期と週2くらいの頻度でやっている。所々 rails のコードを見にいって、ガイドに書かれてることがどうやって実装されてるかみることもある。が、大抵時間かけた割には沼にハマって「わからん」ってことにして、また後で調べよう、となる。とはいえこれのおかげで ruby のどう処理されるのか分からない書き方が何かわかるし、それがわかるとまた一つ rails/rails のコードの読み方がわかるはず。そうやってゆっくりでも「わからん」としていたポイントを抑えていけば、いつかは rails/rails のコードが全部理解できるようになるはず。そうすればきっと無敵よね。</description></item><item><title>しんどい気持ちになってしまった</title><link>https://cat2koban.dev/posts/2022-02-09/</link><pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-09/</guid><description>今日 は遅くまで仕事して疲れた。仕事のノリはいいので、多分明日も頑張れるだけ頑張ると思う。
+しんどい 気持ちになってしまった。今日は特にしんどい。日記書いてる今でもしんどい。しんどいと言うか、イライラしている。勿体無いなこの時間。もう忘れよう。関わらないようにすればまたこうやってイライラすることも減るだろうし、分別つけていこう。</description></item><item><title>S3</title><link>https://cat2koban.dev/posts/2022-02-08/</link><pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-08/</guid><description>S3 にこのブログを載せたい。
+hugo でビルドした結果をそのまま置けばいいのかな。ドメインとかどうなるんだろうか。github pages じゃなくなるので、リポジトリに CNAME ファイルを置くように、別で S3 側で設定が必要になるのかな。
+まぁ問題を解きまくるウィークが終わったら、ゆっくりやってみよ、、、</description></item><item><title>ボロボロだった</title><link>https://cat2koban.dev/posts/2022-02-07/</link><pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-07/</guid><description>いや AWS 認定クラウドプラクティショナーの問題集を解いてたんだけどダメダメのダメ過ぎた。これまたびっくり。これは今週金曜が祝日っていうのにかなり救われるかもしれない。。。
+ザ・スイッチ が面白かった。
+入れ替わった状態のキャスリン・ニュートンがもう良過ぎた。出演作調べてみるとパラノーマルアクティビティの4とかに出てたみたい。4自体は昔に見たんだけど、キャスリン・ニュートンが出てたかどうかの記憶がない。予告見ても思い出せない（顔違いすぎ）。
+ヴィンス・ヴォーンの乙女演技は最高です。その状態で Google に行って欲しい。</description></item><item><title>資格対策本はとりあえず読んだ</title><link>https://cat2koban.dev/posts/2022-02-06/</link><pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-06/</guid><description>今日 は昼過ぎに起きた。まぁ昨日特大夜更かしかましたからな。しゃーない。
+とは言っても、AWS 認定クラウドプラクティショナーの参考書は読了。偉いです。結局問題集的なのは解けてないので、明日以降毎日少しずつ解いていこうかと。</description></item><item><title>また夜更かししてる</title><link>https://cat2koban.dev/posts/2022-02-05/</link><pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-05/</guid><description>最近 すごい夜更かししていることに気づいた。控えめに言って大事件。
+ということを書いてる今も夜更かししている。やばい。
+夜更かし の何がダメって肌荒れと生活習慣が乱れることがもうダメ。じゃあなんでそこまで夜更かししてるのか。
+ゲーム のし過ぎ。はい、もうこれに尽きる。あーー。。。
+試験近いんじゃないの？っていうツッコミ、正しい。。。。
+うう明日から頑張る、、、、、、、</description></item><item><title>漫画を読む</title><link>https://cat2koban.dev/posts/2022-02-13/</link><pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-13/</guid><description>九条の大罪 って言う漫画が面白い。ウシジマくん書いてた人の新しい漫画。アングラものの漫画が好きになったの、この人の作品読んでからかも。
+最近読みたい漫画が増えてきた。超人Xとか読みたい。ダーウィン事変あたりも読みたい。今月はもう九条の大罪を4冊大人買い()してしまったから買っては読めないな。。。あー GANTZ E も早く続きが見たい。メイドインアビスも。欲って尽きない。
+読み返さないだろうなーって漫画はよくある一日チケット4枚で一話ずつ見れます！なアプリで読んでいる。結局続きが気になって課金することも多いけど。意外にマンガ Bang には課金をしている気がする。
+そして また duolingo をサボってしまった。今年に入ってから 2回目だ。まー最近こう言うモチベが落ちてきてるのはわかっていたが、どうしようか。うん、とりあえず寝て考える。</description></item><item><title>溜め込んでいた記事の消化</title><link>https://cat2koban.dev/posts/2022-02-04/</link><pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-04/</guid><description>やばい〜 AWS クラウドプラクティショナー がもうあと3週間に迫った。どうしようか、、2/21 に受験なので大体のスケジュールはこう
+~ 2/7
+AWS 認定クラウドプラクティショナーの本を読み終える 模試を受ける https://www.udemy.com/course/ok-aws-e/ ~ 2/14
+模試を受ける https://www.udemy.com/course/ok-aws-e/ ~ 2/20
+模試を受ける https://www.udemy.com/course/ok-aws-e/
+っていう予定で進めていたけど、まだ本を読み終えられてない&amp;hellip;..ので、土曜でえいやと読み終えてしまいたい。今日はというと、、、溜まっていた記事を読み漁っていてもう目がしんどいのなんの。という言い訳。はい。
+ちなみに記事を貯めるのは携帯やらPCからストックするまでの体験が個人的に楽で良いの Pocket を使っている。
+https://getpocket.com/en/about/
+一応溜め込んでいた記事を下に羅列するだけ羅列しておこう。。
+https://note.com/morita_masami/n/nf4dd849ca89c
+https://qiita.com/tearoom6/items/0237080aaf2ad46b1963?utm_source=pocket_mylist
+https://kray.jp/blog/git-pull-rebase/
+https://panda-program.com/posts/from-gatsby-to-nextjs
+https://mtx2s.hatenablog.com/entry/2021/12/21/084227?utm_source=pocket_mylist</description></item><item><title>仕組み化する方がいいと頭では分かっていても</title><link>https://cat2koban.dev/posts/2022-02-03/</link><pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-03/</guid><description>今日 は中途半端な仕事をしてしまったと反省の一日。まぁ大丈夫だろうという安直な考えによって、今日やろうとしていたことが今日できないと発覚し、他チームのメンバーに依頼していた作業を中止してもらうという、、、
+よし！次からは「何かを判断するときにしっかり確認するように意識する！」だと結局何も変わらないんだよな。そこで仕組み化ですよ！と良く言われる。まぁ仕組み化で改善するにはどうすればいいんだろうと頭を使わないからいつまで経っても何も変わらないんだろうな。
+チェックリストなんていい例な気がするな。PR ではこのチェックリストを毎回確認しましょう！とか、よくチームの中でルール形成されがちだと思う。けど本当にそれって守られるの？
+守られないに、200ペソ。</description></item><item><title>睡眠時間</title><link>https://cat2koban.dev/posts/2022-02-02/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-02/</guid><description>睡眠時間 が今日はとてもダメな日でした。なので今日は早く寝ようと思います（現在00:37）</description></item><item><title>試験まで3週間</title><link>https://cat2koban.dev/posts/2022-02-01/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-01/</guid><description>今日 もまた勉強をサボってしまった。どっかでスイッチを切り替えないといかんな、、、、
+まぁ朝に rails の勉強会を同期と少しだけしたので、及第点といったところか。
+AWS クラウドプラクティショナー がもうあと3週間に迫った。どうしようか、、2/21 に受験なので大体のスケジュールはこう
+~ 2/7
+AWS 認定クラウドプラクティショナーの本を読み終える 模試を受ける https://www.udemy.com/course/ok-aws-e/ ~ 2/14
+模試を受ける https://www.udemy.com/course/ok-aws-e/ ~ 2/20
+模試を受ける https://www.udemy.com/course/ok-aws-e/</description></item><item><title>英語英語英語</title><link>https://cat2koban.dev/posts/2022-01-31/</link><pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-31/</guid><description>今日 もトピックがない。大体そういう時は何も勉強をしてなかったり、ぼーっと一日を過ごしているケースが多い。
+モチベーション が低くなりつつある。やばい。これは良くない。明日の朝の勉強会で復活させなければ。今日一日でありえないくらい急降下した気がするので、上げる。。。</description></item><item><title>30日この日記を続けてみて</title><link>https://cat2koban.dev/posts/2022-01-30/</link><pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-30/</guid><description>どうなの？ 結局 Twitter に書くようなことしか書いてなくて、あんまり身になってる気はしない。AWSの勉強したところで、ここに復習がてら勉強した内容を書いていく、みたいなのもやってないしね。
+文章書くの慣れたか？って言われると少し慣れてきた、とは言えるかも。あ、それなら身にはなってるのか。やるやん。
+今日 は rails ガイドを読む会を会社の同期とやった。active_support/core_ext/ 配下のコア拡張機能について読んだね。
+:instance_accessor を false に設定すると、モデルの属性設定時にマスアサインメントを防止するのに便利です。
+と言う日本語が一生理解できなかった。次こそ倒したい。</description></item><item><title>何もない</title><link>https://cat2koban.dev/posts/2022-01-29/</link><pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-29/</guid><description>今日 はもう何もない。と言って終わろうとしました。でも実は少しだけあります。
+部屋 を掃除しました。はい。あとジムに行ったり。そんな土曜日。</description></item><item><title>早起き早上がり早足の一日</title><link>https://cat2koban.dev/posts/2022-01-28/</link><pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-28/</guid><description>今日 は早起きして会社に行って早めに退勤したりした。眠いです。なんだかんだ、昨日23時前くらいまで起きてる記憶があって、起きたの5時ぴったりだったから、6時間しか寝れていない。多分。夕方キツかったなぁ。
+とは言えシャワー浴びたら復活した。まぁ今はもうしんどいけど。
+久しぶりに 東京の街を歩いた。人が沢山いた。
+自然と足早になるよね。
+あと gorillavim に参加した。
+:h starting を読み進めた。内容はここに書かれてるのと一緒なのかな https://vim-jp.org/vimdoc-ja/starting.html まぁ読み進めたというか、開催者の方が読んでいるのを画面で見ていた。
+とても良い雰囲気だった。ゆるゆると読みつつ、適宜コメントを拾っていく感じ。コメントにたまに学びがあってそれも良い。また参加したい。
+使ってみようかなって思ったオプションとかあったけど、詳しいことは明日調べる。今日はもう寝る。</description></item><item><title>明日は5時起きです</title><link>https://cat2koban.dev/posts/2022-01-27/</link><pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-27/</guid><description>明日 は訳あって出社することになったので、5時に起きて6時の人がいないであろう電車に乗り、早い時間に帰る予定です。20時から勉強会もあるしね。
+参加予定の勉強会はこれ。面白そうだなと。
+https://gorillavim.connpass.com/event/236945/
+なので 今日は超絶早く寝ます。なんと21時に寝ます。もう32分くらい過ぎてます。なので切り上げて寝ます。はい。</description></item><item><title>会社で出た ActiveRecord の Nested transactions のクイズが解けなかた</title><link>https://cat2koban.dev/posts/2022-01-26/</link><pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-26/</guid><description>どの ユーザーが作られる？っていう問題。会社で出たんだけど、解けなくて死んだ。
+1 2 3 4 5 6 7 User.transaction do User.create(username: &amp;#39;Kotori&amp;#39;) User.transaction do User.create(username: &amp;#39;Nemu&amp;#39;) raise ActiveRecord::Rollback end end
+Q. どのユーザーが作られる？
+kotori kotori と Nemu どちらも作られない 答えはこちら ▼ https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html</description></item><item><title>資格対策本の5章を読んだ</title><link>https://cat2koban.dev/posts/2022-01-25/</link><pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-25/</guid><description>今日 は昨日の復習と5章を読んだ。長い。5章長い。仕事で疲れてるだろうからと、半分だけ読んで寝るつもりだったのに。結局一気に全部読んでしまった。まぁ会社の研修でやったような内容もあったし、そもそも難しいこと書いてなかったのもあって、一気に読めたではある。。ていうか疲れてないのか俺？って感じ。
+EC2やらAuto ScalingとかELBとかLambdaの説明が延々と書かれてた。ちょくちょく Code Pipeline の話も出てた。以上です。所感、以上です。
+加湿器買った んですよ、実は。想像していたよりも大きくて笑ったけど、まぁベットの横とか、頭上に置いて使うとかそう言う想定はしてないので、シンプルに地べたに直置きして使っている。さくらチェッカーで高評価だったのと、youtube でいいレビューがあったのでこれを買った。もうさくらチェッカーの犬です、はい。
+https://www.amazon.co.jp/dp/B08H5MJRCB
+さくらチェッカーのリンクはこれ。
+https://sakura-checker.jp/search/B08H5MJRCB/
+ちなみに youtube のレビューはこれ。
+一緒にレビューされてたこの加湿器用の除菌剤も買ってみた。もう言われるがまま。
+https://www.amazon.co.jp/dp/B08H5MJRCB
+明日の朝がとても楽しみ。</description></item><item><title>資格対策本の3~4章を読んだ</title><link>https://cat2koban.dev/posts/2022-01-24/</link><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-24/</guid><description>今日 はクラウドプラクティショナーの参考書の 3~4 章を読んだ。前に話したやつの続きだね。結構日が空いたみたい。
+https://cat2koban.dev/posts/2022-01-20/
+ていうか本のリンク貼ってなかったのか、これです。
+https://www.amazon.co.jp/dp/4797397403
+アベイラビリティゾーンとか、リージョンあたりを読んで、会社で受けた研修の内容とほとんど同じだなぁと思いつつ、復習のノリで読み進めた。いやいや、第三者認証の話とかは初耳だったかも。
+読んでみるとちゃんと IAM が何か理解してないことに気づけた。ルートアカウントが何かも分かってなかったよな。で、結局 IAM って何？
+試験の日 は、来月の21日月曜日の14時。有給取ったった。</description></item><item><title>直近観た映画5本について</title><link>https://cat2koban.dev/posts/2022-01-23/</link><pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-23/</guid><description>ワイルド・スピード／ジェットブレイク 僕の気持ちを代弁してくれている動画のタイトルを見つけたのでそれを貼る。終わり。 浅草キッド 特殊メイクのビートたけしがグロかったのと、柳楽優弥の演技が最高だった。
+ホラーマニア vs 5人のシリアルキラー スーパーナチュラルの、死を司る騎士ことジュリアン・リッチングス。マジでかっこいいので大好きなんだよね。その彼を見るためだけに観たって感じ。
+と言うのは嘘。出てくるの知らなかったから、出てきてかなりびっくりした。
+イカれたメンバーを紹介するぜ！的なシリアルキラーの紹介シーンがあるんだけど、この映画はそのシーンがピーク。それ以外は10倍速くらいで見てもいいかも。どことなく全体の雰囲気はスコットピルグリム vs 邪悪な元カレ軍団みが強かった。脳死で見れる良いコメディ。
+ザ・スーサイドスクワッド　&amp;ldquo;極&amp;quot;悪党、集結 まぁぶっちゃけあんまり興味湧かず、TSUTAYA とかで準新作7泊8日くらいのタイミングになったら借りようかな、程度の気持ちだった。ちらほら流れてくるレビューが全部好評だったので結局レンタルになってすぐ借りた。
+もうね、ヒトデがキモかった。あとハーレイクインがたくさん出てたのはよかった。そしてどうでもいいことに、ピーター・カパルディがプリーチャーに出てたピップ・トレンスにめっちゃ似てた。
+misirlou のイントロっぽい曲が流れ出したあたりから、クエンティンタランティーノが好きなのかなーこの監督は、とか適当なこと考えながら観てた。面白かった。
+misirlou ってのはこれなんだけど、多分みんな聞いたことあるはず。 マリグナント　狂暴な悪夢 なんか公開当初から「新体験！」「新しい形のホラー！」みたいに言われてたのを覚えてて、結構興味津々だった。もう待ちきれなかったね。とはいえ一緒に行ってくれるような人なんていないので、レンタルになるまで待った。このご時世ってこともあるし、まぁしゃーないね。
+ちらほら見えたレビューで言われてた通り、終盤の方が印象に残った。というか、終盤でこの映画の核心をつく事に気づいた。多分俺しか気づいた人いないと思う。結論から言うと、それは、この映画が実写版ジョジョの奇妙な冒険だったってこと。まぁ急に何を言ってるのかわからないと思う人も沢山いると思う。分かる。この映画の最後を見て俺もそう思った。はい、第三部、完。みたいな終わり方。いやもう本当にびっくりした。空条承太郎もでてきてたので、間違い無いです。これはジョジョです。気になる人は是非観てみて、俺と同じ気持ちを味わってほしい。</description></item><item><title>いつからか絵を描かなくなった</title><link>https://cat2koban.dev/posts/2022-01-22/</link><pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-22/</guid><description>今日 は、っていう入り、なんか飽きた。というか、それ以外の話をしたい時にわざわざ今日の出来事言うのしんどいなって。あれ、これ日記か。
+気がついたら あんなに大好きだったお絵かき、今となっては全然やってない。中学校くらいまで、ほぼ毎日絵を描いてた。描く頻度が下がったの、高校に入ってからかな〜。ダンスとか、映画とかに時間を使うようになって。あ、映画は大学からやけに見始じめたっけか。高校はほぼダンスとか、勉強に時間を使ってたかも。まぁ大学入ってからは夜に遊ぶ楽しさも分かってきて、一層家に引きこもって絵なんか描かなくなってた。
+描きたいのかって言われると、液タブがあれば、って感じだな。1万くらいで、macbook pro くらいの大きさの液タブが買える世界線になれば、すぐさま絵描きに戻るだろう。
+て言うか、案外安い。セール中なら2万きるっぽい。へー。。
+https://www.amazon.co.jp/dp/B08P1W1CH1
+どうでも良いけど 最近すえひろがりずって人たち見なくない？</description></item><item><title>言語化できる人に尊敬の念を抱いている</title><link>https://cat2koban.dev/posts/2022-01-21/</link><pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-21/</guid><description>今日 は面白いラジオを見つけた。これです。
+https://open.spotify.com/episode/089qcoeL08T0chYxLUbGO1?si=EH8y_ZM8SBam1SJ4tDLTDQ
+蛙亭のトノサマラジオ。
+まだ2回目までしか聞いてないけど。
+音楽とか 映画とか、具体的にここが面白い・ここが良い・ここが好き、って言語化できる人、本当に、心の底から、すごいな〜と思う。本当に。雰囲気で生きてる雰囲気人間なので、なんで好きなの？って言われても、好きだからとしか言えない。まぁシンプルにボキャ貧かもしれないな。そうです、ボキャ貧です。好きだから好きでダメなの？って言われるけど、まぁダメってわけじゃないんだよなぁ。こう、羨ましいというか。
+一時期 filmarks とかを使って、頑張って言語化しようとしていたが、いつからかウケを狙うようなレビューに変貌してしまった。多分そっち路線で書いてたら楽しくなっちゃったんだろうな。俺が。
+でもこうやって日記を書き続けることによって、他の人が読みやすいと思える文章を書けるようになったり、自分の思ったままの気持ちをうまいこと言語化して人にわかりやすく伝えられるようになるかもしれない。
+まぁ分からん。ウケを狙う日記になっていくかもしらん。若干カイジネタ挟んでたし、もうなってるかもしらん。
+最後に この映画、めちゃくちゃ観たい
+『哭悲』人を発狂させる凶悪ウイルスが広まり、街中で大殺戮が繰り広げられる！！台湾が放つ超ド級残酷バイオレンスホラー！これマジで観たいやつです。本当に期待してる。予告も貼るけど引くぐらいグロいので要注意！！https://t.co/V9uOASjMWS pic.twitter.com/HONFtUeRbw
+&amp;mdash; 人間食べ食べカエル (@TABECHAUYO) January 21, 2022</description></item><item><title>気づけば20日</title><link>https://cat2koban.dev/posts/2022-01-20/</link><pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-20/</guid><description>今日 はびっくり 1月20日 ですよ。早い。もう1ヶ月が終わろうとしている。早い、、、 この日記もいつの間にか 20日続いてるのか。まぁ自分にしては長い方な気がする。 その日で書けてないことが多いけど
+AWS 認定クラウドプラクティショナー の参考書、今日は 2章 まで読めた。クラウドとは何か、とか、クラウドアーキテクチャの設計概念についてさらっと書かれてた。AWS Well-Architected って言う単語を覚えた。多分明日には忘れている。アーキテクチャのベストプラクティスらしい。リンクが本に書かれていたけど、アクセスしてみると deprecated だった。残念。代わりにタイトルの方に最新のドキュメントのリンクが書かれてたので、一応ここにもメモしておこう。
+https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/wellarchitected-framework.pdf#welcome
+まぁ、読むかはわからない。</description></item><item><title>本も読めてなければ映画も観れてない</title><link>https://cat2koban.dev/posts/2022-01-19/</link><pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-19/</guid><description>今日 こそは、AWS 認定クラウドプラクティショナーを読む、マイリストに溜まっている映画を観る、なんて考えていた。でも読めてない、観れてない。一体何日同じことを繰り返すのか。
+どっかで有給でも使って、映画観るだけの日、AWS 認定クラウドプラクティショナーとか、自分のやりたい勉強に時間を当てる日、みたいなのあってもいいかもなぁ。</description></item><item><title>転職サービスの会社の人と話した</title><link>https://cat2koban.dev/posts/2022-01-18/</link><pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-18/</guid><description>今日 は 18:30 から一時間くらい転職サービスの人と面談をしていた。まぁ転職の意図はないけど、興味があったので、2、3年後のキャリアを考える参考になればと思い、お願いしてみた。終始転職どうですか？もっと早めに考えてみてもいいんじゃないですか？たばくんにぴったりの求人、ありますよ？とか言われるのかなって個人的に思ってたけど、全然そんなことなかった。丁寧にスライドを画面に共有してくれて、主にエンジニアの転職市場の動向やら、バックエンドエンジニアのキャリア形成事例などについて細かく説明してくれた。スライドの説明をしてくれた人と、もう一人、補足説明してくれたり、自分に質問してきたりするような人がいたんだけど、どちらも非エンジニア？っぽかった。まぁ補足説明してくれたり、質問してきた人はちょっと用語がわかる素振りがあったので、おそらく経験していたのかなぁとか思ったり。まぁ現役が来ないよなぁ流石に。
+あ、やべこのままだと明日早起きできない（書いてる今 00:14）
+終わり。(唐突)</description></item><item><title>フフ…へただなあ、catくん。へたっぴさ……!提案の仕方がへた……。</title><link>https://cat2koban.dev/posts/2022-01-17/</link><pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-17/</guid><description>今日 は8時30分ちょうどからもくもく会の予定なのに、8時30分に起きてしまうという大失態。うう、、、、早く寝なきゃだよな。朝早く起きるには。明日も明日で9時から朝の勉強会だし、この日記を書いている今でも本当は眠ってなきゃいけない。まぁなので夜更かしはできませんね。勉強会の前にジムに行けたらもっと最高だが、どうだろう。
+マクドナルド を夕飯に食べたのだけれども、ポテト L サイズを頼むより、ナゲットを頼んだ方が腹八分で収まるというどうでもいいことを知れた。多分この S サイズしか注文できない期間中はずっとナゲット頼むと思う。多分。
+提案するのが下手 ここ最近の自分の仕事の仕方を見てると、人に何かの改善策を提案するのが下手だなって思った。
+もう少し考えればわかることが考慮できてない シンプルにまとまりのない日本語 あたり。まぁなんていうか他にもありそうだけど。 仕組み化してしまいたいが、こういう提案ものは、提案RCE なるものを用意したらいいのかな。逆に自分がどんな提案をされたら乗り気になりやすいか、納得がいきやすいか、とか、逆の立場になって考えてみる方が良いのかな。
+まぁ明日調べてみようかね。
+関係ないけど 提案を受けて、何か意見を言う際に、「真っ向からあなたの意見を否定するつもりはない」と言うニュアンスの一言があるだけで、あまり嫌な気持ちにならないなと思った。いいね。</description></item><item><title>来週はサファイアリーグから上のリーグに上がるぞ</title><link>https://cat2koban.dev/posts/2022-01-16/</link><pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-16/</guid><description>今日 は11時前くらいに起きて自室の布団を洗濯して、待ち時間に延々と duolingo をしていた。昇格は出来なさそうだが、まぁ維持で良いか。来週はサファイアリーグから上のリーグに行きたい。というかこの日記もそうだけど、duolingo も続いていて嬉しい。この調子で一年続けられるといいな。（ジムも）
+昼ごはん食べた後に久しぶりにエニタイムに行ったけど、40分近く有酸素運動して帰ってしまった。
+あとは映画を見ていた気がする。ホラーマニアと5人のシリアルキラー。実は先にザ・スーサイドスクワッドをレンタルしていたけど、間違って後からこいつをレンタルしちゃって、謎に先に見てしまった。たまにはこういうコメディチックなホラーも悪かないな。
+https://filmarks.com/movies/97880/reviews/126317211</description></item><item><title>いざ朝型と言っていたあの頃の僕へ</title><link>https://cat2koban.dev/posts/2022-01-15/</link><pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-15/</guid><description>今日 はなんと、昨日の夜更かしのせいで11時くらいに起きてしまった。いざ朝型と意気込んでいたあの頃の私はどこに行ったものか。。。まぁ起きてからグータラ、というよりは、昼頃に届いたダイニングテーブル、とセットになってた椅子4脚、と自分の部屋用のシェルフ、とサイドテーブルの組み立てをやっていた。
+ダイニングテーブルはニトリのこれを購入。
+https://www.nitori-net.jp/ec/product/5620875-5620872s/?rc=set
+サイドテーブルもニトリで、これを購入。
+https://www.nitori-net.jp/ec/product/8760899s/
+シェルフは amazon でこれを購入。
+https://www.amazon.co.jp/dp/B07GBNHT8H/
+どれも買って初日だけど、満足です。
+ふと 思ったけど、何かものを買った時の「これ買ったよ〜」っていう共有コメントのために、iframe とかでリンクテキストだけじゃなく、物の画像が見えるような装飾をしておくのもありかも。というかシンプルに OGP 用意してくれてるサイトならそれを使いたい。手が空いたら shortcode 作っておいても良いね</description></item><item><title>YAPC::Japan::Online 2022 に応募した</title><link>https://cat2koban.dev/posts/2022-01-14/</link><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-14/</guid><description>今日 は Twitter で YAPC のチケット販売のツイートを見かけたので、早速応募した。
+チケットの販売を開始しました🎉https://t.co/ZgrCNnb2bw
+&amp;mdash; yapcjapan (@yapcjapan) January 14, 2022 というかこの shortcode 、デフォで入ってるの知らなかった。とても便利。 このサイトを参考に埋め込んでみたけど、普通にいけたっぽい。
+https://takaken.tokyo/dev/hugo/hugo-embed-code/
+そしてそして 「あれ、今何やってたっけ？」ってよくなる僕にうってつけなアプリを見つけた。インストールしようと思ったが、まだ macOS 12.1 以上にしてないので使えてない。明日アプデしつつ、触ってみようかなと思っている。
+アプリへのリンク（https://apps.apple.com/app/id1604176982）
+アプリの紹介記事（https://applech2.com/archives/20220114-one-thing-for-mac-put-task-in-menu-bar.html）</description></item><item><title>元気でやってると伝えたい</title><link>https://cat2koban.dev/posts/2022-01-13/</link><pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-13/</guid><description>今日 は久しぶりに元研究室の同期と会話をした。ゲームを通じて。元気そうでよかった。会社がフルリモートOK らしく、引っ越すそう。車も買ったとのことで、なんとホンダ フリード。羨ましい。
+インスタの話をしたり、今どんな仕事をやってるのかの話だったり、亡くなった元担当教諭の実家に挨拶に行きたいねという話をしたり。転職意欲のことを聞いたが、全くないらしい。残念だ。いや、良いことか。
+研究室のメンバーで早く焼肉に行きたい。先輩も後輩も集めて。コロナが落ち着いたら、絶対誘うと決めている。計画すると決めている。まぁ先に先生に挨拶に行きたいな。元気でやってると伝えたい。</description></item><item><title>個人的に8時起きまでは「早起き」</title><link>https://cat2koban.dev/posts/2022-01-12/</link><pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-12/</guid><description>今日 は結局9時過ぎに起きた。これは早起きと言い難い、、個人的に。せめて8時だ。8時こそ、早起きのラインではないだろうか。まぁどっちでもいいな。
+というか今日一日を通して大問題だったのはかなり仕事に集中できなかったことだ。睡眠はしっかり取っていたので眠気が原因という訳でもないはず。
+一先ず、明日ポモドーロテクニックを復活させよう、4、５日ぶりに。</description></item><item><title>いざ朝型</title><link>https://cat2koban.dev/posts/2022-01-11/</link><pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-11/</guid><description>今日 は 6:30 に起きて午後まで用事を済ませていた。そっから仕事。
+仮眠取ったけど今もとても眠たい。生活習慣が壊れて夜型になってしまっていたので、今日を機に朝型に変更できそうだ。
+面白い記事 当社の QA エンジニアのメンバーが書いた記事がとても良い。というか刺さるものがありすぎてつらい。みんなもぜひ読んでみてほしい。
+https://note.com/morita_masami/n/nce741735a5cf</description></item><item><title>U-NEXT カクカクするんだけどどうして？</title><link>https://cat2koban.dev/posts/2022-01-10/</link><pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-10/</guid><description>今日 は午前中に散髪に行ったり、 UNEXT でワイルドスピードの新しいやつ見てた。カクつきが酷くてびっくり。なんというか急に FPS が 30 くらいの世界線に来たようなイメージ。所々フレームがカクつく。んーーーその様子を動画に撮って共有したいけどできないのでやらないが。ちなみに死霊の盆踊りの時は一切カクつきが無かった。 あれはカクついてた方が面白かったかもしれない。そんなわけないか。
+そういえば明日は午前中お休みをもらっており、用事を片付ける予定。6:30 には起きるという予定なのにまだ起きている。なんてことだ。</description></item><item><title>初詣に行ってきた</title><link>https://cat2koban.dev/posts/2022-01-09/</link><pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-09/</guid><description>今日 は8時くらいに起きてお風呂入ってぐーたらしてた。そんで10時過ぎくらいから初詣に。 途中のコメダ珈琲店でコメダブレンドなるコーヒーを飲んだり朝ごはんを食べたりした。賽銭やらおみくじのお金をくずそうと入った BOOKOFF で技術書周りの品揃えに文句を言いつつ店内をうろうろ。結局お金はくずせず近くのローソンでガムを買う。着いた神社で引いたおみくじは中吉。帰りにお守りを買い、加えてお札を購入。家内安全、厄除けなる効能があるみたい。
+帰る道で駅に向かいつつショッピングをして、途中の本屋で最近出たエキスパートたちの Go言語を買った。
+https://gihyo.jp/book/2022/978-4-297-12519-6
+なんやかんや18時に家について、お札を貼ってみたが説明書もなくよく分からず、 Google 先生に聞いて調べた情報を頼りに火元の近くと部屋全体が見渡せるような場所に貼り付けたが、正直なところ本当に貼る場所合ってるか不安。</description></item><item><title>初めて UNEXT で映画をレンタルした</title><link>https://cat2koban.dev/posts/2022-01-08/</link><pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-08/</guid><description>今日 は初めて UNEXT で映画をレンタルした。ちなみにレンタルした映画はワイルドスピード/ジェットブレイク。まだ途中までしか観れてない。多分明日には観終わると思う。観終わったらマイリストにある比較的新し目の映画のどれか一つをレンタルしようかななんて思ってる。
+レンタルしようとしている映画 ザ・スイッチ ブラックウィドウ RUN ザ・スーサイドスクワッド Summer of 85 レミニセンス 最後の決闘裁判 そういえば 昨日の日記でも書いてたけど、OGP の設定はこんなテンプレートを使ってやることにした。
+最初は下のような背景青色のカラフルなタイプで考えていた。まぁそもそもこのブログの風貌に合わないかもなぁということでボツに。</description></item><item><title>OGP の設定してたり浅草キッドっていう映画観てたり群青戦記っていう漫画読んでたり</title><link>https://cat2koban.dev/posts/2022-01-07/</link><pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-07/</guid><description>今日 は仕事終わりにこのブログのリンクを SNS やらどこか他の場所で共有した時に少しでも華やかなものにしようと、tcardgen という Golang 製の OGP 作成ツールな CLI を使って OGP を自動生成するようにしようとしていた。 結構デザインの自由が効くみたいで、どうしよっかなーと悩んでいる。まぁ明日くらいに自分で作ったデザインのものか、もしくはデフォルトの OGP がこのブログにも設定されていることを願う。
+今日も duolingo をやったのだけれども、なんと順位を追い越されていたので、明日朝早起きして逆転してやろうと思う。
+とはいっても浅草キッドっていうビートたけしの自叙伝を映画化したものを Netflix で観てるので、夜更かししてまうかもしらん。
+そういえば GTO を読み終えたので、次は群青戦記と言う漫画を読んでいる。これまた面白い。夜更かしよ永遠に、、、</description></item><item><title>好きなイラストでデスクマットが作れるらしい</title><link>https://cat2koban.dev/posts/2022-01-06/</link><pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-06/</guid><description>今日 は自分の好きなイラストでデスクマットを作れるという耳寄り情報を教えてもらった。
+このサイトから注文できるらしい https://www.aliexpress.com/item/10000006187624.html
+aliexpressは xiaomi の mi band 6 の購入を検討していたときにその存在を知っていたが、こういうショップが有るということは知らなかった。好きなイラストとはいえ、著作権もあるだろうし、ちょっとどういうイラストを依頼しようか悩んでいる。 Twitter やら何やらのアイコンも拾い画なので今更そういう事を言ってもな感はある。が、まぁどうせなら自分の書いたイラストにしておきたい。 そんな時間があるのかと言われるとそりゃ無いわけで、もうちょっと検討を続けることになるだろうなと思う。
+絵師さんにお金を出して、レトロポップな感じで作ってもらおうかなぁ</description></item><item><title>duolingo のランキング上位を目指したいね</title><link>https://cat2koban.dev/posts/2022-01-05/</link><pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-05/</guid><description>今日 も何気ない一日でした。朝起きれなかったのは良くなかった。もうこの日記を書き終わったら、GTO読んで寝る。
+そろそろ今期の目標を考えて、12月の振り返りをしないといけないのに、すっかり手をつけていない。まずい。この日記を書いていて思い出した。明日の午前中も時間がないので、午後にやるしかないかなぁ。
+そう言えば duolingo をまた実施できた、偉い。 勉強することでもらえるポイントで競えるみたいで、ランキングが出ている。これが週で入れ替わるのかな？よく覚えてない。 とりあえず 7日 続けて、あわよくば一位を狙っていきたいところだ。</description></item><item><title>死霊の盆踊りを昨日見た</title><link>https://cat2koban.dev/posts/2022-01-04/</link><pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-04/</guid><description>今日 からまた仕事。 今日までお休みの人がちらほら Twitter にもいたみたい。まぁブログのスタイル整えるのももう飽きちゃったし、溜まってる映画を消化するべく俺も休んどけばよかったかなぁっても思ったけど、実際働くの楽しいのでモーマンタイでした。明日も頑張ろう。
+今日も今日とて duolingo をできた。偉い。
+そういえば昨日、死霊の盆踊りって言う映画を夜中に見たんだよね。日記に書くの忘れちゃってたけど。 予算2000円くらいで作ったんかってくらいの映画でした。 予告を一応共有しておく。</description></item><item><title>windows95風の jekyll theme に驚いた話</title><link>https://cat2koban.dev/posts/2022-01-03/</link><pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-03/</guid><description>今日 は昼前に起きて、ぐーたら過ごしていた。 明日から仕事だと言うのに、1週間前くらいから生活習慣が壊れていて朝がとてもしんどい。 GTO 読んだらすぐ寝たいところだ。
+13時過ぎごろから、職場の同期の jekyll tutorial を横目にこのブログの CSS を整えたり、はてなブログから記事の引っ越したりもした。 jekeyll tutorial が終わって、同期とちょろっとテーマを見ていたのだけれども、windows 95 風のテーマには度肝を抜かれた。
+それがこれだ http://jekyllthemes.org/themes/windows-95/
+アイコンとかの画像をどっから引っ張ってきたのか、自分で作ったのか、かなりの力作。
+そして昨日に引き続き、今日も duolingo できた。今日はお昼頃にちょろっとやった。偉い。</description></item><item><title>ぐーたらな年始</title><link>https://cat2koban.dev/posts/2022-01-02/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-02/</guid><description>今日 は9時過ぎに起きて18時くらいまでスーパーナチュラルのシーズン14を見てた。ずっと見っぱなしってことではなくて、このブログのCSSとか整えてたりしつつ横目に。あとはまぁご飯食べたり、途中で気分転換に散財は人生やでおなじみの人の動画を見てたりした。
+それと今日は duolingo できたので偉い。</description></item><item><title>2022年のやりたいこと</title><link>https://cat2koban.dev/posts/2022-01-01/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-01/</guid><description>今日 はゲームしたり、ご飯作ったり、Supernatural のシーズン 14 を見たりしてた。 ご飯を作ってる最中の味見では美味しい味加減と思っても、食べてみるとやっぱ薄いなぁとか思ったり。難しいよね。
+2022年のやりたいこと 日記を書く TOEIC 600 ↑ ご飯作る 体重 65kg 日記はなんとなく。 短い長いとか気にしないで書く。つもり。 いつまで続くんだろうか。
+TOEIC は、英語を会社で使う機会が増えているので、できるようになって楽をしようと思い。 特に Writing , Reading を強化していきたい。スタディサプリ(英語)をやっていたのだけれども、今は duolingo に鞍替えしている。毎日って訳じゃなく、やったりやらなかったり。まぁこれも今年毎日できるようにしたいなとか書いてる最中で日が変わりました。
+ご飯作るに関しては、肉野菜炒めとカレーくらいしかレシピ見ないで作れるものがないのでレパートリーを増やしたいなと思い。
+楽して痩せたい。無理よね、わかってます。</description></item><item><title>本調子じゃない</title><link>https://cat2koban.dev/posts/im-recovering/</link><pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/im-recovering/</guid><description>今日の仕事は本調子ではありませんでした。
+たまにはこういうこともあります。
+明日からまた気持ちを切り替えて頑張ろうと思います。</description></item><item><title>Nuxtjs3 が来るみたい</title><link>https://cat2koban.dev/posts/rechallenge/</link><pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/rechallenge/</guid><description>このブログ、全然続いてない 敷居を自分で上げすぎているかもしれない
+Nuxt3 が来るっていうのを聞いたので、課題解決に適切ならどうにかプロダクトに導入できないかなとか考えたりしている。
+触ってみないことには知見はたまらないはずなのでこのブログをまたまた Nuxt に移行するかもしれないなとか思ったり。
+ちょっと前に仕事で一緒だった人が、Nuxt でブログを作っていたり、開発でガッツリ触ってたりするのを見ると、ちょっと負けなきゃって思って俺も触る！とか思うことあるよね。ないか。</description></item><item><title>スタディサプリ TOEIC を始めた</title><link>https://cat2koban.dev/posts/studysapuri/</link><pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/studysapuri/</guid><description>まだやり始めて3日。1週間の無料お試し期間ということで、ゴールデンウィーク中に沢山動画やら教材を使い倒してやろうと思い、登録。とはいえまだ1日1時間くらいしか利用できておらず、基礎講座（基本英文法・基礎英単語）を一通り終わったくらい。。。 上の画像はそのスタディサプリのプロフィール。学習時間を計測してくれるのはモチベーションになるから嬉しい。連続学習日数も、途絶えさせないようにと、何か少しでもやるかと思えるので、個人的には嬉しい。
+UXは特に不満に思う箇所はない。動画が急に止まったり、アプリが急に落ちたりすることもない。Webよりはアプリの方がいいかも。片手でサクサクできる感じが好き。動画の数も思った以上に多い。正直詰め込まないと無料期間内では全て見るのは難しい。。基礎構文以外はまだ4, 5本しか視聴できていないが、関先生の講義もとてもわかりやすい。
+また無料期間が終わりそうになったらブログに感想とか載せるかも。載せないかも。</description></item><item><title>少しだけ新卒を振り返る猫</title><link>https://cat2koban.dev/posts/2020-12-13/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-12-13/</guid><description>この記事はマネーフォワードアドベントカレンダー2020🎄の13日目の記事です。 昨日は 「19新卒の自分が「ミッションへの貢献」を感じられるようになった2020年」というタイトルで、安藤さん の記事でした。
+note.com
+自己紹介 マネーフォワードでエンジニアをしています、たばです。SNSなどのアカウントネームは大体 @cat2koban でやっています。 この記事では、少しだけ新卒エンジニアとして過ごしてきたこれまでの日々を雑多に振り返っていこうかと思います。
+入社当初 現在も猛威を奮っている COVID-19 の影響で、入社式はオンラインで開催されたのを覚えています。 PCの受け渡し以外、それまでの入社手続き諸々は全てオンラインで行われました。そのおかげで外に出ることなく、三密を避けた状態で社会人としてのスタートを切ることができました。
+こちらの記事にて、入社式の裏側をいくつか紹介しているので良ければこちらも御覧ください。 note.com
+研修期間 4月〜7月には大抵リモートで、マネーフォワードのカルチャーについての研修や、情報セキュリティに関する研修などいくつかオリエンテーションが実施されていたのを覚えています。各々が自ら課題を設定しプロダクト開発を行うエンジニア研修も、オリエンテーションと並行して実施されました。エンジニア研修の際、まだあまりコミュニケーションの取れていないメンターや他の先輩に質問を投げることに億劫になっていたせいで、技術のキャッチアップや疑問点の解消に少し手間取ったのを覚えています。とはいえ、後に開かれるチームの夕会を通じて、チームのバックグラウンドを知ることができ、人に対する不安等は解消されていったように思います。現在は週2日で行われている夕会ですが、始めの頃は毎日夕会が行われていました。1日のやったこと・学びの共有など、序盤は全メンバーが持ち回りで自己紹介をしていたのを覚えています。丁度先日、メンターの 4geru さんがチームの夕会について紹介しているので良ければこちらも御覧ください。
+note.com
+日報を書き始めた 社会人になってからはほぼ毎日、日報を書くようになりました。適宜会議などのメモも載せるようになったり、気づいたこと・学び得たものを所感に記す量も増え、1日に書く日報のボリュームが日に日に増えていったのを覚えています。 併せて最初の頃は、「他人の良いところを真似して自分のものにする」という目的で、毎日退勤後の一時間、同期の日報をまじまじと眺めていました。他の同期はエンジニア研修・それ以外で何をしているのか、1日でどんな学びを得たのか、はたまた何をどうメモに残しているのかなどなど、多くの情報を得ようと会社の esa に張り付いていたのを覚えています。稀にユーモアに富んだ同期の面白おかしい振り返りがあったりして、飽きることなく続けていました。現在は同期の日報を読むことで1時間も時間を取ることはしていませんが、チャンネル内に投稿される簡略化された日報を読む、程度のことをしています。
+初めてのタスクアサイン 5月、研修と並行して初めてタスクを任されたのを覚えています。最初のタスクは特に困惑することなく進み、PRの作成、レビューと、スムーズにいきました。そしていざ自分の修正が本番環境に反映されたのを目の当たりにすると、エンジニアとして歩み始めた実感がようやく湧き、期待と興奮で胸が躍ったのを覚えています。
+初めての考慮漏れ 初めてのタスクアサインからすぐのことでした。2つほど小さめのタスクをこなした後、ビジネスサイドのメンバーも巻き込む少し大きめの機能追加に関するタスクを任せていただくことになりました。嬉しくなった私は時に遅くまでメンターにお付き合いしていただき、夜遅くまで作業を続けて残ってしまう、なんてことも多々あったのを覚えています。実はこの少し大きめの機能追加のタスク、リリース当日になんと考慮漏れが発覚してしまい、別途修正PRをリリースする必要が出てきたのです。足早に修正し、PRを作ったものの、私はリリースをせずにそのまま休暇に入ってしまい、後に先輩が代理でリリースまで巻き取ってくださったのを覚えています。リリースした機能で問題が起きないか、障害が起きてしまい、もしかすると追加作業の必要があるかもしれないという気持ちで、リリース付近はアプリの様子を見守ることが大切だなと学びました。
+入社後3ヶ月経っての面談 8月に入って、VPoE の渋谷さんと入社前と後の期待値のズレがないか等についてお話をさせていただく機会がありました。まだ大きな成長は実感できていないが、周りの沢山の優秀な同期・先輩が、自分に対して常に良い刺激を与えてくれる最高の環境であると話したのを覚えています。今も変わらずそのように思っており、個人的にはとても働きやすく、自分の成長にたくさんコミットできる環境だなと思っています。
+そして現在 9, 10, 11月と、ひたすらに任されたタスクをこなしつつ、時には自分からも積極的にタスクを取りに行ったりして、入社当初よりも幅広く社内で活動ができるようになったなと個人的には思っています。とはいえレビューの際にかなりの数の指摘を受けたり、ロジックの設計で考慮漏れが発覚してしまい手戻りが起きたり、開発者都合の対応をお客様に案内しようとして指摘を受けたり...と、まだ未熟な部分が多いことを痛感しています。仕事を任されているプロである以上、未熟と感じた部分は放置せずに改善し、より高い質で仕事をこなせるよう努力する必要があるので、ひたすらに経験を積み、失敗を振り返り、繰り返さないためにもどう仕組み化するか、成功時には、良かった点を続けられるようにどう仕組み化するか考える、そのループをこれからも崩さないようにしていきたいなと思います。
+終わりに というわけで少しだけ新卒を振り返ってみました。4月はオンラインでのオリエンテーションがあり、5, 6 月ではタスクを任され始め初めて失敗し、8 ~ 11月の間は少しずつ慣れ始めて、いろんなことに手を出していたなぁという流れをつらつらと書いてみました。実はまだ他に振り返り事項は残されているのですが、より細かく書いていくと「少しだけの振り返り」ではなくなってしまいそうなので、一旦ここら辺で切り上げることにします。また思うことがあればこちらに書いていくと思いますので、よければその時にまた読んでいただければと思います。そして入社初日に描いたブログでこんなことを言っているのを拝見しました。
+sorehaedamame.hatenablog.com
+楽しめてはいるが、以下2点については少し思うことがあるなと...まぁ体調崩したといっても仕事が影響したわけではなく冬の寒い時期にお腹を出して寝てたことが原因で一度あったくらいなので、それは良いか。
+さて！明日のマネーフォワードアドベントカレンダー2020🎄 14日目はまんまるねこさんです。ではお楽しみに〜〜〜！！</description></item><item><title>初めての vim プラグイン作成</title><link>https://cat2koban.dev/posts/2020-12-08/</link><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-12-08/</guid><description>この記事は Vim2 Advent Calendar 2020 - Qiita の8日目の記事です。
+昨日は Hasu さんの 高校生がVimプラグインを作った話 でした。
+はじめに
+この記事では、アルパカ隊長 さんに教わりながら作成した はじめての Vim プラグイン作成の話を書きたいと思います。
+作ったもの
+github.com
+複数行選択をしたのちに、 :Ghlink とコマンドを入力すると、選択した行がハイライトされたページへのリンクがクリップボードに保存される、と言うものです。
+vim-plug の場合は、vim の設定ファイルに以下の通りに記述するとインストールされると思います。
+1 Plug &amp;#34;cat2koban/ghlink.vim&amp;#34;; 簡単なデモを下に載せておきます。
+選択した後に : を押すと、コマンド入力部分に既に '&amp;lt;,'&amp;gt; が入力されていると思いますが、続けて Ghlink と打ちます。
+もともと Slack などで質問する際に、複数行ハイライトされた状態のページへのリンクをさくっと取得できるようにしたいなと思ってこう言うプラグインを作ろうと思いました。
+まぁ特に調べもせずに、Vimプラグインがどういうふうに作られるのか気になっていたので、車輪の再発明は気にせず学び目的で作成しました。
+まだいくつか TODO が残っているので、引き続き実装は進めていこうと考えています。
+作るときに便利だったもの
+github.com
+便利関数が多数定義されているプラグイン。これからのプラグイン開発では、こいつは必須になってくるのかなぁと思った代物です。ghlink.vim のコードでもその定義された関数を使っていて、便利さを 1行で実感しました。
+2行目の s:Prelude.path2project_directory(a:path) の部分が vital の中で定義された関数を呼び出している箇所になります。
+とはいえ実際の上の行では vital のインスタンスを作成していたりと、vital の関数を使う前にいくつかすることがあるのですが、それはドキュメントを参照してください。
+1 2 3 4 function! s:current_git_path(path) let git_root = s:Prelude.</description></item><item><title>vim-startify に indent line をつけないようにする</title><link>https://cat2koban.dev/posts/2020-08-30/</link><pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-08-30/</guid><description>Tl;dr
+1 let g:indentLine_fileTypeExclude = [&amp;#39;startify&amp;#39;] 経緯
+nvim でコードを書く際に、ネストが深くなってしまってどうしても読み辛い箇所がでてきたりしたので、以下のプラグインを導入してみた。 するとインデントが簡単に可視化され、コードが読みやすくなったのは良いが、 vim-startify の出力でもインデントが生成されていて、非常に気持ち悪い見た目になってしまった。
+github.com
+解決方法
+fileType が startify の時はインデントをつけないようにする。
+1 let g:indentLine_fileTypeExclude = [&amp;#39;startify&amp;#39;] すると起動後の画面はこんな感じに（カラースキーマの設定のせいで微妙過ぎて見えない&amp;hellip;）
+初めは以下のリンクを参考にしました。この Issue では、vim-indent-guides という似たようなインデント可視化用のプラグインにおいて、 startify という fileType の場合は可視化させない方法が記載されています。
+github.com
+次に、似たような設定用の変数がないかどうか、自分が導入した indentLine で help を確認し、それを参考に設定を記述しました。
+(上部 :help indentLine) (下部 ~/.config/nvim/init.vim)
+最後に
+最初から :help で探していれば、ブラウザを開くこともなかったですね・・・。もしプラグインを使っていてプラグインの機能を修正したい場合、以下のようにしてまずはドキュメントから調べる。という癖をつけるようにしたいなと思いました。
+1 :help &amp;lt;plugin&amp;gt;</description></item><item><title>iTerm でタブを Ctrl+W で消す前に警告を出すようにする</title><link>https://cat2koban.dev/posts/2020-06-14-2/</link><pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-06-14-2/</guid><description>iTerm の設定画面( Preferences &amp;gt; Profiles &amp;gt; Session ) から、Prompt before closing? のチェックボックスで Always を選択する。
+すると、Ctrl + W を押してタブを消そうとするとこのように警告が出るようになる
+参考
+podaraku.hatenablog.com</description></item><item><title>vim-startify + figlet + boxes を利用して vim を起動時にロゴを表示する</title><link>https://cat2koban.dev/posts/2020-06-14/</link><pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-06-14/</guid><description>経緯
+黒い画面と睨みっこをしていて、なんとなく遊び要素が欲しいなとふと思ったのでやってみました。
+環境
+macOS Catalina 10.15.5
+fish v3.1.0
+Neovim v0.4.3
+vim-plug v0.10.0
+brew 2.4.0
+vim プラグイン
+vim-startify
+CLI ツール
+figlet
+boxes
+github.com
+boxes.thomasjensen.com
+www.figlet.org
+インストール
+vim-startify
+＊vim-plug を使用している場合
+1 Plug &amp;#39;vim-startify&amp;#39; figlet
+1 $ brew install figlet boxes
+1 $ brew install boxes vim-startify の設定
+自分は以下のように vim の設定ファイルに記入しています。
+人によって異なると思いますが、プラグイ 別に設定ファイルを分けていないようであれば、
+neovim だと、 ~/.config/nvim/init.vim で、 vim だと ~/.</description></item><item><title>Macbook で動かしている Rails アプリを IE11 で確認する</title><link>https://cat2koban.dev/posts/2020-06-07/</link><pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-06-07/</guid><description>環境
+OS: macOS Catalina 10.15.5
+CPU: 2.4GHz 8-Core Intel Core i5
+メモリ: 8GB
+HDD: 512GB
+VirtualBox: 6.1.8
+windows 環境 (VM) の用意
+VirtualBox でも Vagrant でも好きな方を選んで Microsoft の公式ページ から、仮想マシンを立ち上げるためのイメージファイルをダウンロードします。
+リンク先の公式ページに行くと、以下の画像のようなボタンがいっぱい表示されていると思います。
+今回は VirutalBox のケースで考えようと思うので、 [VirtualBox ] のボタンを押します。すると MSEdge - Win10.zip なるもののダウンロードが開始されるはずです。
+ダウンロードは結構時間がかかります。なのでゆっくりお茶でも飲んで、積み本していた技術書などを消化するなどして時間を潰しましょう。
+終わるまで大体3時間ちょっと程かかった記憶...とはいえ、ダウンロードが終わったら設定は楽なのですぐに環境を用意できると思います。
+ダウンロードが終わったら解凍して、一旦中身を確認しましょう。画像のように、MSEdge - Win10.ovf と、MSEdge - Win10-disk001.vmdk の二つのファイルがあれば良いです。
+次に[File Import Appliance] から、解凍したファイルの中にある MSEdge - Win10.ovf を選択します。
+そのまま [continue] を押せば、あとは VirtualBox が勝手に VM を作ってくれます。以下の画像のように、Win10 環境が作成された様子がメニューから確認できれば、一通り終わりです。</description></item><item><title>Ruby で配列の要素を展開して別の配列に格納する</title><link>https://cat2koban.dev/posts/2020-05-17/</link><pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-05-17/</guid><description>TL;DR 1 2 3 4 5 pry[0]&amp;gt; arrayA = [1, 2, 3,] pry[1]&amp;gt; arrayB = [4, 5] pry[2]&amp;gt; arrayA.push(*arrayB) =&amp;gt; [1, 2, 3, 4, 5] 経緯 配列の中に要素を展開して入れて欲しいときはどうしたら... ある時ふとそんな気持ちになりました。
+そこでいろいろ調べてみるとこんな記事が見つかりました。 一番上の記事は、 ruby 配列 要素 展開 [検索] とかで調べた記憶があります。
+qiita.com scrapbox.io
+結論 push する配列に splat operator (*) なるものをつけてあげるだけで良さそう
+1 2 3 4 5 pry[0]&amp;gt; arrayA = [1, 2, 3,] pry[1]&amp;gt; arrayB = [4, 5] pry[2]&amp;gt; arrayA.push(*arrayB) =&amp;gt; [1, 2, 3, 4, 5]</description></item><item><title>RubyMine で開いた Terminal で fish shell のパスがうまく動作していない</title><link>https://cat2koban.dev/posts/2020-05-05/</link><pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-05-05/</guid><description>TL;DR
+1 2 3 4 5 6 7 8 &amp;gt; ~/ $ cd /Applications/RubyMine.app/Contents/plugins/terminal &amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal $ mv fish/ fish.back/ &amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal $ ln -s ~/.config/fish . 経緯
+RubyMine のみで開発を行おうと奮闘している最中、 Terminal tab を開き、bundle exec rails ... とコマンドを入力すると bundlerが無いみたいですね。 gem install bundler してください。 と言われてしまうことがありました。
+いつも iTerm からコマンドを入力すると実行できていたけどなぁ...と不思議に思い、実際に開いて入力してみると、正常にコマンドが実行される…… :thinking:
+なるほど分からん。となったので、ひとまず、 rubymine fish-shell [検索] として調べてみることに。すると以下の記事が。
+blog.corocn.jp
+一通り読んでみると、この記事の著者は Intellij Ulitimate を使用している際に、同様の現象に遭遇した様子。
+解決方法
+IntelliJのapp内にもconfig.fishがあってそっちを読んでるのが問題っぽい。 stackoverflow見るとfunctionsの読み込み処理追加しろよ〜っ&amp;hellip;
+Intellij が Terminal tab を開くときに読み込んでいる shell の設定ファイルは、/Applications/RubyMine.</description></item><item><title>株式会社はてなに入社しました</title><link>https://cat2koban.dev/posts/2020-04-01/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-04-01/</guid><description>株式会社はてなに入社しました - hitode909の日記</description></item><item><title>株式会社マネーフォワードに入社しました</title><link>https://cat2koban.dev/posts/2020-04-01-2/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-04-01-2/</guid><description>はてなに入社するのが遅すぎた
+— たば (@cat2koban) 2020年4月1日 実は昨日から株式会社マネーフォワードに入社していました。
+エンジニアへの手厚いサポートも魅力的でしたが，会社の文化に強く共感できたことや，社員一人ひとりのカルチャーへの姿勢を受け、この会社を選びました。
+そしてこれからの社会人生活，以下の 3つを忘れずに進んでいこうと思います。
+仕事を楽しむ 無理に頑張りすぎない 健康に気をつける  仕事を楽しむのがメインになると思います。何にせよ明日も仕事かぁ...だるいなぁという姿勢で過ごすつもりはありません。残りの人生の半分以上、日々楽しむ自分を想像して頑張りたいと思います。</description></item><item><title>YAPC::Tokyo 2019 に参加してきました</title><link>https://cat2koban.dev/posts/2019-01-28/</link><pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2019-01-28/</guid><description>はじめに
+今回のYAPC::Tokyo 2019 へ参加するにあたり，学生旅費支援制度で交通費等を給付していただいた企業の皆さま，ありがとうございます。
+聴講したトーク
+肩のこらない型の話
+私とOSSとPerl
+YAPC座談会
+Perl5の静的解析入門
+Perlでも分散トレーシングしたい
+ISUCON8予選問題作成の裏側
+多くのCPAN Authorに育てられ，息をするように CPAN モジュールを書けるようになり，そして分かったこと
+印象に残ったトーク
+私とOSSとPerl
+私とOSS活動とPerl from Shunsuke Maeda
+www.slideshare.net
+トークの最後にスピーカーが仰っていた「世界はOSSに優しい」がとても印象にのこった。
+「OSSは意外と近くにある」という言葉にも強い共感を覚えた。僕自身も，CPANから引っ張って来たモジュールを使ったり，VSCodeをつかってコードを書いたり，ネットワークのログを監視する時にSnortを用いたり，Pecoをつかってファイル検索を行ったりと，思い返してみれOSSに囲まれて生活しているな，と感じた。
+CPAN authorになりたくてモジュールを開発(3年目になると称号が欲しくなるらしい)。僕もそろそろPerlを初めて3年になるので，何か称号の一つや二つ欲しいなって思ったりした。
+転職後の勉強会で自分の作ったモジュールを使っている人と遭遇するなどあったらしい。(実際に同じ立場だったらとても嬉しいなと思った...)
+YAPC座談会
+トークを聞いていると，ほとんどJPAの方から話があった様子。
+「どう，YAPCやってみない？」(?)
+沖縄に関しては一度断っている。その点に関しては Okinawa.pm ができてまだ日が浅く，オーガナイザー個々の事情もあったと認識している。
+それでも開催できたのは勢い。Code-Hex「そもそも同級生の子が nekokak さんに 「沖縄でもできたらいいですねぇ(ここは曖昧)」 ていったのがきっかけ！」(笑)
+福岡はやるぞ！の一言がきっかけだったらしい。
+辛かったこと，楽しかったことで，北海道は航空便など欠航が相次ぎ、登壇者や参加者が参加できなくなったことがあったみたい。。 登壇者の方に関しては google hongout で乗り越えたとのこと。
+沖縄は会場までのバスを用意する点や、会場の選定が苦労した。しかしOISTの環境はとても良く，ほぼほぼ即決に近かった。 (バスに関しては初の試みで，乗り遅れた人がいたりと少しわちゃわちゃしていたが，特に滞りなく済んだと認識している。(スタッフの事故もあったが..(無事でした)))
+perl5の静的解析入門
+speakerdeck.com
+Perl5を使った静的解析のノウハウをまとめたような内容だった。この発表ではちょくちょく出て来る言葉が個人的に心に刺さった...
+コードの迷いは思考の迷い
+動的型付け言語でも心に静的型付けコンパイラを持つ
+機械にも人間にも優しいコードはPerlのサブセットになる
+人間には雑念があり，自己を律するのは難しい(哲学...!)
+トークの最後にチラッと見えたFunction::Parameters，Types::Standardが気になった。この2つのモジュールについて少し勘違いしていたが，スピーカーのmackee_wさんにコメントで教えていただいたので，訂正しておきます。
+静的解析の発表をした者です。 Function::ParametersとTypes::Standardは実行時型検査をかける文法を導入するもので、静的型付けをやるのはこれからという感じです / “YAPC::Tokyo 2019…” https://t.co/GOmLP75gio
+— トーカナイザの守護霊 (@mackee_w) January 28, 2019
+動的型付け言語に部分的に静的型付けを導入する方法がPerlにもあるのかと驚愕。懇親会で聞こうと思っていたが話しかけられず断念.</description></item><item><title>Perl入学式というきっかけ</title><link>https://cat2koban.dev/posts/2018-04-05/</link><pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2018-04-05/</guid><description>これは春のPerl入学式ブログリレー4日目の記事です。
+昨日は id:anatofuz さんのエントリでした。
+今後学習を支える基盤となる母国語が身につくなど，各地のサポーターを始めとするエンジニアコミュニティの一員になれるといったPerl入学式を完走するとできるようになることについて挙げられていました。
+似たようなことになりますが今回，僕はPerl入学式をきっかけとしておきた出来事についてお話ししたいと思います。
+エンジニアコミュニティへの参加 Perl入学式に参加したのをきっかけに，同級生の id:codehex くんに誘っていただき，Okinawa.pm という沖縄のPerl Mongerの集まるコミュニティに参加しました。
+Okinawa.pm のブログがこちら - Okinawa Perl Mongers
+その当時，僕は実際に働いているエンジニアの人たちの集まりで，みなさん年齢も離れており，学生の僕がその場に馴染める雰囲気なのか....キッチリカッチリしていそう，怖い人とかいるのかな？など様々な不安がありました。
+そんな不安をよそにまさかの開催場所は居酒屋。お酒を嗜みながら，PCを開いてLTを行うといったものでした。そして参加されていたエンジニアの皆さんも優しい方ばかりで，Perlというプログラム言語には，こういうモジュールを公開しているサイトがあるんだよ！など，色んなことを教えてくれました。
+そして日が経ち，そのコミュニティで僕はLTをする機会もありました。
+その時のスライドがこちら 👇
+Okinawapm#4 from cat2koban www.slideshare.net 人前に出て発表を苦手としていた僕はいつのまにか，地域のエンジニアコミュニティで発表をしていました。
+考えてみると僕はPerl入学式に参加したことをきっかけに，こうやって地域のエンジニアコミュニティに参加したり，他の勉強会にも興味を持って参加したり，カンファレンスとよばれる，エンジニアの技術トークを行う大きなイベントにも足を運んだりと，興味が興味を呼んで色々と行動を起こすようになりました。行動を起こすようになり，エンジニアとの繋がりも増え，僕が悩んだり，困ったりした時に一緒になって考えてくれる大学の友達も作ることができ，共に技術を高め合う仲間も見つけることができました。ちなみに昨日のエントリを書いた id:anatofuz さんはPerl入学式をきっかけに彼女ができたようです。　今ではコミュニティメンバーの1人の，ホテルシステムの開発，研究を行っている企業の社員さんにお声がけをしていただき，アルバイトエンジニアとしてお仕事に携わることができています。Perl入学式で学んだプログラミングを，今はお仕事で活用できています。プログラミングを学ぶPerl入学式という機会があったからこそ，今の僕があると思っています。(唐突な無理矢理感)
+あなたもPerl入学式をきっかけに，プログラミングをはじめてみませんか？
+明日は, @uniuni_sea さんです，お楽しみに٩( ᐛ )و</description></item><item><title>Shell Scriptで書かれた作業時間管理ツールをPerlに書き直す (序章)</title><link>https://cat2koban.dev/posts/2017-12-20/</link><pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2017-12-20/</guid><description>これはPerl Advent Calender 2017 20日目の記事です。
+広告
+YAPC::Okinawaは現在，カンファレンス参加チケット・トークプロポーザルを絶賛募集中です！
+yapcjapan.org
+この広告は，90日以上更新されていないブログにのみなんちゃらかんちゃr
+はじめに
+普段は南の島の大学の4年生やってます。絶賛卒業研kうっ...頭が..(ノートはここで途切れているようだ...)
+よくバイトや研究をしていて，作業の開始時間と終了時間を簡単に記録できたらいいななんて思うことがありました。
+Terminalで簡単に管理できる作業時間ツールでも作るか，と意気込んでいたその時。
+タイミングよく友人がShell Scriptでそのツールを書いていたので，勉強がてらそれをPerlに書き直すことにしようと決めました(┐「ε:)
+友人の作成した作業時間管理ツールがこちら。
+github.com
+checkは研究時間を記録するために作られました。基本的な使い方は指定したプロジェクトにcheck-in, check-outをするというシンプルな機能です。複数のプロジェクトに対応しているので毎日の活動を記録するのに最適です。check-inした後もバックグラウンドで動いていないのでコンピュータを再起動したりしても問題ありません。
+ふむふむ，すごい(語彙ry..
+Perlへ移行
+僕がPerlで書き直す上で年内に移行したい機能たち
+check man
+使い方を表示してくれる help みたいなもの
+check in &amp;lt;project_name
+作業時間の記録を開始。
+check out
+作業時間の記録を終了。
+今回は序章ということもあり(ｵｲｵｲ...)，項目1. check manまでの移行に関してまで書きます。
+生暖かい目で見守っていただけますと幸いです。
+manオプションの移行
+書き直す前のShell Scriptではこんな感じ
+- 受け取ったオプションを if 文で分岐かけてそれぞれの処理に流す感じ。
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 main() { #$1がないなら終了する check_nonactive $1 #コマンドの実行環境の確認 check_database #$HOME/checkに移動する(( )) cd $dirpath #実行状態の確認 if [ $1 = &amp;#34;in&amp;#34; ] ; then check_in $1 $2 elif [ $1 = &amp;#34;out&amp;#34; ] ; then check_out ~~ 省略 ~~ elif [ $1 = &amp;#34;man&amp;#34; ] ; then check_man fi #元のディレクトリに移動する cd - &amp;gt; /dev/null } main $1 $2 $3 ひとまず，terminal上で check &amp;lt;オプション てな感じでやりたい。
+モジュールを自分で作って使ってみたいなとか考えて，Shell で書かれたものとは違うファイル構成にしました。下図がその構成</description></item><item><title>YAPC::Fukuoka 2017 HAKATA に参加してきました！</title><link>https://cat2koban.dev/posts/2017-07-07/</link><pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2017-07-07/</guid><description>これはPerl Advent Calender 2017 20日目の記事です。
+広告
+YAPC::Okinawaは現在，カンファレンス参加チケット・トークプロポーザルを絶賛募集中です！
+yapcjapan.org
+この広告は，90日以上更新されていないブログにのみなんちゃらかんちゃr
+はじめに
+普段は南の島の大学の4年生やってます。絶賛卒業研kうっ...頭が..(ノートはここで途切れているようだ...)
+よくバイトや研究をしていて，作業の開始時間と終了時間を簡単に記録できたらいいななんて思うことがありました。
+Terminalで簡単に管理できる作業時間ツールでも作るか，と意気込んでいたその時。
+タイミングよく友人がShell Scriptでそのツールを書いていたので，勉強がてらそれをPerlに書き直すことにしようと決めました(┐「ε:)
+友人の作成した作業時間管理ツールがこちら。
+github.com
+checkは研究時間を記録するために作られました。基本的な使い方は指定したプロジェクトにcheck-in, check-outをするというシンプルな機能です。複数のプロジェクトに対応しているので毎日の活動を記録するのに最適です。check-inした後もバックグラウンドで動いていないのでコンピュータを再起動したりしても問題ありません。
+ふむふむ，すごい(語彙ry..
+Perlへ移行
+僕がPerlで書き直す上で年内に移行したい機能たち
+check man
+使い方を表示してくれる help みたいなもの
+check in &amp;lt;project_name
+作業時間の記録を開始。
+check out
+作業時間の記録を終了。
+今回は序章ということもあり(ｵｲｵｲ...)，項目1. check manまでの移行に関してまで書きます。
+生暖かい目で見守っていただけますと幸いです。
+manオプションの移行
+書き直す前のShell Scriptではこんな感じ
+- 受け取ったオプションを if 文で分岐かけてそれぞれの処理に流す感じ。
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 main() { #$1がないなら終了する check_nonactive $1 #コマンドの実行環境の確認 check_database #$HOME/checkに移動する(( )) cd $dirpath #実行状態の確認 if [ $1 = &amp;#34;in&amp;#34; ] ; then check_in $1 $2 elif [ $1 = &amp;#34;out&amp;#34; ] ; then check_out ~~ 省略 ~~ elif [ $1 = &amp;#34;man&amp;#34; ] ; then check_man fi #元のディレクトリに移動する cd - &amp;gt; /dev/null } main $1 $2 $3 ひとまず，terminal上で check &amp;lt;オプション てな感じでやりたい。
+モジュールを自分で作って使ってみたいなとか考えて，Shell で書かれたものとは違うファイル構成にしました。下図がその構成</description></item><item><title>YAPC::Kansai 2017 Osakaに参加してきました！</title><link>https://cat2koban.dev/posts/2017-03-08/</link><pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2017-03-08/</guid><description>YAPC( Yet Another Perl Conference ) に初めて参加しました！
+I&amp;#39;m at YAPC::Kansai 2017 OSAKA https://t.co/9yvqAGfFkI
+&amp;mdash; たば (@cat2koban) 2017年3月4日
+YAPC::Kansai 2017 Osakaに参加するにあたり, 学生旅費支援制度で交通費等を給付していただいた企業の皆様, 並びにYAPC期間中に宿泊先を提供してくださりました@papixさん, そしてそのご家族の皆様, 大変ありがとうございました. いくつか聴講させていただいたトークの感想
+2017年 春のPerl : @charsbarさん
+www.slideshare.net
+ perl5.24.1が最近出たというのもこのトークで初めて知りました. 正直なところプログラミング言語が今どのような調整がされているか, どのような機能が追加されるのか等, あまり気にしたことがなかった. このトークをきっかけに, 少しでもPerlの現状に目を向け, 今自分が扱っているプログラミング言語の動向をちゃんと知っていこうと思いました. Webアプリケーションのキャッシュ戦略とそのパターン : @moznionさん
+speakerdeck.com
+あまり意識したことのないキャッシュについて, レイヤ別, パターン化についての解説をしてくれていました. 正直まだWebアプリケーションを運用したことがなかったために, トークの内容についていけるか心配でしたが, キャッシュを扱う上でのシチュエーションなども例に挙げて話を進めてくれていたり, ところどころに笑いを挟んだりと, とても聞きやすいトークでした. Mojoliciousで始めるマイクロサービスアーキテクチャ : @masakystさん
+speakerdeck.com
+Okinawa.pmの@masakystさんのトーク！印象に残ったのがJWT(Json Web Token)によるセキュリティ認証について. 以前のperl入学式後の食事会で小耳に挟んだ程度だったのであまり使い所もわからずそのまま放置していた知見の一つでしたが, ここで@masakystさんの解説を聞き, 少しばかり理解したつもり(ry...になりました. トーク最後のokinawa.pmの紹介でyomitan.pmの頃の話などもあり, 生い立ちを知るいい機会でもありました. Perl to Go : @code_hex
+http://go-talks.appspot.com/github.com/Code-Hex/talks/yapc-kansai/main.slide#5
+まさか友人であるKくんこと@CodeHexくんがYAPCでトークをするとは...と思いながら複雑な気持ち?でトークを聴講させていただきました. といっても正直Go言語についてはさっぱりで, 話について行くのは少し大変でした.</description></item><item><title>dereference</title><link>https://cat2koban.dev/posts/2016-05-17/</link><pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2016-05-17/</guid><description>1 my @favorite_foods = @{$int-&amp;gt;{favorite_foods}}; の@以降で$intに渡されているハッシュリファレンスのfavorite_foodsの要素をデリファレンスしてる。
+確認 参照記事 github.com</description></item></channel></rss>

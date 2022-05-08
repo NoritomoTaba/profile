@@ -1,0 +1,25 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=theme-color content="dark"><title>会社で出た ActiveRecord の Nested transactions のクイズが解けなかた | cat2koban.dev</title><link rel=icon type=image/png href=/images/favicon.png><link rel=stylesheet href=/sass/main.min.d85b5bcbf9dc35a77a2339044932e9574cf986dbee3feb73f5c82f0d2f05e703.css><meta property="og:url" content="https://cat2koban.dev/posts/2022-01-26/"><meta property="og:type" content="article"><meta property="og:site_name" content="cat2koban.dev"><meta property="og:title" content="会社で出た ActiveRecord の Nested transactions のクイズが解けなかた"><meta property="og:description" content="どの ユーザーが作られる？っていう問題。会社で出たんだけど、解けなくて死んだ。
+1 2 3 4 5 6 7  User.transaction do User.create(username: &amp;#39;Kotori&amp;#39;) User.transaction do User.create(username: &amp;#39;Nemu&amp;#39;) raise ActiveRecord::Rollback end end   
+Q. どのユーザーが作られる？
+ kotori kotori と Nemu どちらも作られない  答えはこちら ▼ https://api.rubyonrails.org/c"><meta property="og:image" content="https://cat2koban.dev/tcard/2022-01-26.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:site content="@cat2koban"></head><body class=dark><nav class=navbar><div class=container><div class=flex><div><a class=brand href=/>cat2koban.dev</a></div><button id=dark-mode-button></button></div></div><div class=container><div class=header-links><u><a class=header-link href=/about/>About</a></u>
+<u><a class=header-link href=/index.xml>RSS</a></u>
+<u><a class=header-link href=/tags/>Tags</a></u></div></div></nav><main><div class=container><article><header class=article-header><div class=thumb><div><h1>会社で出た ActiveRecord の Nested transactions のクイズが解けなかた</h1><div class=post-meta><div>By cat2koban on <time>January 26, 2022</time></div><div class=tags><a href=/tags/diary/>diary</a>
+<a href=/tags/rails/>rails</a></div></div></div></div></header></article><div class=article-post><h3 id=どの>どの</h3><p>ユーザーが作られる？っていう問題。会社で出たんだけど、解けなくて死んだ。</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-ruby data-lang=ruby><span class=line><span class=cl><span class=no>User</span><span class=o>.</span><span class=n>transaction</span> <span class=k>do</span>
+</span></span><span class=line><span class=cl>  <span class=no>User</span><span class=o>.</span><span class=n>create</span><span class=p>(</span><span class=ss>username</span><span class=p>:</span> <span class=s1>&#39;Kotori&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>  <span class=no>User</span><span class=o>.</span><span class=n>transaction</span> <span class=k>do</span>
+</span></span><span class=line><span class=cl>    <span class=no>User</span><span class=o>.</span><span class=n>create</span><span class=p>(</span><span class=ss>username</span><span class=p>:</span> <span class=s1>&#39;Nemu&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>    <span class=k>raise</span> <span class=no>ActiveRecord</span><span class=o>::</span><span class=no>Rollback</span>
+</span></span><span class=line><span class=cl>  <span class=k>end</span>
+</span></span><span class=line><span class=cl><span class=k>end</span>
+</span></span></code></pre></td></tr></table></div></div><br><p>Q. どのユーザーが作られる？</p><ol><li><code>kotori</code></li><li><code>kotori</code> と <code>Nemu</code></li><li>どちらも作られない</li></ol><p>答えはこちら ▼
+<a href=https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html>https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html</a></p></div></div><div class=container><nav class="flex container suggested"><a rel=prev href=/posts/2022-01-25/ title="Previous post (older)"><span>Previous</span>
+資格対策本の5章を読んだ</a>
+<a rel=next href=/posts/2022-01-27/ title="Next post (newer)"><span>Next</span>
+明日は5時起きです</a></nav></div></main></main><footer class="footer flex"><section class=container><nav class=footer-links></nav></section><script async src=/js/features.min.998e7aa76795e443649151776dfe12dc53c3a3dfff300ce31b7e1d0e5b12894d.js></script></footer></body></html>

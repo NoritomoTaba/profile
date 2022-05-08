@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>aws on cat2koban.dev</title><link>https://cat2koban.dev/tags/aws/</link><description>Recent content in aws on cat2koban.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cat2koban.dev/tags/aws/index.xml" rel="self" type="application/rss+xml"/><item><title>S3</title><link>https://cat2koban.dev/posts/2022-02-08/</link><pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-08/</guid><description>S3 にこのブログを載せたい。
+hugo でビルドした結果をそのまま置けばいいのかな。ドメインとかどうなるんだろうか。github pages じゃなくなるので、リポジトリに CNAME ファイルを置くように、別で S3 側で設定が必要になるのかな。
+まぁ問題を解きまくるウィークが終わったら、ゆっくりやってみよ、、、</description></item><item><title>ボロボロだった</title><link>https://cat2koban.dev/posts/2022-02-07/</link><pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-07/</guid><description>いや AWS 認定クラウドプラクティショナーの問題集を解いてたんだけどダメダメのダメ過ぎた。これまたびっくり。これは今週金曜が祝日っていうのにかなり救われるかもしれない。。。
+ザ・スイッチ が面白かった。
+入れ替わった状態のキャスリン・ニュートンがもう良過ぎた。出演作調べてみるとパラノーマルアクティビティの4とかに出てたみたい。4自体は昔に見たんだけど、キャスリン・ニュートンが出てたかどうかの記憶がない。予告見ても思い出せない（顔違いすぎ）。
+ヴィンス・ヴォーンの乙女演技は最高です。その状態で Google に行って欲しい。</description></item><item><title>資格対策本はとりあえず読んだ</title><link>https://cat2koban.dev/posts/2022-02-06/</link><pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-06/</guid><description>今日 は昼過ぎに起きた。まぁ昨日特大夜更かしかましたからな。しゃーない。
+とは言っても、AWS 認定クラウドプラクティショナーの参考書は読了。偉いです。結局問題集的なのは解けてないので、明日以降毎日少しずつ解いていこうかと。</description></item><item><title>試験まで3週間</title><link>https://cat2koban.dev/posts/2022-02-01/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-02-01/</guid><description>今日 もまた勉強をサボってしまった。どっかでスイッチを切り替えないといかんな、、、、
+まぁ朝に rails の勉強会を同期と少しだけしたので、及第点といったところか。
+AWS クラウドプラクティショナー がもうあと3週間に迫った。どうしようか、、2/21 に受験なので大体のスケジュールはこう
+~ 2/7
+AWS 認定クラウドプラクティショナーの本を読み終える 模試を受ける https://www.udemy.com/course/ok-aws-e/ ~ 2/14
+模試を受ける https://www.udemy.com/course/ok-aws-e/ ~ 2/20
+模試を受ける https://www.udemy.com/course/ok-aws-e/</description></item><item><title>資格対策本の5章を読んだ</title><link>https://cat2koban.dev/posts/2022-01-25/</link><pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-25/</guid><description>今日 は昨日の復習と5章を読んだ。長い。5章長い。仕事で疲れてるだろうからと、半分だけ読んで寝るつもりだったのに。結局一気に全部読んでしまった。まぁ会社の研修でやったような内容もあったし、そもそも難しいこと書いてなかったのもあって、一気に読めたではある。。ていうか疲れてないのか俺？って感じ。
+EC2やらAuto ScalingとかELBとかLambdaの説明が延々と書かれてた。ちょくちょく Code Pipeline の話も出てた。以上です。所感、以上です。
+加湿器買った んですよ、実は。想像していたよりも大きくて笑ったけど、まぁベットの横とか、頭上に置いて使うとかそう言う想定はしてないので、シンプルに地べたに直置きして使っている。さくらチェッカーで高評価だったのと、youtube でいいレビューがあったのでこれを買った。もうさくらチェッカーの犬です、はい。
+https://www.amazon.co.jp/dp/B08H5MJRCB
+さくらチェッカーのリンクはこれ。
+https://sakura-checker.jp/search/B08H5MJRCB/
+ちなみに youtube のレビューはこれ。
+一緒にレビューされてたこの加湿器用の除菌剤も買ってみた。もう言われるがまま。
+https://www.amazon.co.jp/dp/B08H5MJRCB
+明日の朝がとても楽しみ。</description></item><item><title>資格対策本の3~4章を読んだ</title><link>https://cat2koban.dev/posts/2022-01-24/</link><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-24/</guid><description>今日 はクラウドプラクティショナーの参考書の 3~4 章を読んだ。前に話したやつの続きだね。結構日が空いたみたい。
+https://cat2koban.dev/posts/2022-01-20/
+ていうか本のリンク貼ってなかったのか、これです。
+https://www.amazon.co.jp/dp/4797397403
+アベイラビリティゾーンとか、リージョンあたりを読んで、会社で受けた研修の内容とほとんど同じだなぁと思いつつ、復習のノリで読み進めた。いやいや、第三者認証の話とかは初耳だったかも。
+読んでみるとちゃんと IAM が何か理解してないことに気づけた。ルートアカウントが何かも分かってなかったよな。で、結局 IAM って何？
+試験の日 は、来月の21日月曜日の14時。有給取ったった。</description></item><item><title>気づけば20日</title><link>https://cat2koban.dev/posts/2022-01-20/</link><pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-20/</guid><description>今日 はびっくり 1月20日 ですよ。早い。もう1ヶ月が終わろうとしている。早い、、、 この日記もいつの間にか 20日続いてるのか。まぁ自分にしては長い方な気がする。 その日で書けてないことが多いけど
+AWS 認定クラウドプラクティショナー の参考書、今日は 2章 まで読めた。クラウドとは何か、とか、クラウドアーキテクチャの設計概念についてさらっと書かれてた。AWS Well-Architected って言う単語を覚えた。多分明日には忘れている。アーキテクチャのベストプラクティスらしい。リンクが本に書かれていたけど、アクセスしてみると deprecated だった。残念。代わりにタイトルの方に最新のドキュメントのリンクが書かれてたので、一応ここにもメモしておこう。
+https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/wellarchitected-framework.pdf#welcome
+まぁ、読むかはわからない。</description></item><item><title>本も読めてなければ映画も観れてない</title><link>https://cat2koban.dev/posts/2022-01-19/</link><pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-19/</guid><description>今日 こそは、AWS 認定クラウドプラクティショナーを読む、マイリストに溜まっている映画を観る、なんて考えていた。でも読めてない、観れてない。一体何日同じことを繰り返すのか。
+どっかで有給でも使って、映画観るだけの日、AWS 認定クラウドプラクティショナーとか、自分のやりたい勉強に時間を当てる日、みたいなのあってもいいかもなぁ。</description></item></channel></rss>

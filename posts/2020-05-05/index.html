@@ -1,0 +1,88 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=theme-color content="dark"><title>RubyMine で開いた Terminal で fish shell のパスがうまく動作していない | cat2koban.dev</title><link rel=icon type=image/png href=/images/favicon.png><link rel=stylesheet href=/sass/main.min.d85b5bcbf9dc35a77a2339044932e9574cf986dbee3feb73f5c82f0d2f05e703.css><meta property="og:url" content="https://cat2koban.dev/posts/2020-05-05/"><meta property="og:type" content="article"><meta property="og:site_name" content="cat2koban.dev"><meta property="og:title" content="RubyMine で開いた Terminal で fish shell のパスがうまく動作していない"><meta property="og:description" content="TL;DR1 2 3 4 5 6 7 8  &amp;gt; ~/ $ cd /Applications/RubyMine.app/Contents/plugins/terminal &amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal $ mv fish/ fish.back/ &amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal $ ln -s ~/.config/fish .   経緯RubyMine のみで開発を行おうと奮闘している最中、 Terminal tab を"><meta property="og:image" content="https://cat2koban.dev/tcard/2020-05-05.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:site content="@cat2koban"></head><body class=dark><nav class=navbar><div class=container><div class=flex><div><a class=brand href=/>cat2koban.dev</a></div><button id=dark-mode-button></button></div></div><div class=container><div class=header-links><u><a class=header-link href=/about/>About</a></u>
+<u><a class=header-link href=/index.xml>RSS</a></u>
+<u><a class=header-link href=/tags/>Tags</a></u></div></div></nav><main><div class=container><article><header class=article-header><div class=thumb><div><h1>RubyMine で開いた Terminal で fish shell のパスがうまく動作していない</h1><div class=post-meta><div>By cat2koban on <time>May 05, 2020</time></div><div class=tags><a href=/tags/rubymine/>rubymine</a>
+<a href=/tags/fish/>fish</a></div></div></div></div></header></article><div class=article-post><h3>TL;DR</h3><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span><span class=lnt>8
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-zsh data-lang=zsh><span class=line><span class=cl>&gt; ~/
+</span></span><span class=line><span class=cl>$ <span class=nb>cd</span> /Applications/RubyMine.app/Contents/plugins/terminal
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>&gt; /Applications/RubyMine.app/Contents/plugins/terminal
+</span></span><span class=line><span class=cl>$ mv fish/ fish.back/
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>&gt; /Applications/RubyMine.app/Contents/plugins/terminal
+</span></span><span class=line><span class=cl>$ ln -s ~/.config/fish .
+</span></span></code></pre></td></tr></table></div></div><h3>経緯</h3><p>RubyMine のみで開発を行おうと奮闘している最中、 Terminal tab を開き、<code>bundle exec rails ...</code> とコマンドを入力すると <strong>bundlerが無いみたいですね。 gem install bundler してください。</strong> と言われてしまうことがありました。
+いつも iTerm からコマンドを入力すると実行できていたけどなぁ...と不思議に思い、実際に開いて入力してみると、正常にコマンドが実行される…… :thinking:
+なるほど分からん。となったので、ひとまず、 <code>rubymine fish-shell [検索]</code> として調べてみることに。すると以下の記事が。</p><p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.corocn.jp%2Fentry%2F2018%2F05%2F06%2F011547" title="IntelliJ 組み込みterminalでfish-shellを使う - 今日のつちや" class="embed-card embed-blogcard" scrolling=no frameborder=0 style="display:block;width:100%;height:190px;max-width:500px;margin:10px 0"></iframe><cite class=hatena-citation><a href=https://blog.corocn.jp/entry/2018/05/06/011547>blog.corocn.jp</a></cite></p><p>一通り読んでみると、この記事の著者は Intellij Ulitimate を使用している際に、同様の現象に遭遇した様子。</p><h3>解決方法</h3><blockquote><p>IntelliJのapp内にもconfig.fishがあってそっちを読んでるのが問題っぽい。 stackoverflow見るとfunctionsの読み込み処理追加しろよ〜っ&mldr;</p></blockquote><p>Intellij が Terminal tab を開くときに読み込んでいる shell の設定ファイルは、<code>/Applications/RubyMine.app/Contents/plugins/terminal</code> の中にあるものが呼び出されているらしい。
+実際に見に行ってみると、</p></p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-zsh data-lang=zsh><span class=line><span class=cl>$ tree .
+</span></span><span class=line><span class=cl>.
+</span></span><span class=line><span class=cl>├── fish
+</span></span><span class=line><span class=cl>│   ├── config.fish
+</span></span><span class=line><span class=cl>│   └── fish_variables
+</span></span><span class=line><span class=cl>├── jediterm-bash.in
+</span></span><span class=line><span class=cl>└── lib
+</span></span><span class=line><span class=cl>    ├── resources_en.jar
+</span></span><span class=line><span class=cl>    └── terminal.jar
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=m>2</span> directories, <span class=m>5</span> files
+</span></span></code></pre></td></tr></table></div></div><p>確かになんかありますね.... ( <code>fish/config.fish</code> もあれば <code>fish_valiables</code> も )</p><p>ということで今回、同じ会社の製品とあって原因も同じだろうと考え、
+最初から存在していた <code>fish/</code> ディレクトリは、 <code>fish.back</code> と言う名前に置き換えてあげて、自分のカスタマイズしてある設定ファイルが入っているディレクトリ (私の場合で言うと <code>~/.config/fish/config.fish</code> )のシンボリックリンクを貼ってみました。</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-zsh data-lang=zsh><span class=line><span class=cl>$ <span class=nb>cd</span> /Applications/RubyMine.app/Contents/plugins/terminal
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>&gt; /Applications/RubyMine.app/Contents/plugins/terminal
+</span></span><span class=line><span class=cl>$ mv fish/ fish.back/
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>&gt; /Applications/RubyMine.app/Contents/plugins/terminal
+</span></span><span class=line><span class=cl>$ ln -s ~/.config/fish .
+</span></span></code></pre></td></tr></table></div></div><p>そして <code>tree</code> コマンドを実行すると以下のような結果が得られました。</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-zsh data-lang=zsh><span class=line><span class=cl>$ tree .
+</span></span><span class=line><span class=cl>.
+</span></span><span class=line><span class=cl>├── fish -&gt; /Users/cat2koban/.config/fish/
+</span></span><span class=line><span class=cl>├── fish.back
+</span></span><span class=line><span class=cl>│   ├── config.fish
+</span></span><span class=line><span class=cl>│   └── fish_variables
+</span></span><span class=line><span class=cl>├── jediterm-bash.in
+</span></span><span class=line><span class=cl>└── lib
+</span></span><span class=line><span class=cl>    ├── resources_en.jar
+</span></span><span class=line><span class=cl>    └── terminal.jar
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=m>3</span> directories, <span class=m>5</span> files
+</span></span></code></pre></td></tr></table></div></div><p>本筋の RubyMine の Terminal tab からも、無事に <code>bundle exec rails ...</code> コマンドが実行できました。
+これからさらに RubyMine を使い倒せそうで何よりですね。</p></div></div><div class=container><nav class="flex container suggested"><a rel=prev href=/posts/2020-04-01/ title="Previous post (older)"><span>Previous</span>
+株式会社はてなに入社しました</a>
+<a rel=next href=/posts/2020-05-17/ title="Next post (newer)"><span>Next</span>
+Ruby で配列の要素を展開して別の配列に格納する</a></nav></div></main></main><footer class="footer flex"><section class=container><nav class=footer-links></nav></section><script async src=/js/features.min.998e7aa76795e443649151776dfe12dc53c3a3dfff300ce31b7e1d0e5b12894d.js></script></footer></body></html>

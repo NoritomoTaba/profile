@@ -1,0 +1,1659 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>cat2koban.dev</title><link>https://cat2koban.dev/</link><description>Recent content on cat2koban.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cat2koban.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>手が冷たくてタイピングし辛い</title><link>https://cat2koban.dev/posts/2022-03-06/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-03-06/</guid><description>
+&lt;h3 id="最近">最近&lt;/h3>
+&lt;p>寒いからか、タイピングがし辛い。手が固まってしまう。
+冬は色々とモチベを奪われるなと、この歳になって気づいたかもしれない。&lt;/p>
+&lt;h3 id="textlint">textlint&lt;/h3>
+&lt;p>ってやつが気になってる。このブログで使ってみようかしら。&lt;/p></description></item><item><title>学びがななない</title><link>https://cat2koban.dev/posts/2022-02-28/</link><pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-28/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>も学びは何もない。duolingo をやったくらいだ。&lt;/p>
+&lt;h3 id="仕事">仕事&lt;/h3>
+&lt;p>のやり方が本当にダメなんだろうな、ここ最近の生産性がよろしくない。明日は自分の仕事のやり方を振り返ってみても良いかもしれない。まぁやらないだろう。&lt;/p>
+&lt;p>そもそも時間の使い方に関して振り返りたいって気持ちはずっとあるのに、計測が続かないな。切り忘れとか防ぐくらいなら、やっぱり自動でアプリごとに計測してもらうしかないものか、、、、&lt;/p>
+&lt;p>そういえば Hackaru に乗り換えてからやらなくなったタスクベース計測の ToDoist / Toggl の体験は良かった思い出。まぁあれに戻してみても良いかもしれないな。タスクベース、っていう言い方が合ってるかわからないけど。&lt;/p></description></item><item><title>色々と事切れていた</title><link>https://cat2koban.dev/posts/2022-02-27/</link><pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-27/</guid><description>
+&lt;h3 id="最近">最近&lt;/h3>
+&lt;p>はダメダメモードが加速していて、仕事もプライベートの勉学も何もうまくいかない毎日だった。結局残業を言い訳に AWS 認定試験プラウドプラクティショナーはキャンセルして受験を辞退してしまった。&lt;/p>
+&lt;p>duoling に関してもかなり続いていたのにやめてしまった。&lt;/p>
+&lt;p>この日記に関してもそう。ふと更新をやめてしまった。&lt;/p>
+&lt;h3 id="やる気がなかった">やる気がなかった&lt;/h3>
+&lt;p>原因は本業が多忙なのもそうだけど、暗いニュースばかりでメンタルもしんどくなっていた。&lt;/p>
+&lt;p>大学の頃少し仲の良かった人の訃報をインスタで知ったのがきっかけで去年の研究室のボスの訃報を思い出したり。戦争の話題とか聞いててもうあれやこれやとしんどい気持ち。&lt;/p>
+&lt;h3 id="とはいえ">とはいえ&lt;/h3>
+&lt;p>このままだと自堕落人間サイコショッカーになりかねないので、少しずつ前の意識高かった猫に戻していこうと思う。&lt;/p></description></item><item><title>ドラム式洗濯機</title><link>https://cat2koban.dev/posts/2022-02-14/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-14/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>と言うか昨日というか、買おうとしていたドラム式洗濯機の寸法が今の家だと入らないことに気づいて落ち込んでいた。&lt;/p>
+&lt;p>チームのメンバーに聞いたお得な情報、かなり助かった。が、寸法が、、、悔しい。。。&lt;/p>
+&lt;p>次はキッチンが今より広くて食洗機もおけて、脱衣所が広くてドラム式洗濯機が置けるようなペット可能物件の3LDKあたりに3万とかで住みたい。&lt;/p></description></item><item><title>2日空いちゃった</title><link>https://cat2koban.dev/posts/2022-02-12/</link><pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-12/</guid><description>
+&lt;h3 id="題目">題目&lt;/h3>
+&lt;p>の通り。この日記、2/10 と 2/11 サボってしまった。言い訳をすると、仕事が忙しかった。&lt;/p>
+&lt;p>仕事が忙しくても朝の 5時 に rails の commit を毎日チェックする人もいるわけだが、僕の場合は忙しいと習慣づいてたものがストップしてしまうらしい。&lt;/p>
+&lt;h3 id="rails-ガイド">Rails ガイド&lt;/h3>
+&lt;p>の読み会を同期と週2くらいの頻度でやっている。所々 rails のコードを見にいって、ガイドに書かれてることがどうやって実装されてるかみることもある。が、大抵時間かけた割には沼にハマって「わからん」ってことにして、また後で調べよう、となる。とはいえこれのおかげで ruby のどう処理されるのか分からない書き方が何かわかるし、それがわかるとまた一つ rails/rails のコードの読み方がわかるはず。そうやってゆっくりでも「わからん」としていたポイントを抑えていけば、いつかは rails/rails のコードが全部理解できるようになるはず。そうすればきっと無敵よね。&lt;/p></description></item><item><title>しんどい気持ちになってしまった</title><link>https://cat2koban.dev/posts/2022-02-09/</link><pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-09/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は遅くまで仕事して疲れた。仕事のノリはいいので、多分明日も頑張れるだけ頑張ると思う。&lt;/p>
+&lt;h3 id="しんどい">しんどい&lt;/h3>
+&lt;p>気持ちになってしまった。今日は特にしんどい。日記書いてる今でもしんどい。しんどいと言うか、イライラしている。勿体無いなこの時間。もう忘れよう。関わらないようにすればまたこうやってイライラすることも減るだろうし、分別つけていこう。&lt;/p></description></item><item><title>S3</title><link>https://cat2koban.dev/posts/2022-02-08/</link><pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-08/</guid><description>
+&lt;h3 id="s3">S3&lt;/h3>
+&lt;p>にこのブログを載せたい。&lt;/p>
+&lt;p>hugo でビルドした結果をそのまま置けばいいのかな。ドメインとかどうなるんだろうか。github pages じゃなくなるので、リポジトリに CNAME ファイルを置くように、別で S3 側で設定が必要になるのかな。&lt;/p>
+&lt;p>まぁ問題を解きまくるウィークが終わったら、ゆっくりやってみよ、、、&lt;/p></description></item><item><title>ボロボロだった</title><link>https://cat2koban.dev/posts/2022-02-07/</link><pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-07/</guid><description>
+&lt;h3 id="いや">いや&lt;/h3>
+&lt;p>AWS 認定クラウドプラクティショナーの問題集を解いてたんだけどダメダメのダメ過ぎた。これまたびっくり。これは今週金曜が祝日っていうのにかなり救われるかもしれない。。。&lt;/p>
+&lt;h3 id="ザスイッチhttpsfilmarkscommovies92729mark_id127948259">&lt;a href="https://filmarks.com/movies/92729?mark_id=127948259">ザ・スイッチ&lt;/a>&lt;/h3>
+&lt;p>が面白かった。&lt;/p>
+&lt;p>入れ替わった状態のキャスリン・ニュートンがもう良過ぎた。出演作調べてみるとパラノーマルアクティビティの4とかに出てたみたい。4自体は昔に見たんだけど、キャスリン・ニュートンが出てたかどうかの記憶がない。予告見ても思い出せない（顔違いすぎ）。&lt;/p>
+&lt;p>ヴィンス・ヴォーンの乙女演技は最高です。その状態で Google に行って欲しい。&lt;/p></description></item><item><title>資格対策本はとりあえず読んだ</title><link>https://cat2koban.dev/posts/2022-02-06/</link><pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-06/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は昼過ぎに起きた。まぁ昨日特大夜更かしかましたからな。しゃーない。&lt;/p>
+&lt;p>とは言っても、AWS 認定クラウドプラクティショナーの参考書は読了。偉いです。結局問題集的なのは解けてないので、明日以降毎日少しずつ解いていこうかと。&lt;/p></description></item><item><title>また夜更かししてる</title><link>https://cat2koban.dev/posts/2022-02-05/</link><pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-05/</guid><description>
+&lt;h3 id="最近">最近&lt;/h3>
+&lt;p>すごい夜更かししていることに気づいた。控えめに言って大事件。&lt;/p>
+&lt;p>ということを書いてる今も夜更かししている。やばい。&lt;/p>
+&lt;h3 id="夜更かし">夜更かし&lt;/h3>
+&lt;p>の何がダメって肌荒れと生活習慣が乱れることがもうダメ。じゃあなんでそこまで夜更かししてるのか。&lt;/p>
+&lt;p>&lt;strong>ゲーム&lt;/strong> のし過ぎ。はい、もうこれに尽きる。あーー。。。&lt;/p>
+&lt;p>試験近いんじゃないの？っていうツッコミ、正しい。。。。&lt;/p>
+&lt;p>うう明日から頑張る、、、、、、、&lt;/p></description></item><item><title>漫画を読む</title><link>https://cat2koban.dev/posts/2022-02-13/</link><pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-13/</guid><description>
+&lt;h3 id="九条の大罪">九条の大罪&lt;/h3>
+&lt;p>って言う漫画が面白い。ウシジマくん書いてた人の新しい漫画。アングラものの漫画が好きになったの、この人の作品読んでからかも。&lt;/p>
+&lt;p>最近読みたい漫画が増えてきた。超人Xとか読みたい。ダーウィン事変あたりも読みたい。今月はもう九条の大罪を4冊大人買い()してしまったから買っては読めないな。。。あー GANTZ E も早く続きが見たい。メイドインアビスも。欲って尽きない。&lt;/p>
+&lt;p>読み返さないだろうなーって漫画はよくある一日チケット4枚で一話ずつ見れます！なアプリで読んでいる。結局続きが気になって課金することも多いけど。意外にマンガ Bang には課金をしている気がする。&lt;/p>
+&lt;h3 id="そして">そして&lt;/h3>
+&lt;p>また duolingo をサボってしまった。今年に入ってから 2回目だ。まー最近こう言うモチベが落ちてきてるのはわかっていたが、どうしようか。うん、とりあえず寝て考える。&lt;/p></description></item><item><title>溜め込んでいた記事の消化</title><link>https://cat2koban.dev/posts/2022-02-04/</link><pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-04/</guid><description>
+&lt;h3 id="やばい">やばい〜&lt;/h3>
+&lt;blockquote>
+&lt;p>AWS クラウドプラクティショナー
+がもうあと3週間に迫った。どうしようか、、2/21 に受験なので大体のスケジュールはこう&lt;/p>
+&lt;p>~ 2/7&lt;/p>
+&lt;p>AWS 認定クラウドプラクティショナーの本を読み終える
+模試を受ける &lt;a href="https://www.udemy.com/course/ok-aws-e/">https://www.udemy.com/course/ok-aws-e/&lt;/a>
+~ 2/14&lt;/p>
+&lt;p>模試を受ける &lt;a href="https://www.udemy.com/course/ok-aws-e/">https://www.udemy.com/course/ok-aws-e/&lt;/a>
+~ 2/20&lt;/p>
+&lt;p>模試を受ける &lt;a href="https://www.udemy.com/course/ok-aws-e/">https://www.udemy.com/course/ok-aws-e/&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>っていう予定で進めていたけど、まだ本を読み終えられてない&amp;hellip;..ので、土曜でえいやと読み終えてしまいたい。今日はというと、、、溜まっていた記事を読み漁っていてもう目がしんどいのなんの。という言い訳。はい。&lt;/p>
+&lt;p>ちなみに記事を貯めるのは携帯やらPCからストックするまでの体験が個人的に楽で良いの Pocket を使っている。&lt;/p>
+&lt;p>&lt;a href="https://getpocket.com/en/about/">https://getpocket.com/en/about/&lt;/a>&lt;/p>
+&lt;p>一応溜め込んでいた記事を下に羅列するだけ羅列しておこう。。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://note.com/morita_masami/n/nf4dd849ca89c">https://note.com/morita_masami/n/nf4dd849ca89c&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://qiita.com/tearoom6/items/0237080aaf2ad46b1963?utm_source=pocket_mylist">https://qiita.com/tearoom6/items/0237080aaf2ad46b1963?utm_source=pocket_mylist&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kray.jp/blog/git-pull-rebase/">https://kray.jp/blog/git-pull-rebase/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://panda-program.com/posts/from-gatsby-to-nextjs">https://panda-program.com/posts/from-gatsby-to-nextjs&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mtx2s.hatenablog.com/entry/2021/12/21/084227?utm_source=pocket_mylist">https://mtx2s.hatenablog.com/entry/2021/12/21/084227?utm_source=pocket_mylist&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>仕組み化する方がいいと頭では分かっていても</title><link>https://cat2koban.dev/posts/2022-02-03/</link><pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-03/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は中途半端な仕事をしてしまったと反省の一日。まぁ大丈夫だろうという安直な考えによって、今日やろうとしていたことが今日できないと発覚し、他チームのメンバーに依頼していた作業を中止してもらうという、、、&lt;/p>
+&lt;p>よし！次からは「何かを判断するときにしっかり確認するように意識する！」だと結局何も変わらないんだよな。そこで仕組み化ですよ！と良く言われる。まぁ仕組み化で改善するにはどうすればいいんだろうと頭を使わないからいつまで経っても何も変わらないんだろうな。&lt;/p>
+&lt;p>チェックリストなんていい例な気がするな。PR ではこのチェックリストを毎回確認しましょう！とか、よくチームの中でルール形成されがちだと思う。けど本当にそれって守られるの？&lt;/p>
+&lt;p>守られないに、200ペソ。&lt;/p></description></item><item><title>睡眠時間</title><link>https://cat2koban.dev/posts/2022-02-02/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-02/</guid><description>
+&lt;h3 id="睡眠時間">睡眠時間&lt;/h3>
+&lt;p>が今日はとてもダメな日でした。なので今日は早く寝ようと思います（現在00:37）&lt;/p></description></item><item><title>試験まで3週間</title><link>https://cat2koban.dev/posts/2022-02-01/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-02-01/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>もまた勉強をサボってしまった。どっかでスイッチを切り替えないといかんな、、、、&lt;/p>
+&lt;p>まぁ朝に rails の勉強会を同期と少しだけしたので、及第点といったところか。&lt;/p>
+&lt;h3 id="aws-クラウドプラクティショナー">AWS クラウドプラクティショナー&lt;/h3>
+&lt;p>がもうあと3週間に迫った。どうしようか、、2/21 に受験なので大体のスケジュールはこう&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>~ 2/7&lt;/p>
+&lt;ul>
+&lt;li>AWS 認定クラウドプラクティショナーの本を読み終える&lt;/li>
+&lt;li>模試を受ける &lt;a href="https://www.udemy.com/course/ok-aws-e/">https://www.udemy.com/course/ok-aws-e/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>~ 2/14&lt;/p>
+&lt;ul>
+&lt;li>模試を受ける &lt;a href="https://www.udemy.com/course/ok-aws-e/">https://www.udemy.com/course/ok-aws-e/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>~ 2/20&lt;/p>
+&lt;ul>
+&lt;li>模試を受ける &lt;a href="https://www.udemy.com/course/ok-aws-e/">https://www.udemy.com/course/ok-aws-e/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>英語英語英語</title><link>https://cat2koban.dev/posts/2022-01-31/</link><pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-31/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>もトピックがない。大体そういう時は何も勉強をしてなかったり、ぼーっと一日を過ごしているケースが多い。&lt;/p>
+&lt;h3 id="モチベーション">モチベーション&lt;/h3>
+&lt;p>が低くなりつつある。やばい。これは良くない。明日の朝の勉強会で復活させなければ。今日一日でありえないくらい急降下した気がするので、上げる。。。&lt;/p></description></item><item><title>30日この日記を続けてみて</title><link>https://cat2koban.dev/posts/2022-01-30/</link><pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-30/</guid><description>
+&lt;h3 id="どうなの">どうなの？&lt;/h3>
+&lt;p>結局 Twitter に書くようなことしか書いてなくて、あんまり身になってる気はしない。AWSの勉強したところで、ここに復習がてら勉強した内容を書いていく、みたいなのもやってないしね。&lt;/p>
+&lt;p>文章書くの慣れたか？って言われると少し慣れてきた、とは言えるかも。あ、それなら身にはなってるのか。やるやん。&lt;/p>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は rails ガイドを読む会を会社の同期とやった。active_support/core_ext/ 配下のコア拡張機能について読んだね。&lt;/p>
+&lt;blockquote>
+&lt;p>:instance_accessor を false に設定すると、モデルの属性設定時にマスアサインメントを防止するのに便利です。&lt;/p>
+&lt;/blockquote>
+&lt;p>と言う日本語が一生理解できなかった。次こそ倒したい。&lt;/p></description></item><item><title>何もない</title><link>https://cat2koban.dev/posts/2022-01-29/</link><pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-29/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>はもう何もない。と言って終わろうとしました。でも実は少しだけあります。&lt;/p>
+&lt;h3 id="部屋">部屋&lt;/h3>
+&lt;p>を掃除しました。はい。あとジムに行ったり。そんな土曜日。&lt;/p></description></item><item><title>早起き早上がり早足の一日</title><link>https://cat2koban.dev/posts/2022-01-28/</link><pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-28/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は早起きして会社に行って早めに退勤したりした。眠いです。なんだかんだ、昨日23時前くらいまで起きてる記憶があって、起きたの5時ぴったりだったから、6時間しか寝れていない。多分。夕方キツかったなぁ。&lt;/p>
+&lt;p>とは言えシャワー浴びたら復活した。まぁ今はもうしんどいけど。&lt;/p>
+&lt;h3 id="久しぶりに">久しぶりに&lt;/h3>
+&lt;p>東京の街を歩いた。人が沢山いた。&lt;/p>
+&lt;p>自然と足早になるよね。&lt;/p>
+&lt;h3 id="あと">あと&lt;/h3>
+&lt;p>gorillavim に参加した。&lt;/p>
+&lt;p>&lt;code>:h starting&lt;/code> を読み進めた。内容はここに書かれてるのと一緒なのかな &lt;a href="https://vim-jp.org/vimdoc-ja/starting.html">https://vim-jp.org/vimdoc-ja/starting.html&lt;/a>
+まぁ読み進めたというか、開催者の方が読んでいるのを画面で見ていた。&lt;/p>
+&lt;p>とても良い雰囲気だった。ゆるゆると読みつつ、適宜コメントを拾っていく感じ。コメントにたまに学びがあってそれも良い。また参加したい。&lt;/p>
+&lt;p>使ってみようかなって思ったオプションとかあったけど、詳しいことは明日調べる。今日はもう寝る。&lt;/p></description></item><item><title>明日は5時起きです</title><link>https://cat2koban.dev/posts/2022-01-27/</link><pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-27/</guid><description>
+&lt;h3 id="明日">明日&lt;/h3>
+&lt;p>は訳あって出社することになったので、5時に起きて6時の人がいないであろう電車に乗り、早い時間に帰る予定です。20時から勉強会もあるしね。&lt;/p>
+&lt;p>参加予定の勉強会はこれ。面白そうだなと。&lt;/p>
+&lt;p>&lt;a href="https://gorillavim.connpass.com/event/236945/">https://gorillavim.connpass.com/event/236945/&lt;/a>&lt;/p>
+&lt;h3 id="なので">なので&lt;/h3>
+&lt;p>今日は超絶早く寝ます。なんと21時に寝ます。もう32分くらい過ぎてます。なので切り上げて寝ます。はい。&lt;/p></description></item><item><title>会社で出た ActiveRecord の Nested transactions のクイズが解けなかた</title><link>https://cat2koban.dev/posts/2022-01-26/</link><pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-26/</guid><description>
+&lt;h3 id="どの">どの&lt;/h3>
+&lt;p>ユーザーが作られる？っていう問題。会社で出たんだけど、解けなくて死んだ。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-ruby" data-lang="ruby">&lt;span class="line">&lt;span class="cl">&lt;span class="no">User&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">transaction&lt;/span> &lt;span class="k">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="no">User&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">create&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="ss">username&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s1">&amp;#39;Kotori&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="no">User&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">transaction&lt;/span> &lt;span class="k">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="no">User&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">create&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="ss">username&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s1">&amp;#39;Nemu&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">raise&lt;/span> &lt;span class="no">ActiveRecord&lt;/span>&lt;span class="o">::&lt;/span>&lt;span class="no">Rollback&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">end&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">end&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;br />
+&lt;p>Q. どのユーザーが作られる？&lt;/p>
+&lt;ol>
+&lt;li>&lt;code>kotori&lt;/code>&lt;/li>
+&lt;li>&lt;code>kotori&lt;/code> と &lt;code>Nemu&lt;/code>&lt;/li>
+&lt;li>どちらも作られない&lt;/li>
+&lt;/ol>
+&lt;p>答えはこちら ▼
+&lt;a href="https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html">https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html&lt;/a>&lt;/p></description></item><item><title>資格対策本の5章を読んだ</title><link>https://cat2koban.dev/posts/2022-01-25/</link><pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-25/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は昨日の復習と5章を読んだ。長い。5章長い。仕事で疲れてるだろうからと、半分だけ読んで寝るつもりだったのに。結局一気に全部読んでしまった。まぁ会社の研修でやったような内容もあったし、そもそも難しいこと書いてなかったのもあって、一気に読めたではある。。ていうか疲れてないのか俺？って感じ。&lt;/p>
+&lt;p>EC2やらAuto ScalingとかELBとかLambdaの説明が延々と書かれてた。ちょくちょく Code Pipeline の話も出てた。以上です。所感、以上です。&lt;/p>
+&lt;h3 id="加湿器買った">加湿器買った&lt;/h3>
+&lt;p>んですよ、実は。想像していたよりも大きくて笑ったけど、まぁベットの横とか、頭上に置いて使うとかそう言う想定はしてないので、シンプルに地べたに直置きして使っている。さくらチェッカーで高評価だったのと、youtube でいいレビューがあったのでこれを買った。もうさくらチェッカーの犬です、はい。&lt;/p>
+&lt;p>&lt;a href="https://www.amazon.co.jp/dp/B08H5MJRCB">https://www.amazon.co.jp/dp/B08H5MJRCB&lt;/a>&lt;/p>
+&lt;p>さくらチェッカーのリンクはこれ。&lt;/p>
+&lt;p>&lt;a href="https://sakura-checker.jp/search/B08H5MJRCB/">https://sakura-checker.jp/search/B08H5MJRCB/&lt;/a>&lt;/p>
+&lt;p>ちなみに youtube のレビューはこれ。&lt;/p>
+&lt;p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/nmYqJbgPSmg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br />&lt;/p>
+&lt;p>一緒にレビューされてたこの加湿器用の除菌剤も買ってみた。もう言われるがまま。&lt;/p>
+&lt;p>&lt;a href="https://www.amazon.co.jp/dp/B08H5MJRCB">https://www.amazon.co.jp/dp/B08H5MJRCB&lt;/a>&lt;/p>
+&lt;p>明日の朝がとても楽しみ。&lt;/p></description></item><item><title>資格対策本の3~4章を読んだ</title><link>https://cat2koban.dev/posts/2022-01-24/</link><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-24/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>はクラウドプラクティショナーの参考書の 3~4 章を読んだ。前に話したやつの続きだね。結構日が空いたみたい。&lt;/p>
+&lt;p>&lt;a href="https://cat2koban.dev/posts/2022-01-20/">https://cat2koban.dev/posts/2022-01-20/&lt;/a>&lt;/p>
+&lt;p>ていうか本のリンク貼ってなかったのか、これです。&lt;/p>
+&lt;p>&lt;a href="https://www.amazon.co.jp/dp/4797397403">https://www.amazon.co.jp/dp/4797397403&lt;/a>&lt;/p>
+&lt;p>アベイラビリティゾーンとか、リージョンあたりを読んで、会社で受けた研修の内容とほとんど同じだなぁと思いつつ、復習のノリで読み進めた。いやいや、第三者認証の話とかは初耳だったかも。&lt;/p>
+&lt;p>読んでみるとちゃんと IAM が何か理解してないことに気づけた。ルートアカウントが何かも分かってなかったよな。で、結局 IAM って何？&lt;/p>
+&lt;h3 id="試験の日">試験の日&lt;/h3>
+&lt;p>は、来月の21日月曜日の14時。有給取ったった。&lt;/p></description></item><item><title>直近観た映画5本について</title><link>https://cat2koban.dev/posts/2022-01-23/</link><pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-23/</guid><description>
+&lt;h4 id="ワイルドスピードジェットブレイクhttpsfilmarkscommovies72777mark_id125904783">&lt;a href="https://filmarks.com/movies/72777?mark_id=125904783">ワイルド・スピード／ジェットブレイク&lt;/a>&lt;/h4>
+&lt;p>僕の気持ちを代弁してくれている動画のタイトルを見つけたのでそれを貼る。終わり。
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/PMaJxEtlFIw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br />&lt;/p>
+&lt;h4 id="浅草キッドhttpsfilmarkscommovies94105mark_id125655556">&lt;a href="https://filmarks.com/movies/94105?mark_id=125655556">浅草キッド&lt;/a>&lt;/h4>
+&lt;p>特殊メイクのビートたけしがグロかったのと、柳楽優弥の演技が最高だった。&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/sn9IhRxr8rQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h4 id="ホラーマニア-vs-5人のシリアルキラーhttpsfilmarkscommovies97880mark_id126317211">&lt;a href="https://filmarks.com/movies/97880?mark_id=126317211">ホラーマニア vs 5人のシリアルキラー&lt;/a>&lt;/h4>
+&lt;p>スーパーナチュラルの、死を司る騎士ことジュリアン・リッチングス。マジでかっこいいので大好きなんだよね。その彼を見るためだけに観たって感じ。&lt;/p>
+&lt;p>と言うのは嘘。出てくるの知らなかったから、出てきてかなりびっくりした。&lt;/p>
+&lt;p>イカれたメンバーを紹介するぜ！的なシリアルキラーの紹介シーンがあるんだけど、この映画はそのシーンがピーク。それ以外は10倍速くらいで見てもいいかも。どことなく全体の雰囲気は&lt;a href="https://filmarks.com/movies/5496">スコットピルグリム vs 邪悪な元カレ軍団&lt;/a>みが強かった。脳死で見れる良いコメディ。&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/3cT9Re9KEOE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h4 id="ザスーサイドスクワッド極悪党集結httpsfilmarkscommovies74474mark_id126803053">&lt;a href="https://filmarks.com/movies/74474?mark_id=126803053">ザ・スーサイドスクワッド　&amp;ldquo;極&amp;quot;悪党、集結&lt;/a>&lt;/h4>
+&lt;p>まぁぶっちゃけあんまり興味湧かず、TSUTAYA とかで準新作7泊8日くらいのタイミングになったら借りようかな、程度の気持ちだった。ちらほら流れてくるレビューが全部好評だったので結局レンタルになってすぐ借りた。&lt;/p>
+&lt;p>もうね、ヒトデがキモかった。あとハーレイクインがたくさん出てたのはよかった。そしてどうでもいいことに、ピーター・カパルディがプリーチャーに出てたピップ・トレンスにめっちゃ似てた。&lt;/p>
+&lt;p>misirlou のイントロっぽい曲が流れ出したあたりから、クエンティンタランティーノが好きなのかなーこの監督は、とか適当なこと考えながら観てた。面白かった。&lt;/p>
+&lt;p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/2AitzZXzT2g" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br />&lt;/p>
+&lt;p>misirlou ってのはこれなんだけど、多分みんな聞いたことあるはず。
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/1hLIXrlpRe8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p>
+&lt;h4 id="マリグナント狂暴な悪夢httpsfilmarkscommovies88639mark_id126803398">&lt;a href="https://filmarks.com/movies/88639?mark_id=126803398">マリグナント　狂暴な悪夢&lt;/a>&lt;/h4>
+&lt;p>なんか公開当初から「新体験！」「新しい形のホラー！」みたいに言われてたのを覚えてて、結構興味津々だった。もう待ちきれなかったね。とはいえ一緒に行ってくれるような人なんていないので、レンタルになるまで待った。このご時世ってこともあるし、まぁしゃーないね。&lt;/p>
+&lt;p>ちらほら見えたレビューで言われてた通り、終盤の方が印象に残った。というか、終盤でこの映画の核心をつく事に気づいた。多分俺しか気づいた人いないと思う。結論から言うと、それは、この映画が実写版ジョジョの奇妙な冒険だったってこと。まぁ急に何を言ってるのかわからないと思う人も沢山いると思う。分かる。この映画の最後を見て俺もそう思った。はい、第三部、完。みたいな終わり方。いやもう本当にびっくりした。空条承太郎もでてきてたので、間違い無いです。これはジョジョです。気になる人は是非観てみて、俺と同じ気持ちを味わってほしい。&lt;/p>
+&lt;p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/y6cZXW-FN48" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br />&lt;/p></description></item><item><title>いつからか絵を描かなくなった</title><link>https://cat2koban.dev/posts/2022-01-22/</link><pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-22/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は、っていう入り、なんか飽きた。というか、それ以外の話をしたい時にわざわざ今日の出来事言うのしんどいなって。あれ、これ日記か。&lt;/p>
+&lt;h3 id="気がついたら">気がついたら&lt;/h3>
+&lt;p>あんなに大好きだったお絵かき、今となっては全然やってない。中学校くらいまで、ほぼ毎日絵を描いてた。描く頻度が下がったの、高校に入ってからかな〜。ダンスとか、映画とかに時間を使うようになって。あ、映画は大学からやけに見始じめたっけか。高校はほぼダンスとか、勉強に時間を使ってたかも。まぁ大学入ってからは夜に遊ぶ楽しさも分かってきて、一層家に引きこもって絵なんか描かなくなってた。&lt;/p>
+&lt;p>描きたいのかって言われると、液タブがあれば、って感じだな。1万くらいで、macbook pro くらいの大きさの液タブが買える世界線になれば、すぐさま絵描きに戻るだろう。&lt;/p>
+&lt;p>て言うか、案外安い。セール中なら2万きるっぽい。へー。。&lt;/p>
+&lt;p>&lt;a href="https://www.amazon.co.jp/dp/B08P1W1CH1">https://www.amazon.co.jp/dp/B08P1W1CH1&lt;/a>&lt;/p>
+&lt;h3 id="どうでも良いけど">どうでも良いけど&lt;/h3>
+&lt;p>最近すえひろがりずって人たち見なくない？&lt;/p></description></item><item><title>言語化できる人に尊敬の念を抱いている</title><link>https://cat2koban.dev/posts/2022-01-21/</link><pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-21/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は面白いラジオを見つけた。これです。&lt;/p>
+&lt;p>&lt;a href="https://open.spotify.com/episode/089qcoeL08T0chYxLUbGO1?si=EH8y_ZM8SBam1SJ4tDLTDQ">https://open.spotify.com/episode/089qcoeL08T0chYxLUbGO1?si=EH8y_ZM8SBam1SJ4tDLTDQ&lt;/a>&lt;/p>
+&lt;p>蛙亭のトノサマラジオ。&lt;/p>
+&lt;p>まだ2回目までしか聞いてないけど。&lt;/p>
+&lt;h3 id="音楽とか">音楽とか&lt;/h3>
+&lt;p>映画とか、具体的にここが面白い・ここが良い・ここが好き、って言語化できる人、本当に、心の底から、すごいな〜と思う。本当に。雰囲気で生きてる雰囲気人間なので、なんで好きなの？って言われても、好きだからとしか言えない。まぁシンプルにボキャ貧かもしれないな。そうです、ボキャ貧です。好きだから好きでダメなの？って言われるけど、まぁダメってわけじゃないんだよなぁ。こう、羨ましいというか。&lt;/p>
+&lt;p>一時期 filmarks とかを使って、頑張って言語化しようとしていたが、いつからかウケを狙うようなレビューに変貌してしまった。多分そっち路線で書いてたら楽しくなっちゃったんだろうな。俺が。&lt;/p>
+&lt;p>でもこうやって日記を書き続けることによって、他の人が読みやすいと思える文章を書けるようになったり、自分の思ったままの気持ちをうまいこと言語化して人にわかりやすく伝えられるようになるかもしれない。&lt;/p>
+&lt;p>まぁ分からん。ウケを狙う日記になっていくかもしらん。若干カイジネタ挟んでたし、もうなってるかもしらん。&lt;/p>
+&lt;h3 id="最後に">最後に&lt;/h3>
+&lt;p>この映画、めちゃくちゃ観たい&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">『哭悲』人を発狂させる凶悪ウイルスが広まり、街中で大殺戮が繰り広げられる！！台湾が放つ超ド級残酷バイオレンスホラー！これマジで観たいやつです。本当に期待してる。予告も貼るけど引くぐらいグロいので要注意！！&lt;a href="https://t.co/V9uOASjMWS">https://t.co/V9uOASjMWS&lt;/a> &lt;a href="https://t.co/HONFtUeRbw">pic.twitter.com/HONFtUeRbw&lt;/a>&lt;/p>&amp;mdash; 人間食べ食べカエル (@TABECHAUYO) &lt;a href="https://twitter.com/TABECHAUYO/status/1484529679088644100?ref_src=twsrc%5Etfw">January 21, 2022&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>気づけば20日</title><link>https://cat2koban.dev/posts/2022-01-20/</link><pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-20/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>はびっくり 1月20日 ですよ。早い。もう1ヶ月が終わろうとしている。早い、、、
+この日記もいつの間にか 20日続いてるのか。まぁ自分にしては長い方な気がする。 &lt;del>その日で書けてないことが多いけど&lt;/del>&lt;/p>
+&lt;h3 id="aws-認定クラウドプラクティショナー">AWS 認定クラウドプラクティショナー&lt;/h3>
+&lt;p>の参考書、今日は 2章 まで読めた。クラウドとは何か、とか、クラウドアーキテクチャの設計概念についてさらっと書かれてた。AWS Well-Architected って言う単語を覚えた。多分明日には忘れている。アーキテクチャのベストプラクティスらしい。リンクが本に書かれていたけど、アクセスしてみると deprecated だった。残念。代わりにタイトルの方に最新のドキュメントのリンクが書かれてたので、一応ここにもメモしておこう。&lt;/p>
+&lt;p>&lt;a href="https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/wellarchitected-framework.pdf#welcome">https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/wellarchitected-framework.pdf#welcome&lt;/a>&lt;/p>
+&lt;p>まぁ、読むかはわからない。&lt;/p></description></item><item><title>本も読めてなければ映画も観れてない</title><link>https://cat2koban.dev/posts/2022-01-19/</link><pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-19/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>こそは、AWS 認定クラウドプラクティショナーを読む、マイリストに溜まっている映画を観る、なんて考えていた。でも読めてない、観れてない。一体何日同じことを繰り返すのか。&lt;/p>
+&lt;p>どっかで有給でも使って、映画観るだけの日、AWS 認定クラウドプラクティショナーとか、自分のやりたい勉強に時間を当てる日、みたいなのあってもいいかもなぁ。&lt;/p></description></item><item><title>転職サービスの会社の人と話した</title><link>https://cat2koban.dev/posts/2022-01-18/</link><pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-18/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は 18:30 から一時間くらい転職サービスの人と面談をしていた。まぁ転職の意図はないけど、興味があったので、2、3年後のキャリアを考える参考になればと思い、お願いしてみた。終始転職どうですか？もっと早めに考えてみてもいいんじゃないですか？たばくんにぴったりの求人、ありますよ？とか言われるのかなって個人的に思ってたけど、全然そんなことなかった。丁寧にスライドを画面に共有してくれて、主にエンジニアの転職市場の動向やら、バックエンドエンジニアのキャリア形成事例などについて細かく説明してくれた。スライドの説明をしてくれた人と、もう一人、補足説明してくれたり、自分に質問してきたりするような人がいたんだけど、どちらも非エンジニア？っぽかった。まぁ補足説明してくれたり、質問してきた人はちょっと用語がわかる素振りがあったので、おそらく経験していたのかなぁとか思ったり。まぁ現役が来ないよなぁ流石に。&lt;/p>
+&lt;p>あ、やべこのままだと明日早起きできない（書いてる今 00:14）&lt;/p>
+&lt;p>終わり。(唐突)&lt;/p></description></item><item><title>フフ…へただなあ、catくん。へたっぴさ……!提案の仕方がへた……。</title><link>https://cat2koban.dev/posts/2022-01-17/</link><pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-17/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は8時30分ちょうどからもくもく会の予定なのに、8時30分に起きてしまうという大失態。うう、、、、早く寝なきゃだよな。朝早く起きるには。明日も明日で9時から朝の勉強会だし、この日記を書いている今でも本当は眠ってなきゃいけない。まぁなので夜更かしはできませんね。勉強会の前にジムに行けたらもっと最高だが、どうだろう。&lt;/p>
+&lt;h3 id="マクドナルド">マクドナルド&lt;/h3>
+&lt;p>を夕飯に食べたのだけれども、ポテト L サイズを頼むより、ナゲットを頼んだ方が腹八分で収まるというどうでもいいことを知れた。多分この S サイズしか注文できない期間中はずっとナゲット頼むと思う。多分。&lt;/p>
+&lt;h3 id="提案するのが下手">提案するのが下手&lt;/h3>
+&lt;p>ここ最近の自分の仕事の仕方を見てると、人に何かの改善策を提案するのが下手だなって思った。&lt;/p>
+&lt;ul>
+&lt;li>もう少し考えればわかることが考慮できてない&lt;/li>
+&lt;li>シンプルにまとまりのない日本語&lt;/li>
+&lt;/ul>
+&lt;p>あたり。まぁなんていうか他にもありそうだけど。
+仕組み化してしまいたいが、こういう提案ものは、提案RCE なるものを用意したらいいのかな。逆に自分がどんな提案をされたら乗り気になりやすいか、納得がいきやすいか、とか、逆の立場になって考えてみる方が良いのかな。&lt;/p>
+&lt;p>まぁ明日調べてみようかね。&lt;/p>
+&lt;h3 id="関係ないけど">関係ないけど&lt;/h3>
+&lt;p>提案を受けて、何か意見を言う際に、「真っ向からあなたの意見を否定するつもりはない」と言うニュアンスの一言があるだけで、あまり嫌な気持ちにならないなと思った。いいね。&lt;/p></description></item><item><title>来週はサファイアリーグから上のリーグに上がるぞ</title><link>https://cat2koban.dev/posts/2022-01-16/</link><pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-16/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は11時前くらいに起きて自室の布団を洗濯して、待ち時間に延々と duolingo をしていた。昇格は出来なさそうだが、まぁ維持で良いか。来週はサファイアリーグから上のリーグに行きたい。というかこの日記もそうだけど、duolingo も続いていて嬉しい。この調子で一年続けられるといいな。（ジムも）&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/XUsvhVT.png" alt="">&lt;/p>
+&lt;p>昼ごはん食べた後に久しぶりにエニタイムに行ったけど、40分近く有酸素運動して帰ってしまった。&lt;/p>
+&lt;p>あとは映画を見ていた気がする。ホラーマニアと5人のシリアルキラー。実は先にザ・スーサイドスクワッドをレンタルしていたけど、間違って後からこいつをレンタルしちゃって、謎に先に見てしまった。たまにはこういうコメディチックなホラーも悪かないな。&lt;/p>
+&lt;p>&lt;a href="https://filmarks.com/movies/97880/reviews/126317211">https://filmarks.com/movies/97880/reviews/126317211&lt;/a>&lt;/p></description></item><item><title>いざ朝型と言っていたあの頃の僕へ</title><link>https://cat2koban.dev/posts/2022-01-15/</link><pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-15/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>はなんと、昨日の夜更かしのせいで11時くらいに起きてしまった。いざ朝型と意気込んでいたあの頃の私はどこに行ったものか。。。まぁ起きてからグータラ、というよりは、昼頃に届いたダイニングテーブル、とセットになってた椅子4脚、と自分の部屋用のシェルフ、とサイドテーブルの組み立てをやっていた。&lt;/p>
+&lt;p>ダイニングテーブルはニトリのこれを購入。&lt;/p>
+&lt;p>&lt;a href="https://www.nitori-net.jp/ec/product/5620875-5620872s/?rc=set">https://www.nitori-net.jp/ec/product/5620875-5620872s/?rc=set&lt;/a>&lt;/p>
+&lt;p>サイドテーブルもニトリで、これを購入。&lt;/p>
+&lt;p>&lt;a href="https://www.nitori-net.jp/ec/product/8760899s/">https://www.nitori-net.jp/ec/product/8760899s/&lt;/a>&lt;/p>
+&lt;p>シェルフは amazon でこれを購入。&lt;/p>
+&lt;p>&lt;a href="https://www.amazon.co.jp/dp/B07GBNHT8H/">https://www.amazon.co.jp/dp/B07GBNHT8H/&lt;/a>&lt;/p>
+&lt;p>どれも買って初日だけど、満足です。&lt;/p>
+&lt;h3 id="ふと">ふと&lt;/h3>
+&lt;p>思ったけど、何かものを買った時の「これ買ったよ〜」っていう共有コメントのために、iframe とかでリンクテキストだけじゃなく、物の画像が見えるような装飾をしておくのもありかも。というかシンプルに OGP 用意してくれてるサイトならそれを使いたい。手が空いたら shortcode 作っておいても良いね&lt;/p></description></item><item><title>YAPC::Japan::Online 2022 に応募した</title><link>https://cat2koban.dev/posts/2022-01-14/</link><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-14/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は Twitter で YAPC のチケット販売のツイートを見かけたので、早速応募した。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">チケットの販売を開始しました🎉&lt;a href="https://t.co/ZgrCNnb2bw">https://t.co/ZgrCNnb2bw&lt;/a>&lt;/p>&amp;mdash; yapcjapan (@yapcjapan) &lt;a href="https://twitter.com/yapcjapan/status/1481862686392860672?ref_src=twsrc%5Etfw">January 14, 2022&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>というかこの shortcode 、デフォで入ってるの知らなかった。とても便利。
+このサイトを参考に埋め込んでみたけど、普通にいけたっぽい。&lt;/p>
+&lt;p>&lt;a href="https://takaken.tokyo/dev/hugo/hugo-embed-code/">https://takaken.tokyo/dev/hugo/hugo-embed-code/&lt;/a>&lt;/p>
+&lt;h3 id="そしてそして">そしてそして&lt;/h3>
+&lt;p>「あれ、今何やってたっけ？」ってよくなる僕にうってつけなアプリを見つけた。インストールしようと思ったが、まだ macOS 12.1 以上にしてないので使えてない。明日アプデしつつ、触ってみようかなと思っている。&lt;/p>
+&lt;p>アプリへのリンク（https://apps.apple.com/app/id1604176982）&lt;/p>
+&lt;p>アプリの紹介記事（https://applech2.com/archives/20220114-one-thing-for-mac-put-task-in-menu-bar.html）&lt;/p></description></item><item><title>元気でやってると伝えたい</title><link>https://cat2koban.dev/posts/2022-01-13/</link><pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-13/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は久しぶりに元研究室の同期と会話をした。ゲームを通じて。元気そうでよかった。会社がフルリモートOK らしく、引っ越すそう。車も買ったとのことで、なんとホンダ フリード。羨ましい。&lt;/p>
+&lt;p>インスタの話をしたり、今どんな仕事をやってるのかの話だったり、亡くなった元担当教諭の実家に挨拶に行きたいねという話をしたり。転職意欲のことを聞いたが、全くないらしい。残念だ。いや、良いことか。&lt;/p>
+&lt;p>研究室のメンバーで早く焼肉に行きたい。先輩も後輩も集めて。コロナが落ち着いたら、絶対誘うと決めている。計画すると決めている。まぁ先に先生に挨拶に行きたいな。元気でやってると伝えたい。&lt;/p></description></item><item><title>個人的に8時起きまでは「早起き」</title><link>https://cat2koban.dev/posts/2022-01-12/</link><pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-12/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は結局9時過ぎに起きた。これは早起きと言い難い、、個人的に。せめて8時だ。8時こそ、早起きのラインではないだろうか。まぁどっちでもいいな。&lt;/p>
+&lt;p>というか今日一日を通して大問題だったのはかなり仕事に集中できなかったことだ。睡眠はしっかり取っていたので眠気が原因という訳でもないはず。&lt;/p>
+&lt;p>一先ず、明日ポモドーロテクニックを復活させよう、4、５日ぶりに。&lt;/p></description></item><item><title>いざ朝型</title><link>https://cat2koban.dev/posts/2022-01-11/</link><pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-11/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は 6:30 に起きて午後まで用事を済ませていた。そっから仕事。&lt;/p>
+&lt;p>仮眠取ったけど今もとても眠たい。生活習慣が壊れて夜型になってしまっていたので、今日を機に朝型に変更できそうだ。&lt;/p>
+&lt;h3 id="面白い記事">面白い記事&lt;/h3>
+&lt;p>当社の QA エンジニアのメンバーが書いた記事がとても良い。というか刺さるものがありすぎてつらい。みんなもぜひ読んでみてほしい。&lt;/p>
+&lt;p>&lt;a href="https://note.com/morita_masami/n/nce741735a5cf">https://note.com/morita_masami/n/nce741735a5cf&lt;/a>&lt;/p></description></item><item><title>U-NEXT カクカクするんだけどどうして？</title><link>https://cat2koban.dev/posts/2022-01-10/</link><pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-10/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は午前中に散髪に行ったり、 UNEXT でワイルドスピードの新しいやつ見てた。カクつきが酷くてびっくり。なんというか急に FPS が 30 くらいの世界線に来たようなイメージ。所々フレームがカクつく。んーーーその様子を動画に撮って共有したいけどできないのでやらないが。ちなみに死霊の盆踊りの時は一切カクつきが無かった。 あれはカクついてた方が面白かったかもしれない。そんなわけないか。&lt;/p>
+&lt;p>そういえば明日は午前中お休みをもらっており、用事を片付ける予定。6:30 には起きるという予定なのにまだ起きている。なんてことだ。&lt;/p></description></item><item><title>初詣に行ってきた</title><link>https://cat2koban.dev/posts/2022-01-09/</link><pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-09/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は8時くらいに起きてお風呂入ってぐーたらしてた。そんで10時過ぎくらいから初詣に。
+途中のコメダ珈琲店でコメダブレンドなるコーヒーを飲んだり朝ごはんを食べたりした。賽銭やらおみくじのお金をくずそうと入った BOOKOFF で技術書周りの品揃えに文句を言いつつ店内をうろうろ。結局お金はくずせず近くのローソンでガムを買う。着いた神社で引いたおみくじは中吉。帰りにお守りを買い、加えてお札を購入。家内安全、厄除けなる効能があるみたい。&lt;/p>
+&lt;p>帰る道で駅に向かいつつショッピングをして、途中の本屋で最近出たエキスパートたちの Go言語を買った。&lt;/p>
+&lt;p>&lt;a href="https://gihyo.jp/book/2022/978-4-297-12519-6">https://gihyo.jp/book/2022/978-4-297-12519-6&lt;/a>&lt;/p>
+&lt;p>なんやかんや18時に家について、お札を貼ってみたが説明書もなくよく分からず、 Google 先生に聞いて調べた情報を頼りに火元の近くと部屋全体が見渡せるような場所に貼り付けたが、正直なところ本当に貼る場所合ってるか不安。&lt;/p></description></item><item><title>初めて UNEXT で映画をレンタルした</title><link>https://cat2koban.dev/posts/2022-01-08/</link><pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-08/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は初めて UNEXT で映画をレンタルした。ちなみにレンタルした映画はワイルドスピード/ジェットブレイク。まだ途中までしか観れてない。多分明日には観終わると思う。観終わったらマイリストにある比較的新し目の映画のどれか一つをレンタルしようかななんて思ってる。&lt;/p>
+&lt;ul>
+&lt;li>レンタルしようとしている映画
+&lt;ul>
+&lt;li>ザ・スイッチ&lt;/li>
+&lt;li>ブラックウィドウ&lt;/li>
+&lt;li>RUN&lt;/li>
+&lt;li>ザ・スーサイドスクワッド&lt;/li>
+&lt;li>Summer of 85&lt;/li>
+&lt;li>レミニセンス&lt;/li>
+&lt;li>最後の決闘裁判&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="そういえば">そういえば&lt;/h3>
+&lt;p>昨日の日記でも書いてたけど、OGP の設定はこんなテンプレートを使ってやることにした。&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/jDm7UNg.png" alt="">&lt;/p>
+&lt;p>最初は下のような背景青色のカラフルなタイプで考えていた。まぁそもそもこのブログの風貌に合わないかもなぁということでボツに。&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/5dn2xjE.png" alt="">&lt;/p></description></item><item><title>OGP の設定してたり浅草キッドっていう映画観てたり群青戦記っていう漫画読んでたり</title><link>https://cat2koban.dev/posts/2022-01-07/</link><pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-07/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は仕事終わりにこのブログのリンクを SNS やらどこか他の場所で共有した時に少しでも華やかなものにしようと、&lt;a href="https://github.com/Ladicle/tcardgen">tcardgen&lt;/a> という Golang 製の OGP 作成ツールな CLI を使って OGP を自動生成するようにしようとしていた。
+結構デザインの自由が効くみたいで、どうしよっかなーと悩んでいる。まぁ明日くらいに自分で作ったデザインのものか、もしくはデフォルトの OGP がこのブログにも設定されていることを願う。&lt;/p>
+&lt;p>今日も duolingo をやったのだけれども、なんと順位を追い越されていたので、明日朝早起きして逆転してやろうと思う。&lt;/p>
+&lt;p>とはいっても浅草キッドっていうビートたけしの自叙伝を映画化したものを Netflix で観てるので、夜更かししてまうかもしらん。&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/sn9IhRxr8rQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>そういえば GTO を読み終えたので、次は群青戦記と言う漫画を読んでいる。これまた面白い。夜更かしよ永遠に、、、&lt;/p></description></item><item><title>好きなイラストでデスクマットが作れるらしい</title><link>https://cat2koban.dev/posts/2022-01-06/</link><pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-06/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は自分の好きなイラストでデスクマットを作れるという耳寄り情報を教えてもらった。&lt;/p>
+&lt;p>このサイトから注文できるらしい &lt;a href="https://www.aliexpress.com/item/10000006187624.html">https://www.aliexpress.com/item/10000006187624.html&lt;/a>&lt;/p>
+&lt;p>aliexpressは xiaomi の mi band 6 の購入を検討していたときにその存在を知っていたが、こういうショップが有るということは知らなかった。好きなイラストとはいえ、著作権もあるだろうし、ちょっとどういうイラストを依頼しようか悩んでいる。
+Twitter やら何やらのアイコンも拾い画なので今更そういう事を言ってもな感はある。が、まぁどうせなら自分の書いたイラストにしておきたい。
+そんな時間があるのかと言われるとそりゃ無いわけで、もうちょっと検討を続けることになるだろうなと思う。&lt;/p>
+&lt;p>絵師さんにお金を出して、レトロポップな感じで作ってもらおうかなぁ&lt;/p></description></item><item><title>duolingo のランキング上位を目指したいね</title><link>https://cat2koban.dev/posts/2022-01-05/</link><pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-05/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>も何気ない一日でした。朝起きれなかったのは良くなかった。もうこの日記を書き終わったら、GTO読んで寝る。&lt;/p>
+&lt;p>そろそろ今期の目標を考えて、12月の振り返りをしないといけないのに、すっかり手をつけていない。まずい。この日記を書いていて思い出した。明日の午前中も時間がないので、午後にやるしかないかなぁ。&lt;/p>
+&lt;p>そう言えば duolingo をまた実施できた、偉い。
+勉強することでもらえるポイントで競えるみたいで、ランキングが出ている。これが週で入れ替わるのかな？よく覚えてない。
+とりあえず 7日 続けて、あわよくば一位を狙っていきたいところだ。&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/giGWuTw.png" alt="">&lt;/p></description></item><item><title>死霊の盆踊りを昨日見た</title><link>https://cat2koban.dev/posts/2022-01-04/</link><pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-04/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>からまた仕事。
+今日までお休みの人がちらほら Twitter にもいたみたい。まぁブログのスタイル整えるのももう飽きちゃったし、溜まってる映画を消化するべく俺も休んどけばよかったかなぁっても思ったけど、実際働くの楽しいのでモーマンタイでした。明日も頑張ろう。&lt;/p>
+&lt;p>今日も今日とて duolingo をできた。偉い。&lt;/p>
+&lt;p>そういえば昨日、死霊の盆踊りって言う映画を夜中に見たんだよね。日記に書くの忘れちゃってたけど。
+予算2000円くらいで作ったんかってくらいの映画でした。
+予告を一応共有しておく。&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/15cI7aP3XK8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>windows95風の jekyll theme に驚いた話</title><link>https://cat2koban.dev/posts/2022-01-03/</link><pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-03/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は昼前に起きて、ぐーたら過ごしていた。
+明日から仕事だと言うのに、1週間前くらいから生活習慣が壊れていて朝がとてもしんどい。
+GTO 読んだらすぐ寝たいところだ。&lt;/p>
+&lt;p>13時過ぎごろから、職場の同期の jekyll tutorial を横目にこのブログの CSS を整えたり、はてなブログから記事の引っ越したりもした。
+jekeyll tutorial が終わって、同期とちょろっとテーマを見ていたのだけれども、windows 95 風のテーマには度肝を抜かれた。&lt;/p>
+&lt;p>それがこれだ &lt;a href="http://jekyllthemes.org/themes/windows-95/">http://jekyllthemes.org/themes/windows-95/&lt;/a>&lt;/p>
+&lt;p>アイコンとかの画像をどっから引っ張ってきたのか、自分で作ったのか、かなりの力作。&lt;/p>
+&lt;p>そして昨日に引き続き、今日も duolingo できた。今日はお昼頃にちょろっとやった。偉い。&lt;/p></description></item><item><title>ぐーたらな年始</title><link>https://cat2koban.dev/posts/2022-01-02/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-02/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>は9時過ぎに起きて18時くらいまでスーパーナチュラルのシーズン14を見てた。ずっと見っぱなしってことではなくて、このブログのCSSとか整えてたりしつつ横目に。あとはまぁご飯食べたり、途中で気分転換に散財は人生やでおなじみの人の動画を見てたりした。&lt;/p>
+&lt;p>それと今日は duolingo できたので偉い。&lt;/p></description></item><item><title>2022年のやりたいこと</title><link>https://cat2koban.dev/posts/2022-01-01/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2022-01-01/</guid><description>
+&lt;h3 id="今日">今日&lt;/h3>
+&lt;p>はゲームしたり、ご飯作ったり、Supernatural のシーズン 14 を見たりしてた。
+ご飯を作ってる最中の味見では美味しい味加減と思っても、食べてみるとやっぱ薄いなぁとか思ったり。難しいよね。&lt;/p>
+&lt;h3 id="2022年のやりたいこと">2022年のやりたいこと&lt;/h3>
+&lt;ul>
+&lt;li>日記を書く&lt;/li>
+&lt;li>TOEIC 600 ↑&lt;/li>
+&lt;li>ご飯作る&lt;/li>
+&lt;li>体重 65kg&lt;/li>
+&lt;/ul>
+&lt;p>日記はなんとなく。
+短い長いとか気にしないで書く。つもり。
+いつまで続くんだろうか。&lt;/p>
+&lt;p>TOEIC は、英語を会社で使う機会が増えているので、できるようになって楽をしようと思い。
+特に Writing , Reading を強化していきたい。スタディサプリ(英語)をやっていたのだけれども、今は duolingo に鞍替えしている。毎日って訳じゃなく、やったりやらなかったり。まぁこれも今年毎日できるようにしたいなとか書いてる最中で日が変わりました。&lt;/p>
+&lt;p>ご飯作るに関しては、肉野菜炒めとカレーくらいしかレシピ見ないで作れるものがないのでレパートリーを増やしたいなと思い。&lt;/p>
+&lt;p>楽して痩せたい。無理よね、わかってます。&lt;/p></description></item><item><title>本調子じゃない</title><link>https://cat2koban.dev/posts/im-recovering/</link><pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/im-recovering/</guid><description>
+&lt;p>今日の仕事は本調子ではありませんでした。&lt;/p>
+&lt;p>たまにはこういうこともあります。&lt;/p>
+&lt;p>明日からまた気持ちを切り替えて頑張ろうと思います。&lt;/p></description></item><item><title>Nuxtjs3 が来るみたい</title><link>https://cat2koban.dev/posts/rechallenge/</link><pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/rechallenge/</guid><description>
+&lt;p>このブログ、全然続いてない
+敷居を自分で上げすぎているかもしれない&lt;/p>
+&lt;p>Nuxt3 が来るっていうのを聞いたので、課題解決に適切ならどうにかプロダクトに導入できないかなとか考えたりしている。&lt;/p>
+&lt;p>触ってみないことには知見はたまらないはずなのでこのブログをまたまた Nuxt に移行するかもしれないなとか思ったり。&lt;/p>
+&lt;p>ちょっと前に仕事で一緒だった人が、Nuxt でブログを作っていたり、開発でガッツリ触ってたりするのを見ると、ちょっと負けなきゃって思って俺も触る！とか思うことあるよね。ないか。&lt;/p></description></item><item><title>スタディサプリ TOEIC を始めた</title><link>https://cat2koban.dev/posts/studysapuri/</link><pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/studysapuri/</guid><description>
+&lt;p>&lt;img src="https://i.imgur.com/63G93uQ.png" alt="">&lt;/p>
+&lt;p>まだやり始めて3日。1週間の無料お試し期間ということで、ゴールデンウィーク中に沢山動画やら教材を使い倒してやろうと思い、登録。とはいえまだ1日1時間くらいしか利用できておらず、基礎講座（基本英文法・基礎英単語）を一通り終わったくらい。。。
+上の画像はそのスタディサプリのプロフィール。学習時間を計測してくれるのはモチベーションになるから嬉しい。連続学習日数も、途絶えさせないようにと、何か少しでもやるかと思えるので、個人的には嬉しい。&lt;/p>
+&lt;p>UXは特に不満に思う箇所はない。動画が急に止まったり、アプリが急に落ちたりすることもない。Webよりはアプリの方がいいかも。片手でサクサクできる感じが好き。動画の数も思った以上に多い。正直詰め込まないと無料期間内では全て見るのは難しい。。基礎構文以外はまだ4, 5本しか視聴できていないが、関先生の講義もとてもわかりやすい。&lt;/p>
+&lt;p>また無料期間が終わりそうになったらブログに感想とか載せるかも。載せないかも。&lt;/p></description></item><item><title>少しだけ新卒を振り返る猫</title><link>https://cat2koban.dev/posts/2020-12-13/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-12-13/</guid><description>
+&lt;p>この記事は&lt;a href="https://adventar.org/calendars/5401">マネーフォワードアドベントカレンダー2020🎄&lt;/a>の13日目の記事です。
+昨日は 「19新卒の自分が「ミッションへの貢献」を感じられるようになった2020年」というタイトルで、&lt;a href="https://note.com/fukina">安藤さん&lt;/a> の記事でした。&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Ffukina%2Fn%2Fn047c8693235e" title="19新卒の自分が「ミッションへの貢献」を感じられるようになった2020年｜安藤ふき菜｜note" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://note.com/fukina/n/n047c8693235e">note.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;h3>自己紹介&lt;/h3>
+&lt;p>マネーフォワードでエンジニアをしています、たばです。SNSなどのアカウントネームは大体 &lt;a href="https://twitter.com/cat2koban">@cat2koban&lt;/a> でやっています。
+この記事では、少しだけ新卒エンジニアとして過ごしてきたこれまでの日々を雑多に振り返っていこうかと思います。&lt;/p>
+&lt;h3>入社当初&lt;/h3>
+&lt;p>現在も猛威を奮っている COVID-19 の影響で、入社式はオンラインで開催されたのを覚えています。
+PCの受け渡し以外、それまでの入社手続き諸々は全てオンラインで行われました。そのおかげで外に出ることなく、三密を避けた状態で社会人としてのスタートを切ることができました。&lt;/p>
+&lt;p>こちらの記事にて、入社式の裏側をいくつか紹介しているので良ければこちらも御覧ください。
+&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Fnobosemon21%2Fn%2Fn4918572f6d2f" title="マネーフォワード初！総勢45人のオンライン入社式の裏側を聞いてきました｜Jun Osaki｜note" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://note.com/nobosemon21/n/n4918572f6d2f">note.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;h3>研修期間&lt;/h3>
+&lt;p>4月〜7月には大抵リモートで、マネーフォワードのカルチャーについての研修や、情報セキュリティに関する研修などいくつかオリエンテーションが実施されていたのを覚えています。各々が自ら課題を設定しプロダクト開発を行うエンジニア研修も、オリエンテーションと並行して実施されました。エンジニア研修の際、まだあまりコミュニケーションの取れていないメンターや他の先輩に質問を投げることに億劫になっていたせいで、技術のキャッチアップや疑問点の解消に少し手間取ったのを覚えています。とはいえ、後に開かれるチームの夕会を通じて、チームのバックグラウンドを知ることができ、人に対する不安等は解消されていったように思います。現在は週2日で行われている夕会ですが、始めの頃は毎日夕会が行われていました。1日のやったこと・学びの共有など、序盤は全メンバーが持ち回りで自己紹介をしていたのを覚えています。丁度先日、メンターの 4geru さんがチームの夕会について紹介しているので良ければこちらも御覧ください。&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2F4geru%2Fn%2Fn2f194c69168d" title="マネーフォワードアドベントカレンダー Day6. HR Product本部の夕会｜4geru｜note" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://note.com/4geru/n/n2f194c69168d">note.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;h3>日報を書き始めた&lt;/h3>
+&lt;p>社会人になってからはほぼ毎日、日報を書くようになりました。適宜会議などのメモも載せるようになったり、気づいたこと・学び得たものを所感に記す量も増え、1日に書く日報のボリュームが日に日に増えていったのを覚えています。
+併せて最初の頃は、「他人の良いところを真似して自分のものにする」という目的で、毎日退勤後の一時間、同期の日報をまじまじと眺めていました。他の同期はエンジニア研修・それ以外で何をしているのか、1日でどんな学びを得たのか、はたまた何をどうメモに残しているのかなどなど、多くの情報を得ようと会社の esa に張り付いていたのを覚えています。稀にユーモアに富んだ同期の面白おかしい振り返りがあったりして、飽きることなく続けていました。現在は同期の日報を読むことで1時間も時間を取ることはしていませんが、チャンネル内に投稿される簡略化された日報を読む、程度のことをしています。&lt;/p>
+&lt;h3>初めてのタスクアサイン&lt;/h3>
+&lt;p>5月、研修と並行して初めてタスクを任されたのを覚えています。最初のタスクは特に困惑することなく進み、PRの作成、レビューと、スムーズにいきました。そしていざ自分の修正が本番環境に反映されたのを目の当たりにすると、エンジニアとして歩み始めた実感がようやく湧き、期待と興奮で胸が躍ったのを覚えています。&lt;/p>
+&lt;h3>初めての考慮漏れ&lt;/h3>
+&lt;p>初めてのタスクアサインからすぐのことでした。2つほど小さめのタスクをこなした後、ビジネスサイドのメンバーも巻き込む少し大きめの機能追加に関するタスクを任せていただくことになりました。嬉しくなった私は時に遅くまでメンターにお付き合いしていただき、夜遅くまで作業を続けて残ってしまう、なんてことも多々あったのを覚えています。実はこの少し大きめの機能追加のタスク、リリース当日になんと考慮漏れが発覚してしまい、別途修正PRをリリースする必要が出てきたのです。足早に修正し、PRを作ったものの、私はリリースをせずにそのまま休暇に入ってしまい、後に先輩が代理でリリースまで巻き取ってくださったのを覚えています。リリースした機能で問題が起きないか、障害が起きてしまい、もしかすると追加作業の必要があるかもしれないという気持ちで、リリース付近はアプリの様子を見守ることが大切だなと学びました。&lt;/p>
+&lt;h3>入社後3ヶ月経っての面談&lt;/h3>
+&lt;p>8月に入って、VPoE の渋谷さんと入社前と後の期待値のズレがないか等についてお話をさせていただく機会がありました。まだ大きな成長は実感できていないが、周りの沢山の優秀な同期・先輩が、自分に対して常に良い刺激を与えてくれる最高の環境であると話したのを覚えています。今も変わらずそのように思っており、個人的にはとても働きやすく、自分の成長にたくさんコミットできる環境だなと思っています。&lt;/p>
+&lt;h3>そして現在&lt;/h3>
+&lt;p>9, 10, 11月と、ひたすらに任されたタスクをこなしつつ、時には自分からも積極的にタスクを取りに行ったりして、入社当初よりも幅広く社内で活動ができるようになったなと個人的には思っています。とはいえレビューの際にかなりの数の指摘を受けたり、ロジックの設計で考慮漏れが発覚してしまい手戻りが起きたり、開発者都合の対応をお客様に案内しようとして指摘を受けたり...と、まだ未熟な部分が多いことを痛感しています。仕事を任されているプロである以上、未熟と感じた部分は放置せずに改善し、より高い質で仕事をこなせるよう努力する必要があるので、ひたすらに経験を積み、失敗を振り返り、繰り返さないためにもどう仕組み化するか、成功時には、良かった点を続けられるようにどう仕組み化するか考える、そのループをこれからも崩さないようにしていきたいなと思います。&lt;/p>
+&lt;h3>終わりに&lt;/h3>
+&lt;p>というわけで少しだけ新卒を振り返ってみました。4月はオンラインでのオリエンテーションがあり、5, 6 月ではタスクを任され始め初めて失敗し、8 ~ 11月の間は少しずつ慣れ始めて、いろんなことに手を出していたなぁという流れをつらつらと書いてみました。実はまだ他に振り返り事項は残されているのですが、より細かく書いていくと「少しだけの振り返り」ではなくなってしまいそうなので、一旦ここら辺で切り上げることにします。また思うことがあればこちらに書いていくと思いますので、よければその時にまた読んでいただければと思います。そして入社初日に描いたブログでこんなことを言っているのを拝見しました。&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20201213/20201213040541.png" alt="f:id:sorehaedamame:20201213040541p:plain" width="721" height="154" loading="lazy" title="" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fsorehaedamame.hatenablog.com%2Fentry%2F2020%2F04%2F02%2F000953" title="株式会社マネーフォワードに入社しました - 猫も歩けば棒に当たる" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://sorehaedamame.hatenablog.com/entry/2020/04/02/000953">sorehaedamame.hatenablog.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>楽しめてはいるが、以下2点については少し思うことがあるなと...まぁ体調崩したといっても仕事が影響したわけではなく冬の寒い時期にお腹を出して寝てたことが原因で一度あったくらいなので、それは良いか。&lt;/p>
+&lt;p>さて！明日の&lt;a href="https://adventar.org/calendars/5401">マネーフォワードアドベントカレンダー2020🎄&lt;/a> 14日目はまんまるねこさんです。ではお楽しみに〜〜〜！！&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20201211/20201211132415.png" alt="mf-advent-calendar-2020" width="1002" height="666" loading="lazy" title="" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p></description></item><item><title>初めての vim プラグイン作成</title><link>https://cat2koban.dev/posts/2020-12-08/</link><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-12-08/</guid><description>
+&lt;p>この記事は &lt;a href="https://qiita.com/advent-calendar/2020/vim2">Vim2 Advent Calendar 2020 - Qiita&lt;/a> の8日目の記事です。
+昨日は &lt;a href="https://qiita.com/7321hasu">Hasu&lt;/a> さんの &lt;a href="https://qiita.com/7321hasu/items/d44e272dccaf38ff9b20">高校生がVimプラグインを作った話&lt;/a> でした。&lt;/p>
+&lt;h3>はじめに&lt;/h2>
+&lt;p>この記事では、&lt;a href="https://twitter.com/alpaca_tc">アルパカ隊長&lt;/a> さんに教わりながら作成した はじめての Vim プラグイン作成の話を書きたいと思います。&lt;/p>
+&lt;h3>作ったもの&lt;/h3>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fcat2koban%2Fghlink.vim" title="cat2koban/ghlink.vim" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/cat2koban/ghlink.vim">github.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>複数行選択をしたのちに、 &lt;code>:Ghlink&lt;/code> とコマンドを入力すると、選択した行がハイライトされたページへのリンクがクリップボードに保存される、と言うものです。&lt;/p>
+&lt;p>vim-plug の場合は、vim の設定ファイルに以下の通りに記述するとインストールされると思います。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-vim" data-lang="vim">&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">Plug&lt;/span> &lt;span class="s2">&amp;#34;cat2koban/ghlink.vim&amp;#34;&lt;/span>;&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>簡単なデモを下に載せておきます。&lt;/p>
+&lt;p>&lt;figure class="figure-image figure-image-fotolife" title="ghlink.vim_demo">&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20201208/20201208095052.gif" alt="f:id:sorehaedamame:20201208095052g:plain" title="" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/figure>&lt;/p>
+&lt;p>選択した後に &lt;code>:&lt;/code> を押すと、コマンド入力部分に既に &lt;code>'&amp;lt;,'&amp;gt;&lt;/code> が入力されていると思いますが、続けて &lt;code>Ghlink&lt;/code> と打ちます。&lt;/p>
+&lt;p>もともと Slack などで質問する際に、複数行ハイライトされた状態のページへのリンクをさくっと取得できるようにしたいなと思ってこう言うプラグインを作ろうと思いました。
+まぁ特に調べもせずに、Vimプラグインがどういうふうに作られるのか気になっていたので、車輪の再発明は気にせず学び目的で作成しました。
+まだいくつか TODO が残っているので、引き続き実装は進めていこうと考えています。&lt;/p>
+&lt;h3>作るときに便利だったもの&lt;/h3>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fvim-jp%2Fvital.vim" title="vim-jp/vital.vim" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/vim-jp/vital.vim">github.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>便利関数が多数定義されているプラグイン。これからのプラグイン開発では、こいつは必須になってくるのかなぁと思った代物です。ghlink.vim のコードでもその定義された関数を使っていて、便利さを 1行で実感しました。
+2行目の &lt;code>s:Prelude.path2project_directory(a:path)&lt;/code> の部分が vital の中で定義された関数を呼び出している箇所になります。
+とはいえ実際の上の行では vital のインスタンスを作成していたりと、vital の関数を使う前にいくつかすることがあるのですが、それはドキュメントを参照してください。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-vim" data-lang="vim">&lt;span class="line">&lt;span class="cl"> &lt;span class="k">function&lt;/span>&lt;span class="p">!&lt;/span> &lt;span class="nx">s&lt;/span>:&lt;span class="nx">current_git_path&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">path&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> &lt;span class="k">let&lt;/span> &lt;span class="nx">git_root&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="nx">s&lt;/span>:&lt;span class="nx">Prelude&lt;/span>.&lt;span class="nx">path2project_directory&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">a&lt;/span>:&lt;span class="nx">path&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="c">&amp;#34; ここで .git の管理するルートディレクトリからの現在のファイルパスを読み込んでいる&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> &lt;span class="nx">return&lt;/span> &lt;span class="nx">substitute&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">a&lt;/span>:&lt;span class="nx">path&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">git_root&lt;/span>.&lt;span class="s2">&amp;#34;/&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;g&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> &lt;span class="k">endfunction&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>ref: &lt;a href="https://github.com/cat2koban/ghlink.vim/blob/2be9505c1568c18c47335fc99fabe4325dfffe10/autoload/ghlink.vim#L16-L19">github.com/cat2koban/ghlink.vim/blob/&amp;hellip;/autoload/ghlink.vim#L16-19&lt;/a>&lt;/p>
+&lt;h3>おわりに&lt;/h3>
+&lt;p>自分の中で課題と感じていることを、自分で作ったプラグインで解決する、という経験がなかったので、楽しみながら作ることができました。&lt;a href="https://twitter.com/alpaca_tc">アルパカ隊長&lt;/a> さんには細かくご教示いただけて、とても感謝しています。あらかたプラグインを作る上での最低限のフォーマットは抑えられたのかなと思っているので、次は TODO をつぶしつつ、新しプラグインの作成にも目を向けても面白いかもなと思っています。&lt;/p></description></item><item><title>vim-startify に indent line をつけないようにする</title><link>https://cat2koban.dev/posts/2020-08-30/</link><pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-08-30/</guid><description>
+&lt;h3>Tl;dr&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-vim" data-lang="vim">&lt;span class="line">&lt;span class="cl">&lt;span class="k">let&lt;/span> &lt;span class="nx">g&lt;/span>:&lt;span class="nx">indentLine_fileTypeExclude&lt;/span> &lt;span class="p">=&lt;/span> [&lt;span class="s1">&amp;#39;startify&amp;#39;&lt;/span>]&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3>経緯&lt;/h3>
+&lt;p>nvim でコードを書く際に、ネストが深くなってしまってどうしても読み辛い箇所がでてきたりしたので、以下のプラグインを導入してみた。 するとインデントが簡単に可視化され、コードが読みやすくなったのは良いが、 &lt;a href="https://github.com/mhinzvim-startify">vim-startify&lt;/a> の出力でもインデントが生成されていて、非常に気持ち悪い見た目になってしまった。&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2FYggdroot%2FindentLine" title="Yggdroot/indentLine" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/Yggdroot/indentLine">github.com&lt;/a>&lt;/cite>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200830/20200830100543.png" alt="f:id:sorehaedamame:20200830100543p:plain" title="f:id:sorehaedamame:20200830100543p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>&lt;/p>
+&lt;h3>解決方法&lt;/h3>
+&lt;p>&lt;code>fileType&lt;/code> が &lt;code>startify&lt;/code> の時はインデントをつけないようにする。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-vim" data-lang="vim">&lt;span class="line">&lt;span class="cl">&lt;span class="k">let&lt;/span> &lt;span class="nx">g&lt;/span>:&lt;span class="nx">indentLine_fileTypeExclude&lt;/span> &lt;span class="p">=&lt;/span> [&lt;span class="s1">&amp;#39;startify&amp;#39;&lt;/span>]&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>すると起動後の画面はこんな感じに（カラースキーマの設定のせいで微妙過ぎて見えない&amp;hellip;）&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200830/20200830102453.png" alt="f:id:sorehaedamame:20200830102453p:plain" title="f:id:sorehaedamame:20200830102453p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>&lt;/p>
+&lt;p>初めは以下のリンクを参考にしました。この Issue では、&lt;code>vim-indent-guides&lt;/code> という似たようなインデント可視化用のプラグインにおいて、 &lt;code>startify&lt;/code> という fileType の場合は可視化させない方法が記載されています。&lt;/p>
+&lt;p> &lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fnathanaelkane%2Fvim-indent-guides%2Fissues%2F129" title="Bad rendering on startify · Issue #129 · nathanaelkane/vim-indent-guides" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/nathanaelkane/vim-indent-guides/issues/129">github.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>次に、似たような設定用の変数がないかどうか、自分が導入した &lt;a href="https://github.com/Yggdroot/indentLine">indentLine&lt;/a> で help を確認し、それを参考に設定を記述しました。&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200830/20200830102010.png" alt="f:id:sorehaedamame:20200830102010p:plain" title="f:id:sorehaedamame:20200830102010p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>&lt;figcaption>(上部 :help indentLine) (下部 ~/.config/nvim/init.vim)&lt;/figcaption>&lt;/figure>&lt;/p>&lt;/p>
+&lt;h3>最後に&lt;/h3>
+&lt;p>最初から &lt;code>:help&lt;/code> で探していれば、ブラウザを開くこともなかったですね・・・。もしプラグインを使っていてプラグインの機能を修正したい場合、以下のようにしてまずはドキュメントから調べる。という癖をつけるようにしたいなと思いました。
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-vim" data-lang="vim">&lt;span class="line">&lt;span class="cl">&lt;span class="p">:&lt;/span>&lt;span class="nx">help&lt;/span> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nx">plugin&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>iTerm でタブを Ctrl+W で消す前に警告を出すようにする</title><link>https://cat2koban.dev/posts/2020-06-14-2/</link><pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-06-14-2/</guid><description>
+&lt;p>iTerm の設定画面( &lt;code>Preferences &amp;gt; Profiles &amp;gt; Session&lt;/code> ) から、&lt;code>Prompt before closing?&lt;/code> のチェックボックスで &lt;code>Always&lt;/code> を選択する。&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200614/20200614000142.png" alt="f:id:sorehaedamame:20200614000142p:plain" title="f:id:sorehaedamame:20200614000142p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>すると、&lt;code>Ctrl + W&lt;/code> を押してタブを消そうとするとこのように警告が出るようになる&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200614/20200614000710.png" alt="f:id:sorehaedamame:20200614000710p:plain" title="f:id:sorehaedamame:20200614000710p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;h3>参考&lt;/h3>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fpodaraku.hatenablog.com%2Fentry%2F2014%2F03%2F26%2F194434" title="iTerm2で command + w を押してもすぐに閉じないよう設定する - podaraku&amp;#39;s blog" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="http://podaraku.hatenablog.com/entry/2014/03/26/194434">podaraku.hatenablog.com&lt;/a>&lt;/cite>&lt;/p></description></item><item><title>vim-startify + figlet + boxes を利用して vim を起動時にロゴを表示する</title><link>https://cat2koban.dev/posts/2020-06-14/</link><pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-06-14/</guid><description>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200614/20200614230710.png" alt="f:id:sorehaedamame:20200614230710p:plain" title="f:id:sorehaedamame:20200614230710p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;h3>経緯&lt;/h3>
+&lt;p>黒い画面と睨みっこをしていて、なんとなく遊び要素が欲しいなとふと思ったのでやってみました。&lt;/p>
+&lt;h3>環境&lt;/h3>
+&lt;ul>
+&lt;li>macOS Catalina 10.15.5&lt;/li>
+&lt;li>fish v3.1.0&lt;/li>
+&lt;li>Neovim v0.4.3&lt;/li>
+&lt;li>vim-plug v0.10.0&lt;/li>
+&lt;li>brew 2.4.0&lt;/li>
+&lt;li>vim プラグイン
+&lt;ul>
+&lt;li>vim-startify&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CLI ツール
+&lt;ul>
+&lt;li>figlet&lt;/li>
+&lt;li>boxes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fmhinz%2Fvim-startify" title="mhinz/vim-startify" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/mhinz/vim-startify">github.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fboxes.thomasjensen.com%2F" title="boxes - Command line ASCII boxes unlimited!" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://boxes.thomasjensen.com/">boxes.thomasjensen.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fwww.figlet.org%2F" title="FIGlet - hosted by PLiG" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="http://www.figlet.org/">www.figlet.org&lt;/a>&lt;/cite>&lt;/p>
+&lt;h3>インストール&lt;/h3>
+&lt;h4>vim-startify&lt;/h4>
+&lt;p>＊vim-plug を使用している場合&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-vim" data-lang="vim">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">Plug&lt;/span> &lt;span class="s1">&amp;#39;vim-startify&amp;#39;&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4>figlet&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">$ brew install figlet
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4>boxes&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">$ brew install boxes
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3>vim-startify の設定&lt;/h3>
+&lt;p>自分は以下のように vim の設定ファイルに記入しています。
+人によって異なると思いますが、プラグイ 別に設定ファイルを分けていないようであれば、
+neovim だと、 &lt;code>~/.config/nvim/init.vim&lt;/code> で、 vim だと &lt;code>~/.vimrc&lt;/code> になるのかなと思ってます。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;span class="lnt">33
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-vim" data-lang="vim">&lt;span class="line">&lt;span class="cl">&lt;span class="c"> &amp;#34; vim 起動時に vim-startify も一緒に起動させる&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span>&lt;span class="c"> &amp;#34; ref: https://github.com/mhinz/vim-startify/blob/master/doc/startify.txt#L309&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> &lt;span class="k">let&lt;/span> &lt;span class="nx">g&lt;/span>:&lt;span class="nx">startify_session_autoload&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="m">0&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span>&lt;span class="c">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c"> &amp;#34; ref: https://vim.blue/startify/&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span>&lt;span class="c"> &amp;#34; file 表示数&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> &lt;span class="k">let&lt;/span> &lt;span class="nx">g&lt;/span>:&lt;span class="nx">startify_files_number&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="m">5&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span>&lt;span class="c">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c"> &amp;#34; ref: http://mewbies.com/acute_terminal_fun_01_get_ascii-fied_on_the_terminal.htm&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span>&lt;span class="c"> &amp;#34; ref: https://github.com/ascii-boxes/boxes/blob/master/boxes-config&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> &lt;span class="k">let&lt;/span> &lt;span class="nx">g&lt;/span>:&lt;span class="nx">startify_custom_header&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="p">(&lt;/span>[&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; \\\/// &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; / _ _ \ &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; (| (.)(.) |) &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; +------------------.OOOo--()--oOOO.------------------+ &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | __ ___ __ __ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | _________ _/ /|__ \ / /______ / /_ ____ _____ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / ___/ __ `/ __/_/ // //_/ __ \/ __ \/ __ `/ __ \ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / /__/ /_/ / /_/ __// ,&amp;lt; / /_/ / /_/ / /_/ / / / / | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | \___/\__,_/\__/____/_/|_|\____/_.___/\__,_/_/ /_/ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | _ __ __ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / | / /__ ____ _ __/_/___ ___ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / |/ / _ \/ __ \ | / / / __ `__ \ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / /| / __/ /_/ / |/ / / / / / / / | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | /_/ |_/\___/\____/|___/_/_/ /_/ /_/ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; +------------------.oooO-----------------------------+ &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; ( ) Oooo. &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; \ ( ( ) &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; \_) ) / &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; (_/ &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39;&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \]&lt;span class="p">)&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>ロゴは startify_custom_header と言う名前の変数の中に文字列として書いていきます。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-vim" data-lang="vim">&lt;span class="line">&lt;span class="cl"> &lt;span class="k">let&lt;/span> &lt;span class="nx">g&lt;/span>:&lt;span class="nx">startify_custom_header&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="p">(&lt;/span>[&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \ ..&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \ ...&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> ]&lt;span class="p">)&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3>ロゴの作り方&lt;/h3>
+&lt;p> 今回僕は、&lt;code>figlet&lt;/code> と呼ばれるアスキーアートを生成してくれる CLIツールと、&lt;code>boxes&lt;/code> と呼ばれる文字をいろんなデザインの箱で囲ってくれる CLI ツールを用いてロゴを作りました。
+ちょっと手間なんですが、僕の場合 &lt;code>cat2koban&lt;/code> と &lt;code>neovim&lt;/code> の2行構成にしたかったので、わざわざ2個目の &lt;code>neovim&lt;/code> の方をコピペしてはキリ貼りしながら、なんとか2行にしました。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">$ figlet -f slant cat2koban &lt;span class="p">|&lt;/span> boxes -d ian_jones
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200614/20200614234331.png" alt="f:id:sorehaedamame:20200614234331p:plain" title="f:id:sorehaedamame:20200614234331p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200614/20200614234648.png" alt="f:id:sorehaedamame:20200614234648p:plain" title="f:id:sorehaedamame:20200614234648p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>ちなみに、 &lt;code>figlet&lt;/code> 単体だとこういう感じで表示されて、この出力結果が &lt;code>パイプ ( | )&lt;/code> で &lt;code>boxes&lt;/code> というコマンドに渡されているのがわかるかと思います。
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200614/20200614234550.png" alt="f:id:sorehaedamame:20200614234550p:plain" title="f:id:sorehaedamame:20200614234550p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200614/20200614235455.png" alt="f:id:sorehaedamame:20200614235455p:plain" title="f:id:sorehaedamame:20200614235455p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>あとは結果を &lt;code>| pbcopy&lt;/code> するなり コピーするなりして、vim&lt;/a> の設定ファイルに貼りつけます。ここで注意なんですが、文字列としてこのロゴを扱っているので、&lt;code>\" ... ",&lt;/code> というようにして、ロゴを一行一行囲む必要があります。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-vim" data-lang="vim">&lt;span class="line">&lt;span class="cl"> &lt;span class="k">let&lt;/span> &lt;span class="nx">g&lt;/span>:&lt;span class="nx">startify_custom_header&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="p">(&lt;/span>[&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; \\\/// &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; / _ _ \ &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; (| (.)(.) |) &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; +------------------.OOOo--()--oOOO.------------------+ &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | __ ___ __ __ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | _________ _/ /|__ \ / /______ / /_ ____ _____ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / ___/ __ `/ __/_/ // //_/ __ \/ __ \/ __ `/ __ \ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / /__/ /_/ / /_/ __// ,&amp;lt; / /_/ / /_/ / /_/ / / / / | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | \___/\__,_/\__/____/_/|_|\____/_.___/\__,_/_/ /_/ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | _ __ __ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / | / /__ ____ _ __/_/___ ___ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / |/ / _ \/ __ \ | / / / __ `__ \ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | / /| / __/ /_/ / |/ / / / / / / / | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | /_/ |_/\___/\____/|___/_/_/ /_/ /_/ | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; | | &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; +------------------.oooO-----------------------------+ &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; ( ) Oooo. &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; \ ( ( ) &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; \_) ) / &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39; (_/ &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \&lt;span class="s1">&amp;#39;&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">&lt;/span> \]&lt;span class="p">)&lt;/span>&lt;span class="err">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>そしてターミナルで引数なしで vim を起動させてみると、こうなります。&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200614/20200614230710.png" alt="f:id:sorehaedamame:20200614230710p:plain" title="f:id:sorehaedamame:20200614230710p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>皆さんも自分のロゴを作ったりして、vim に少しの遊び要素を追加してみてはいかがでしょうか？&lt;/p></description></item><item><title>Macbook で動かしている Rails アプリを IE11 で確認する</title><link>https://cat2koban.dev/posts/2020-06-07/</link><pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-06-07/</guid><description>
+&lt;h3>環境&lt;/h3>
+&lt;ul>
+&lt;li>OS: macOS Catalina 10.15.5&lt;/li>
+&lt;li>CPU: 2.4GHz 8-Core Intel Core i5&lt;/li>
+&lt;li>メモリ: 8GB&lt;/li>
+&lt;li>HDD: 512GB&lt;/li>
+&lt;li>VirtualBox: 6.1.8&lt;/li>
+&lt;/ul>
+&lt;h3>windows 環境 (VM) の用意&lt;/h3>
+&lt;p>VirtualBox でも Vagrant でも好きな方を選んで &lt;a href="https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/">Microsoft の公式ページ&lt;/a> から、仮想マシンを立ち上げるためのイメージファイルをダウンロードします。
+リンク先の公式ページに行くと、以下の画像のようなボタンがいっぱい表示されていると思います。&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200607/20200607230942.png" alt="f:id:sorehaedamame:20200607230942p:plain" title="f:id:sorehaedamame:20200607230942p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>今回は VirutalBox のケースで考えようと思うので、 [VirtualBox >] のボタンを押します。すると &lt;code>MSEdge - Win10.zip&lt;/code> なるもののダウンロードが開始されるはずです。
+ダウンロードは結構時間がかかります。なのでゆっくりお茶でも飲んで、積み本していた技術書などを消化するなどして時間を潰しましょう。&lt;/p>
+&lt;p>終わるまで大体3時間ちょっと程かかった記憶...とはいえ、ダウンロードが終わったら設定は楽なのですぐに環境を用意できると思います。
+ダウンロードが終わったら解凍して、一旦中身を確認しましょう。画像のように、&lt;code>MSEdge - Win10.ovf&lt;/code> と、&lt;code>MSEdge - Win10-disk001.vmdk&lt;/code> の二つのファイルがあれば良いです。&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200607/20200607232320.png" alt="f:id:sorehaedamame:20200607232320p:plain" title="f:id:sorehaedamame:20200607232320p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>次に[File > Import Appliance] から、解凍したファイルの中にある &lt;code>MSEdge - Win10.ovf&lt;/code> を選択します。&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200607/20200607231140.png" alt="f:id:sorehaedamame:20200607231140p:plain" title="f:id:sorehaedamame:20200607231140p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200607/20200607234436.png" alt="f:id:sorehaedamame:20200607234436p:plain" title="f:id:sorehaedamame:20200607234436p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>そのまま [continue] を押せば、あとは VirtualBox が勝手に VM を作ってくれます。以下の画像のように、Win10 環境が作成された様子がメニューから確認できれば、一通り終わりです。&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200607/20200607231903.png" alt="f:id:sorehaedamame:20200607231903p:plain" title="f:id:sorehaedamame:20200607231903p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>あとは起動して、パスワード入力画面に &lt;code>Passw0rd!&lt;/code> を入力すれば Windows にログインができます。&lt;/p>
+&lt;h2>Windows (VM) の IE11 で Railsアプリを表示してみる&lt;/h2>
+&lt;p>＊ Rails アプリを起動して確認する前に、IE11 ブラウザの検索窓に、 &lt;code>http://（確認したアドレス）:（ポート番号）&lt;/code>を 入力する必要があるため &lt;code>ifconfig | grep 192&lt;/code> とターミナルで入力し、Windows (VM) 側から Mac 側へ接続確認ができる IPアドレスを確認しておきましょう。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">$ ifconfig &lt;span class="p">|&lt;/span> grep &lt;span class="m">192&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> inet 192.168.50.1 netmask 0xffffff00 broadcast 192.168.50.255
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>確認できたら、Rails アプリを起動してみます。下記のコードは、 &lt;code>Procfile&lt;/code> と言って、foreman が読み込む設定ファイルのようなものです。著者の環境では foreman という gem を利用してるので、少し起動の仕方が一般のやり方と異なります。この設定ファイルの通りだと、 &lt;code>bundle exec foreman start&lt;/code> とすると、puma と, webpack-dev-server が起動します。&lt;code>web:&lt;/code> の部分に書かれている &lt;code>--binding=0.0.0.0&lt;/code> の意味については、&lt;a href="https://qiita.com/Masato338/items/f162394fbc37fc490dfb">こちらの qiita の記事&lt;/a> が参考になるかと思います。Macbookで立ち上げた Rails を、 VM 上で開いたブラウザ (今回だと IE11) で確認する際に、設定する必要がある Railsの起動オプションなので、意味を理解しておくと良いでしょう。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># rails&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$ bundle &lt;span class="nb">exec&lt;/span> rails server -p &lt;span class="m">5000&lt;/span> --binding&lt;span class="o">=&lt;/span>0.0.0.0
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># webpack-dev-server&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$ sh -c &lt;span class="s1">&amp;#39;rm -rf public/packs/* || true &amp;amp;&amp;amp; bin/webpack-dev-server&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>起動が確認できたら、早速 windows で確認してみましょう。&lt;/p>
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20200608/20200608003730.png" alt="f:id:sorehaedamame:20200608003730p:plain" title="f:id:sorehaedamame:20200608003730p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>
+&lt;p>アプリのログイン画面が表記されていますね。著者が用意したアプリはログイン画面が用意されてあるのでこのようなページが最初に表示されていますが、バニラな状態の Rails アプリで試したりすると、おなじみ「Hello Rails」などのメッセージが表示されていることかと思います。&lt;/p>
+&lt;p>以上が、 Macbook で動かしている Rails アプリを IE11 で確認する方法でした。&lt;/p></description></item><item><title>Ruby で配列の要素を展開して別の配列に格納する</title><link>https://cat2koban.dev/posts/2020-05-17/</link><pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-05-17/</guid><description>
+&lt;h2>TL;DR&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-ruby" data-lang="ruby">&lt;span class="line">&lt;span class="cl">&lt;span class="n">pry&lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="o">]&amp;gt;&lt;/span> &lt;span class="n">arrayA&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="o">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">3&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="o">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pry&lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="o">]&amp;gt;&lt;/span> &lt;span class="n">arrayB&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="o">[&lt;/span>&lt;span class="mi">4&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">5&lt;/span>&lt;span class="o">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pry&lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="o">]&amp;gt;&lt;/span> &lt;span class="n">arrayA&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">push&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">arrayB&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">=&amp;gt;&lt;/span> &lt;span class="o">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">3&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">4&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">5&lt;/span>&lt;span class="o">]&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3>経緯&lt;/h3>
+&lt;p>配列の中に要素を展開して入れて欲しいときはどうしたら...
+ある時ふとそんな気持ちになりました。&lt;/p>
+&lt;p>そこでいろいろ調べてみるとこんな記事が見つかりました。
+一番上の記事は、 &lt;code>ruby 配列 要素 展開 [検索]&lt;/code> とかで調べた記憶があります。&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fqiita.com%2Fkoshilife%2Fitems%2F63ad4088adcd77b71e52" title="Ruby 配列展開 *Array - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://qiita.com/koshilife/items/63ad4088adcd77b71e52">qiita.com&lt;/a>&lt;/cite>
+&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fscrapbox.io%2Frails-beginners%2Fsplat%25E5%25B1%2595%25E9%2596%258B" title="splat展開 - Rails beginners" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://scrapbox.io/rails-beginners/splat%E5%B1%95%E9%96%8B">scrapbox.io&lt;/a>&lt;/cite>&lt;/p>
+&lt;h3>結論&lt;/h3>
+&lt;p>push する配列に splat operator (*) なるものをつけてあげるだけで良さそう&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-ruby" data-lang="ruby">&lt;span class="line">&lt;span class="cl">&lt;span class="n">pry&lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="o">]&amp;gt;&lt;/span> &lt;span class="n">arrayA&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="o">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">3&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="o">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pry&lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="o">]&amp;gt;&lt;/span> &lt;span class="n">arrayB&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="o">[&lt;/span>&lt;span class="mi">4&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">5&lt;/span>&lt;span class="o">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pry&lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="o">]&amp;gt;&lt;/span> &lt;span class="n">arrayA&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">push&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">arrayB&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">=&amp;gt;&lt;/span> &lt;span class="o">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">3&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">4&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">5&lt;/span>&lt;span class="o">]&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>RubyMine で開いた Terminal で fish shell のパスがうまく動作していない</title><link>https://cat2koban.dev/posts/2020-05-05/</link><pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-05-05/</guid><description>
+&lt;h3>TL;DR&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">&amp;gt; ~/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$ &lt;span class="nb">cd&lt;/span> /Applications/RubyMine.app/Contents/plugins/terminal
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$ mv fish/ fish.back/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$ ln -s ~/.config/fish .
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3>経緯&lt;/h3>
+&lt;p>RubyMine のみで開発を行おうと奮闘している最中、 Terminal tab を開き、&lt;code>bundle exec rails ...&lt;/code> とコマンドを入力すると &lt;strong>bundlerが無いみたいですね。 gem install bundler してください。&lt;/strong> と言われてしまうことがありました。
+いつも iTerm からコマンドを入力すると実行できていたけどなぁ...と不思議に思い、実際に開いて入力してみると、正常にコマンドが実行される…… :thinking:
+なるほど分からん。となったので、ひとまず、 &lt;code>rubymine fish-shell [検索]&lt;/code> として調べてみることに。すると以下の記事が。&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.corocn.jp%2Fentry%2F2018%2F05%2F06%2F011547" title="IntelliJ 組み込みterminalでfish-shellを使う - 今日のつちや" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://blog.corocn.jp/entry/2018/05/06/011547">blog.corocn.jp&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>一通り読んでみると、この記事の著者は Intellij Ulitimate を使用している際に、同様の現象に遭遇した様子。&lt;/p>
+&lt;h3>解決方法&lt;/h3>
+&lt;blockquote>
+&lt;p>IntelliJのapp内にもconfig.fishがあってそっちを読んでるのが問題っぽい。 stackoverflow見るとfunctionsの読み込み処理追加しろよ〜っ&amp;hellip;&lt;/p>
+&lt;/blockquote>
+&lt;p>Intellij が Terminal tab を開くときに読み込んでいる shell の設定ファイルは、&lt;code>/Applications/RubyMine.app/Contents/plugins/terminal&lt;/code> の中にあるものが呼び出されているらしい。
+実際に見に行ってみると、&lt;/p>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">$ tree .
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├── fish
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├── config.fish
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ └── fish_variables
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├── jediterm-bash.in
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">└── lib
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ├── resources_en.jar
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> └── terminal.jar
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="m">2&lt;/span> directories, &lt;span class="m">5&lt;/span> files
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>確かになんかありますね.... ( &lt;code>fish/config.fish&lt;/code> もあれば &lt;code>fish_valiables&lt;/code> も )&lt;/p>
+&lt;p>ということで今回、同じ会社の製品とあって原因も同じだろうと考え、
+最初から存在していた &lt;code>fish/&lt;/code> ディレクトリは、 &lt;code>fish.back&lt;/code> と言う名前に置き換えてあげて、自分のカスタマイズしてある設定ファイルが入っているディレクトリ (私の場合で言うと &lt;code>~/.config/fish/config.fish&lt;/code> )のシンボリックリンクを貼ってみました。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">$ &lt;span class="nb">cd&lt;/span> /Applications/RubyMine.app/Contents/plugins/terminal
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$ mv fish/ fish.back/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt; /Applications/RubyMine.app/Contents/plugins/terminal
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$ ln -s ~/.config/fish .
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>そして &lt;code>tree&lt;/code> コマンドを実行すると以下のような結果が得られました。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">$ tree .
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├── fish -&amp;gt; /Users/cat2koban/.config/fish/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├── fish.back
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├── config.fish
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ └── fish_variables
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├── jediterm-bash.in
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">└── lib
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ├── resources_en.jar
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> └── terminal.jar
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="m">3&lt;/span> directories, &lt;span class="m">5&lt;/span> files
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>本筋の RubyMine の Terminal tab からも、無事に &lt;code>bundle exec rails ...&lt;/code> コマンドが実行できました。
+これからさらに RubyMine を使い倒せそうで何よりですね。&lt;/p></description></item><item><title>株式会社はてなに入社しました</title><link>https://cat2koban.dev/posts/2020-04-01/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-04-01/</guid><description>
+&lt;p>&lt;a href="http://hitode909.hatenablog.com/entry/2013/04/01/103640" style="background: transparent; color: #47a89c; text-decoration: none; overflow-wrap: break-word;">株式会社はてなに入社しました - hitode909の日記&lt;/a>&lt;/p></description></item><item><title>株式会社マネーフォワードに入社しました</title><link>https://cat2koban.dev/posts/2020-04-01-2/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2020-04-01-2/</guid><description>
+&lt;blockquote class="twitter-tweet" data-lang="ja">
+&lt;p dir="ltr" lang="ja">&lt;a class="keyword" href="http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A4%CB%C6%FE%BC%D2">はてなに入社&lt;/a>するのが遅すぎた&lt;/p>
+— たば (@cat2koban) &lt;a href="https://twitter.com/cat2koban/status/1245359565664706561?ref_src=twsrc%5Etfw">2020年4月1日&lt;/a>&lt;/blockquote>
+&lt;p>
+&lt;script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p>
+&lt;p>実は昨日から&lt;a href="https://corp.moneyforward.com/">株式会社マネーフォワード&lt;/a>に入社していました。&lt;/p>
+&lt;p>エンジニアへの手厚いサポートも魅力的でしたが，会社の文化に強く共感できたことや，社員一人ひとりのカルチャーへの姿勢を受け、この会社を選びました。&lt;/p>
+&lt;p>&lt;span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">そしてこれからの社会人生活，以下の 3つを忘れずに進んでいこうと思います。&lt;/span>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>仕事を楽しむ&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>無理に頑張りすぎない&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>健康に気をつける&lt;/strong> &lt;/li>
+&lt;/ul>
+&lt;p>仕事を楽しむのがメインになると思います。何にせよ明日も仕事かぁ...だるいなぁという姿勢で過ごすつもりはありません。残りの人生の半分以上、日々楽しむ自分を想像して頑張りたいと思います。&lt;/p></description></item><item><title>YAPC::Tokyo 2019 に参加してきました</title><link>https://cat2koban.dev/posts/2019-01-28/</link><pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2019-01-28/</guid><description>
+&lt;h3>はじめに&lt;/h3>
+&lt;p>今回のYAPC::Tokyo 2019 へ参加するにあたり，学生旅費支援制度で交通費等を給付していただいた企業の皆さま，ありがとうございます。&lt;/p>
+&lt;h3>聴講したトーク&lt;/h3>
+&lt;ul>
+&lt;li>肩のこらない型の話&lt;/li>
+&lt;li>私とOSSとPerl&lt;/li>
+&lt;li>YAPC座談会&lt;/li>
+&lt;li>Perl5の静的解析入門&lt;/li>
+&lt;li>Perlでも分散トレーシングしたい&lt;/li>
+&lt;li>ISUCON8予選問題作成の裏側&lt;/li>
+&lt;li>多くのCPAN Authorに育てられ，息をするように CPAN モジュールを書けるようになり，そして分かったこと&lt;/li>
+&lt;/ul>
+&lt;h3>印象に残ったトーク&lt;/h3>
+&lt;h4>私とOSSとPerl&lt;/h4>
+&lt;p>&lt;iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/key/6XRoizAdU5Bthw" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""> &lt;/iframe>&lt;/p>
+&lt;div style="margin-bottom: 5px;">&lt;strong> &lt;a href="https://www.slideshare.net/ShunsukeMaeda/ossperl" title="私とOSS活動とPerl" target="_blank">私とOSS活動とPerl&lt;/a> &lt;/strong> from &lt;strong>&lt;a href="https://www.slideshare.net/ShunsukeMaeda" target="_blank">Shunsuke Maeda&lt;/a>&lt;/strong>&lt;/div>
+&lt;p>&lt;cite class="hatena-citation">&lt;a href="https://www.slideshare.net/ShunsukeMaeda/ossperl">www.slideshare.net&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>トークの最後にスピーカーが仰っていた「世界はOSSに優しい」がとても印象にのこった。&lt;/p>
+&lt;p>「OSSは意外と近くにある」という言葉にも強い共感を覚えた。僕自身も，CPANから引っ張って来たモジュールを使ったり，VSCodeをつかってコードを書いたり，ネットワークのログを監視する時にSnortを用いたり，Pecoをつかってファイル検索を行ったりと，思い返してみれOSSに囲まれて生活しているな，と感じた。&lt;/p>
+&lt;p>CPAN authorになりたくてモジュールを開発(3年目になると称号が欲しくなるらしい)。僕もそろそろPerlを初めて3年になるので，何か称号の一つや二つ欲しいなって思ったりした。&lt;/p>
+&lt;p>転職後の勉強会で自分の作ったモジュールを使っている人と遭遇するなどあったらしい。(実際に同じ立場だったらとても嬉しいなと思った...)&lt;/p>
+&lt;h3>YAPC座談会&lt;/h3>
+&lt;p>トークを聞いていると，ほとんどJPAの方から話があった様子。&lt;/p>
+&lt;p>「どう，YAPCやってみない？」(?)&lt;/p>
+&lt;p>沖縄に関しては一度断っている。その点に関しては Okinawa.pm ができてまだ日が浅く，オーガナイザー個々の事情もあったと認識している。&lt;/p>
+&lt;p>それでも開催できたのは勢い。Code-Hex「そもそも同級生の子が nekokak さんに 「沖縄でもできたらいいですねぇ(ここは曖昧)」 ていったのがきっかけ！」(笑)&lt;/p>
+&lt;p>福岡はやるぞ！の一言がきっかけだったらしい。&lt;/p>
+&lt;p>辛かったこと，楽しかったことで，北海道は航空便など欠航が相次ぎ、登壇者や参加者が参加できなくなったことがあったみたい。。 登壇者の方に関しては google hongout で乗り越えたとのこと。&lt;/p>
+&lt;p>沖縄は会場までのバスを用意する点や、会場の選定が苦労した。しかしOISTの環境はとても良く，ほぼほぼ即決に近かった。 (バスに関しては初の試みで，乗り遅れた人がいたりと少しわちゃわちゃしていたが，特に滞りなく済んだと認識している。(スタッフの事故もあったが..(無事でした)))&lt;/p>
+&lt;h3>perl5の静的解析入門&lt;/h3>
+&lt;p>&lt;iframe id="talk_frame_487258" style="border: 0; padding: 0; margin: 0; background: transparent;" src="//speakerdeck.com/player/1d804f132f8f4785852dab5333355d51" width="710" height="399" frameborder="0" allowfullscreen="allowfullscreen">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://speakerdeck.com/mackee/the-static-analysis-of-perl5">speakerdeck.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>Perl5を使った静的解析のノウハウをまとめたような内容だった。この発表ではちょくちょく出て来る言葉が個人的に心に刺さった...&lt;/p>
+&lt;ul>
+&lt;li>コードの迷いは思考の迷い&lt;/li>
+&lt;li>動的型付け言語でも心に静的型付けコンパイラを持つ&lt;/li>
+&lt;li>機械にも人間にも優しいコードはPerlのサブセットになる&lt;/li>
+&lt;li>人間には雑念があり，自己を律するのは難しい(哲学...!)&lt;/li>
+&lt;/ul>
+&lt;p>トークの最後にチラッと見えた&lt;code>Function::Parameters&lt;/code>，&lt;code>Types::Standard&lt;/code>が気になった。この2つのモジュールについて少し勘違いしていたが，スピーカーのmackee_wさんにコメントで教えていただいたので，訂正しておきます。&lt;/p>
+&lt;blockquote class="twitter-tweet" data-lang="HASH(0xf83b460)">
+&lt;p dir="ltr" lang="ja">静的解析の発表をした者です。 Function::ParametersとTypes::Standardは実行時型検査をかける文法を導入するもので、静的型付けをやるのはこれからという感じです / “YAPC::Tokyo 2019…” &lt;a href="https://t.co/GOmLP75gio">https://t.co/GOmLP75gio&lt;/a>&lt;/p>
+— トーカナイザの守護霊 (@mackee_w) &lt;a href="https://twitter.com/mackee_w/status/1089777574350270464?ref_src=twsrc%5Etfw">January 28, 2019&lt;/a>&lt;/blockquote>
+&lt;p>
+&lt;script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p>
+&lt;p>&lt;span style="text-decoration: line-through;">動的型付け言語に部分的に静的型付けを導入する方法がPerlにもあるのかと驚愕&lt;/span>。懇親会で聞こうと思っていたが話しかけられず断念...&lt;s>こういうところであと一歩を出していかなければいつまでたっても進まないなあと思っている...&lt;/s>&lt;/p>
+&lt;h3>LT&lt;/h3>
+&lt;p>LTでは，前夜祭でもお話しさせていただいた @note103 さんの「自走するプログラミング入門者の探し方」というトークがとても印象に残りました。&lt;/p>
+&lt;p>&lt;iframe id="talk_frame_487279" style="border: 0; padding: 0; margin: 0; background: transparent;" src="//speakerdeck.com/player/fe4c8e30ced7496f82869aa18e4cf722" width="710" height="517" frameborder="0" allowfullscreen="allowfullscreen">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://speakerdeck.com/note103/zi-zou-surupuroguraminguru-men-zhe-falsetan-sifang">speakerdeck.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>Perlを始めたての頃，note103さんの作成した&lt;code>Carvo&lt;/code>を実際に英単語帳として使ったり，特別難しくなくシンプルな実装で読みやすく，色々と勉強させてもらっていたのを思い出しました。トークでも仰っていた通り，自走するプログラミング入門者，これはもしかしてnote103さん...?と思いながら聞いていました。&lt;/p>
+&lt;p>Code-Hexくんが前回のYAPC::Okinawaで声をかけていてくれたみたいで，それを覚えていたnote103さんが前夜祭に来ていることをAnaguraくんに教えてもらい(複雑...ww)，人と人が繋いでくれた出会いだ...と勝手に一人でしみじみ浸っていました...&lt;/p>
+&lt;h3>キーノートセッション&lt;/h3>
+&lt;p>&lt;iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/key/afon9PuEbf1GMB" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""> &lt;/iframe>&lt;/p>
+&lt;div style="margin-bottom: 5px;">&lt;strong> &lt;a href="https://www.slideshare.net/tokuhirom/20190126-yapc-tokyo-keynote" title="20190126 yapc tokyo keynote " target="_blank">20190126 yapc tokyo keynote &lt;/a> &lt;/strong> from &lt;strong>&lt;a href="https://www.slideshare.net/tokuhirom" target="_blank">Tokuhiro Matsuno&lt;/a>&lt;/strong>&lt;/div>
+&lt;p>&lt;cite class="hatena-citation">&lt;a href="https://www.slideshare.net/tokuhirom/20190126-yapc-tokyo-keynote">www.slideshare.net&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>Perlで開発している会社に入ったのがきっかけでPerlを触るようになったらしい。それまではPythonを使っていたというのは初めて知った...。その頃はlivedoorやshibuya.pmがイケイケだったらしく，livedoorと聞くと時代だなぁと感じたりもした。&lt;/p>
+&lt;p>このトークセッションで一番の学びは，tokuhiromさんの仰った「CPANはちょっとしたものでもアップロードしていい」といったものだった。お堅いイメージがあったCPANが，すこし柔らかく頭の中でとっつきやすくなった(うまく日本語が思い浮かばず...何をいってるんだか...)&lt;/p>
+&lt;p>後に弾さんのTwitter&lt;/a>でもこういう風に取り上げていた&lt;/p>
+&lt;blockquote class="twitter-tweet" data-lang="HASH(0xf19a7f8)">
+&lt;p dir="ltr" lang="ja">アップロードという時点で段差になってるかも。Githubがある時代はなおのこと &lt;a href="https://twitter.com/hashtag/yapcjapan?src=hash&amp;amp;ref_src=twsrc%5Etfw">#yapcjapan&lt;/a> &lt;a href="https://t.co/l3nJNg0R0i">https://t.co/l3nJNg0R0i&lt;/a>&lt;/p>
+— Dan Kogai (@dankogai) &lt;a href="https://twitter.com/dankogai/status/1089091464372469760?ref_src=twsrc%5Etfw">January 26, 2019&lt;/a>&lt;/blockquote>
+&lt;p>
+&lt;script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p>
+&lt;p> &lt;/p>
+&lt;p>こんな俺でもCPAN Authorになれるのかな，なんて思ったりした...。&lt;/p>
+&lt;p>そして&lt;code>コミュニティは「利用するもの」であり「貢献するもの」&lt;/code>という言葉もあった。貢献の一例として。&lt;/p>
+&lt;ul>
+&lt;li>ブログを書く&lt;/li>
+&lt;li>初心者をサポートする&lt;/li>
+&lt;li>勉強会を開催する&lt;/li>
+&lt;li>カンファレンスに参加する&lt;/li>
+&lt;li>Issueを書く&lt;/li>
+&lt;li>コードを書く&lt;/li>
+&lt;/ul>
+&lt;p>などが挙げられていたが，コードを書く，カンファレンスに参加すること以外をやった記憶が遠く...コミュニティに対しての貢献度がかなり低いな，と痛感した。&lt;/p>
+&lt;h3>懇親会&lt;/h3>
+&lt;p>懇親会では&lt;code>Perl入学式 校長&lt;/code>ことpapixさん，note103とお話しすることができてとても良かったです。papixさんには長年停滞しているCLIツールの作成方法についてのアドバイスをいただけ，2つほどおすすめのモジュールを教えてもらいました :pray: 。note103さんには覚えていただいていたことへの感謝もあり，Carvoプロジェクトに対してのPRを送ると伝えることもできました...!!&lt;/p>
+&lt;h3>さいごに&lt;/h3>
+&lt;p>今回のYAPC::Tokyo 2019は，長年お会いしたかった方とお話しをすることができたり，これからの活動へのモチベーションにつながるようなトークをいくつも聞けたりと，とても有益なものばかりでした。就職活動を始めていて，辛い気持ちになってばかりいるこの時期に，少しのリフレッシュはできたんじゃないかと個人的に思っています。これからもYAPCには足を運び，自らの学びにつなげていきたいなと思いました。運営の皆さん，登壇者の皆さん，参加者の皆さん，YAPC::Toyko 2019参加して良かったです，ありがとうございます。&lt;/p></description></item><item><title>Perl入学式というきっかけ</title><link>https://cat2koban.dev/posts/2018-04-05/</link><pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2018-04-05/</guid><description>
+&lt;p>これは春のPerl入学式ブログリレー4日目の記事です。&lt;/p>
+&lt;p>昨日は &lt;a href="http://blog.hatena.ne.jp/anatofuz/">id:anatofuz&lt;/a> さんのエントリでした。&lt;/p>
+&lt;p>今後学習を支える基盤となる母国語が身につくなど，各地のサポーターを始めとするエンジニアコミュニティの一員になれる&lt;/span>といったPerl入学式を完走するとできるようになることについて挙げられていました。&lt;/p>
+&lt;p>似たようなことになりますが今回，僕はPerl入学式をきっかけとしておきた出来事についてお話ししたいと思います。&lt;/p>
+&lt;h3>エンジニアコミュニティへの参加&lt;/h3>
+&lt;p>Perl入学式に参加したのをきっかけに，同級生の &lt;a href="http://blog.hatena.ne.jp/codehex/">id:codehex&lt;/a> くんに誘っていただき，Okinawa.pm という沖縄のPerl Mongerの集まるコミュニティに参加しました。&lt;/p>
+&lt;p>Okinawa.pm のブログがこちら -> &lt;a href="http://okinawa.pm.org/">Okinawa Perl Mongers&lt;/a>&lt;/p>
+&lt;p>その当時，僕は実際に働いているエンジニアの人たちの集まりで，みなさん年齢も離れており，学生の僕がその場に馴染める雰囲気なのか....キッチリカッチリしていそう，怖い人とかいるのかな？など様々な不安がありました。&lt;/p>
+&lt;p>そんな不安をよそにまさかの開催場所は居酒屋。お酒を嗜みながら，PCを開いてLTを行うといったものでした。そして参加されていたエンジニアの皆さんも優しい方ばかりで，Perlというプログラム言語には，こういうモジュールを公開しているサイトがあるんだよ！など，色んなことを教えてくれました。&lt;/p>
+&lt;p>そして日が経ち，そのコミュニティで僕はLTをする機会もありました。&lt;/p>
+&lt;p>その時のスライドがこちら 👇&lt;/p>
+&lt;p>&lt;iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/key/IYBdxbz47Qr579" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""> &lt;/iframe>&lt;/p>
+&lt;div style="margin-bottom: 5px;">&lt;strong> &lt;a href="https://www.slideshare.net/cat2koban/okinawapm4-74149393" title="Okinawapm#4" target="_blank">Okinawapm#4&lt;/a> &lt;/strong> from &lt;strong>&lt;a href="https://www.slideshare.net/cat2koban" target="_blank">cat2koban&lt;/a>&lt;/strong>&lt;/div>
+&lt;p>&lt;cite class="hatena-citation">&lt;a href="https://www.slideshare.net/cat2koban/okinawapm4-74149393?qid=02e3e672-e21a-4003-a26c-048a154ea79f&amp;amp;v=&amp;amp;b=&amp;amp;from_search=6">www.slideshare.net&lt;/a>&lt;/cite> &lt;/p>
+&lt;p>人前に出て発表を苦手としていた僕はいつのまにか，地域のエンジニアコミュニティで発表をしていました。&lt;/p>
+&lt;p>考えてみると僕はPerl入学式に参加したことをきっかけに，こうやって地域のエンジニアコミュニティに参加したり，他の勉強会にも興味を持って参加したり，カンファレンスとよばれる，エンジニアの技術トークを行う大きなイベントにも足を運んだりと，興味が興味を呼んで色々と行動を起こすようになりました。行動を起こすようになり，エンジニアとの繋がりも増え，僕が悩んだり，困ったりした時に一緒になって考えてくれる大学の友達も作ることができ，共に技術を高め合う仲間も見つけることができました。&lt;span style="text-decoration: line-through;">ちなみに昨日のエントリを書いた &lt;a href="http://blog.hatena.ne.jp/anatofuz/">id:anatofuz&lt;/a> さんはPerl入学式をきっかけに彼女ができたようです。&lt;/span>　今ではコミュニティメンバーの1人の，ホテルシステムの開発，研究を行っている企業の社員さんにお声がけをしていただき，アルバイトエンジニアとしてお仕事に携わることができています。Perl入学式で学んだプログラミングを，今はお仕事で活用できています。プログラミングを学ぶPerl入学式という機会があったからこそ，今の僕があると思っています。&lt;span style="text-decoration: line-through;">(唐突な無理矢理感)&lt;/span>&lt;/p>
+&lt;p>あなたもPerl入学式をきっかけに，プログラミングをはじめてみませんか？&lt;/p>
+&lt;p>明日は, @uniuni_sea さんです，お楽しみに٩( ᐛ )و&lt;/p></description></item><item><title>Shell Scriptで書かれた作業時間管理ツールをPerlに書き直す (序章)</title><link>https://cat2koban.dev/posts/2017-12-20/</link><pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2017-12-20/</guid><description>
+&lt;p>これは&lt;a href="https://qiita.com/advent-calendar/2017/perl">Perl Advent Calender 2017&lt;/a> 20日目の記事です。&lt;/p>
+&lt;h3>広告&lt;/h3>
+&lt;p>YAPC::Okinawaは現在，カンファレンス参加チケット・トークプロポーザルを絶賛募集中です！&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fyapcjapan.org%2F2018okinawa%2F" title="YAPC::Okinawa 2018 ONNASON" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="http://yapcjapan.org/2018okinawa/">yapcjapan.org&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>&lt;span style="font-size: 80%">この広告は，90日以上更新されていないブログにのみなんちゃらかんちゃr&lt;/span>&lt;/p>
+&lt;h3>はじめに&lt;/h3>
+&lt;p>普段は南の島の大学の4年生やってます。絶賛卒業研kうっ...頭が..(ノートはここで途切れているようだ...)&lt;/p>
+&lt;p>よくバイトや研究をしていて，作業の開始時間と終了時間を簡単に記録できたらいいななんて思うことがありました。
+Terminalで簡単に管理できる作業時間ツールでも作るか，と意気込んでいたその時。&lt;/p>
+&lt;p>&lt;u>タイミングよく&lt;/u>友人がShell Scriptでそのツールを書いていたので，勉強がてらそれをPerlに書き直すことにしようと決めました&lt;em>(┐「ε:)&lt;/em>&lt;/p>
+&lt;p>友人の作成した作業時間管理ツールがこちら。&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fmatsunom%2Fcheck" title="matsunom/check" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/matsunom/check">github.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;blockquote>&lt;p>checkは研究時間を記録するために作られました。基本的な使い方は指定したプロジェクトにcheck-in, check-outをするというシンプルな機能です。複数のプロジェクトに対応しているので毎日の活動を記録するのに最適です。check-inした後もバックグラウンドで動いていないのでコンピュータを再起動したりしても問題ありません。&lt;/p>&lt;/blockquote>
+&lt;p>ふむふむ，すごい(語彙ry..&lt;/p>
+&lt;h3>Perlへ移行&lt;/h3>
+&lt;h4>僕がPerlで書き直す上で年内に移行したい機能たち&lt;/h4>
+&lt;ol>
+&lt;li>&lt;p>check man&lt;br>使い方を表示してくれる help みたいなもの&lt;/p>&lt;/li>
+&lt;li>&lt;p>check in &amp;lt;project_name>&lt;br>作業時間の記録を開始。&lt;/p>&lt;/li>
+&lt;li>&lt;p>check out&lt;br>作業時間の記録を終了。&lt;/p>&lt;/li>
+&lt;/ol>
+&lt;p>&lt;br>今回は序章ということもあり(ｵｲｵｲ...)，項目1. check manまでの移行に関してまで書きます。
+&lt;br>生暖かい目で見守っていただけますと幸いです。&lt;/p>
+&lt;h4>manオプションの移行&lt;/h4>
+&lt;p>書き直す前のShell Scriptではこんな感じ
+&lt;br>- 受け取ったオプションを if 文で分岐かけてそれぞれの処理に流す感じ。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">main&lt;span class="o">()&lt;/span> &lt;span class="o">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#$1がないなら終了する&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_nonactive &lt;span class="nv">$1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#コマンドの実行環境の確認&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_database
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#$HOME/checkに移動する((&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">))&lt;/span> &lt;span class="nb">cd&lt;/span> &lt;span class="nv">$dirpath&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#実行状態の確認&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> &lt;span class="nv">$1&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;in&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span> &lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_in &lt;span class="nv">$1&lt;/span> &lt;span class="nv">$2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">elif&lt;/span> &lt;span class="o">[&lt;/span> &lt;span class="nv">$1&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;out&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span> &lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_out
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">~~ 省略 ~~
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">elif&lt;/span> &lt;span class="o">[&lt;/span> &lt;span class="nv">$1&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;man&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span> &lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_man
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#元のディレクトリに移動する&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">cd&lt;/span> - &amp;gt; /dev/null
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">main &lt;span class="nv">$1&lt;/span> &lt;span class="nv">$2&lt;/span> &lt;span class="nv">$3&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>ひとまず，terminal上で check &amp;lt;オプション> てな感じでやりたい。
+モジュールを自分で作って使ってみたいなとか考えて，Shell で書かれたものとは違うファイル構成にしました。下図がその構成
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20171220/20171220004113.png" alt="f:id:sorehaedamame:20171220004113p:plain" title="f:id:sorehaedamame:20171220004113p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>&lt;/p>
+&lt;p>CLI/ 以下にIN, OUT, Man, etc...とオプションごとに作る予定です。
+と，ここで書き直した様子を。。&lt;/p>
+&lt;p>まずpcheck というファイルがこんな感じで。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-perl" data-lang="perl">&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#!/usr/bin/env perl&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">use&lt;/span> &lt;span class="nn">File::Spec&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">use&lt;/span> &lt;span class="nn">Cwd&lt;/span> &lt;span class="s">&amp;#39;getcwd&amp;#39;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">unshift&lt;/span> &lt;span class="nv">@INC&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nn">File::Spec&lt;/span>&lt;span class="o">-&amp;gt;&lt;/span>&lt;span class="n">catfile&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">getcwd&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s">&amp;#34;lib&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">require&lt;/span> &lt;span class="nn">Check::CLI&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">exit&lt;/span> &lt;span class="nn">Check::CLI&lt;/span>&lt;span class="o">-&amp;gt;&lt;/span>&lt;span class="n">commands&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nv">@ARGV&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>モジュールが入ってる lib のPATHを@INCに入れてあげる。
+&lt;br>最後に &lt;code>exit Check::CLI-&amp;gt;commands(@ARGV);&lt;/code> で入力したオプションをCLI.pmに渡してあげる&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-perl" data-lang="perl">&lt;span class="line">&lt;span class="cl">&lt;span class="k">package&lt;/span> &lt;span class="nn">Check::CLI&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">strict&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">warnings&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">utf8&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">Data::Printer&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">Check::CLI::Man&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">sub&lt;/span> &lt;span class="nf">commands&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">my&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nv">$self&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="nv">$function&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="nv">$project_name&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nv">@_&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">exit&lt;/span> &lt;span class="k">print&lt;/span> &lt;span class="s">&amp;#34;check requires function name!\n&amp;#34;&lt;/span> &lt;span class="k">unless&lt;/span> &lt;span class="nb">defined&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nv">$function&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># function によって，実行処理を変更&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nv">$function&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># function が man なら各コマンドの説明&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="sr">/man/&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">exit&lt;/span> &lt;span class="nn">Check::CLI::Man&lt;/span>&lt;span class="o">-&amp;gt;&lt;/span>&lt;span class="n">man&lt;/span>&lt;span class="p">();&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>&lt;span class="k">elsif&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="sr">/IN/&lt;/span>&lt;span class="p">){&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># check in の処理&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>&lt;span class="k">elsif&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="sr">/OUT/&lt;/span>&lt;span class="p">){&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># check out の処理&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="mi">1&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>$functionが定義済みか確認
+受け取ったオプションが何か判断して，それぞれの処理を行うモジュールへ。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-perl" data-lang="perl">&lt;span class="line">&lt;span class="cl">&lt;span class="k">package&lt;/span> &lt;span class="nn">Check::CLI::Man&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">strict&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">warnings&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">utf8&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">feature&lt;/span> &lt;span class="sx">qw/say/&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">sub&lt;/span> &lt;span class="nf">man&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">my&lt;/span> &lt;span class="nv">$self&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">shift&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; &amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; check is a easy time logger tool.&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; &amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; check has some functions.&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; check in [project] : You can start logging time.&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; check out : You can stop time logging.&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; &amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="mi">1&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>man()が呼ばれたらとりあえず使い方をsaysaysayしていく。
+&lt;br> これで簡単にmanオプションまでは移行しました。
+&lt;br> 現在はcheck-inの機能の移行を進めているのですが，SQL周りで苦戦してます。
+&lt;br> 現在移行中のリポジトリがこちら⬇︎&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2FNoritomoTaba%2Fcheck%2Ftree%2Fexchange_perl" title="NoritomoTaba/check" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/NoritomoTaba/check/tree/exchange_perl">github.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;h3>広告&lt;/h3>
+&lt;p>&lt;a href="http://blog.yapcjapan.org/">YAPC運営ブログも更新中です！&lt;/a>
+&lt;br> 移動手段や沖縄の美味しい料理のお店，&lt;s>治安のない&lt;/s>お土産の情報などについても公開しております！
+&lt;br>現在トークも絶賛募集中です！皆さん是非お応募しましょう！&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScQz6HOc2rzQ77y2ckvy3zruAJIuxlDpFFalsNEFFotVTo6hQ%2Fviewform" title="YAPC::Okinawa 2018 ONNASON スピーカー募集" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScQz6HOc2rzQ77y2ckvy3zruAJIuxlDpFFalsNEFFotVTo6hQ/viewform">docs.google.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;h3>検討事項&lt;/h3>
+&lt;ul>
+&lt;li>SQLite3辛い....
+&lt;br> ただひたすらに書いて慣れるしかないんだ...( 返事がない，ただのしかばねのようだ )&lt;/li>
+&lt;li>Moo要素をどこに盛り込もうか
+&lt;br> 実は当初の目的は, Mooを使って移行するぞ！っていう意気込みの元移行に取り掛かっていました....でも書いてるうちに，あれ，これMoo使わないで動くのでは？.....( &lt;code>use Moo;&lt;/code> を消すたばの姿 ) あ....動いた...うっうっ...
+&lt;br> ドキュメントの流し見よくないですね。気をつけます。&lt;/li>
+&lt;/ul>
+&lt;h3>最後に&lt;/h3>
+&lt;p>ここまで読んでくださりありがとうございます。
+&lt;br>年末に移行を終えたらブログを続けて書こうと思ってます。
+&lt;br> ( 投稿されなかったら誰か「移行終わった？」とか「ブログ書いた？」とかもうどんどんナイフを投げてください。)
+&lt;br>
+&lt;br>明日は&lt;a href="https://qiita.com/books">booksさん&lt;/a>です！お楽しみに！&lt;/p></description></item><item><title>YAPC::Fukuoka 2017 HAKATA に参加してきました！</title><link>https://cat2koban.dev/posts/2017-07-07/</link><pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2017-07-07/</guid><description>
+&lt;p>これは&lt;a href="https://qiita.com/advent-calendar/2017/perl">Perl Advent Calender 2017&lt;/a> 20日目の記事です。&lt;/p>
+&lt;h3>広告&lt;/h3>
+&lt;p>YAPC::Okinawaは現在，カンファレンス参加チケット・トークプロポーザルを絶賛募集中です！&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fyapcjapan.org%2F2018okinawa%2F" title="YAPC::Okinawa 2018 ONNASON" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="http://yapcjapan.org/2018okinawa/">yapcjapan.org&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>&lt;span style="font-size: 80%">この広告は，90日以上更新されていないブログにのみなんちゃらかんちゃr&lt;/span>&lt;/p>
+&lt;h3>はじめに&lt;/h3>
+&lt;p>普段は南の島の大学の4年生やってます。絶賛卒業研kうっ...頭が..(ノートはここで途切れているようだ...)&lt;/p>
+&lt;p>よくバイトや研究をしていて，作業の開始時間と終了時間を簡単に記録できたらいいななんて思うことがありました。
+Terminalで簡単に管理できる作業時間ツールでも作るか，と意気込んでいたその時。&lt;/p>
+&lt;p>&lt;u>タイミングよく&lt;/u>友人がShell Scriptでそのツールを書いていたので，勉強がてらそれをPerlに書き直すことにしようと決めました&lt;em>(┐「ε:)&lt;/em>&lt;/p>
+&lt;p>友人の作成した作業時間管理ツールがこちら。&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fmatsunom%2Fcheck" title="matsunom/check" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/matsunom/check">github.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;blockquote>&lt;p>checkは研究時間を記録するために作られました。基本的な使い方は指定したプロジェクトにcheck-in, check-outをするというシンプルな機能です。複数のプロジェクトに対応しているので毎日の活動を記録するのに最適です。check-inした後もバックグラウンドで動いていないのでコンピュータを再起動したりしても問題ありません。&lt;/p>&lt;/blockquote>
+&lt;p>ふむふむ，すごい(語彙ry..&lt;/p>
+&lt;h3>Perlへ移行&lt;/h3>
+&lt;h4>僕がPerlで書き直す上で年内に移行したい機能たち&lt;/h4>
+&lt;ol>
+&lt;li>&lt;p>check man&lt;br>使い方を表示してくれる help みたいなもの&lt;/p>&lt;/li>
+&lt;li>&lt;p>check in &amp;lt;project_name>&lt;br>作業時間の記録を開始。&lt;/p>&lt;/li>
+&lt;li>&lt;p>check out&lt;br>作業時間の記録を終了。&lt;/p>&lt;/li>
+&lt;/ol>
+&lt;p>&lt;br>今回は序章ということもあり(ｵｲｵｲ...)，項目1. check manまでの移行に関してまで書きます。
+&lt;br>生暖かい目で見守っていただけますと幸いです。&lt;/p>
+&lt;h4>manオプションの移行&lt;/h4>
+&lt;p>書き直す前のShell Scriptではこんな感じ
+&lt;br>- 受け取ったオプションを if 文で分岐かけてそれぞれの処理に流す感じ。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">main&lt;span class="o">()&lt;/span> &lt;span class="o">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#$1がないなら終了する&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_nonactive &lt;span class="nv">$1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#コマンドの実行環境の確認&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_database
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#$HOME/checkに移動する((&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">))&lt;/span> &lt;span class="nb">cd&lt;/span> &lt;span class="nv">$dirpath&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#実行状態の確認&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> &lt;span class="nv">$1&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;in&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span> &lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_in &lt;span class="nv">$1&lt;/span> &lt;span class="nv">$2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">elif&lt;/span> &lt;span class="o">[&lt;/span> &lt;span class="nv">$1&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;out&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span> &lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_out
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">~~ 省略 ~~
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">elif&lt;/span> &lt;span class="o">[&lt;/span> &lt;span class="nv">$1&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;man&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span> &lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> check_man
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#元のディレクトリに移動する&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">cd&lt;/span> - &amp;gt; /dev/null
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">main &lt;span class="nv">$1&lt;/span> &lt;span class="nv">$2&lt;/span> &lt;span class="nv">$3&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>ひとまず，terminal上で check &amp;lt;オプション> てな感じでやりたい。
+モジュールを自分で作って使ってみたいなとか考えて，Shell で書かれたものとは違うファイル構成にしました。下図がその構成
+&lt;p>&lt;span itemscope itemtype="http://schema.org/Photograph">&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20171220/20171220004113.png" alt="f:id:sorehaedamame:20171220004113p:plain" title="f:id:sorehaedamame:20171220004113p:plain" class="hatena-fotolife" itemprop="image">&lt;/span>&lt;/p>&lt;/p>
+&lt;p>CLI/ 以下にIN, OUT, Man, etc...とオプションごとに作る予定です。
+と，ここで書き直した様子を。。&lt;/p>
+&lt;p>まずpcheck というファイルがこんな感じで。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-perl" data-lang="perl">&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#!/usr/bin/env perl&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">use&lt;/span> &lt;span class="nn">File::Spec&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">use&lt;/span> &lt;span class="nn">Cwd&lt;/span> &lt;span class="s">&amp;#39;getcwd&amp;#39;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">unshift&lt;/span> &lt;span class="nv">@INC&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nn">File::Spec&lt;/span>&lt;span class="o">-&amp;gt;&lt;/span>&lt;span class="n">catfile&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">getcwd&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s">&amp;#34;lib&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">require&lt;/span> &lt;span class="nn">Check::CLI&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">exit&lt;/span> &lt;span class="nn">Check::CLI&lt;/span>&lt;span class="o">-&amp;gt;&lt;/span>&lt;span class="n">commands&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nv">@ARGV&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>モジュールが入ってる lib のPATHを@INCに入れてあげる。
+&lt;br>最後に &lt;code>exit Check::CLI-&amp;gt;commands(@ARGV);&lt;/code> で入力したオプションをCLI.pmに渡してあげる&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-perl" data-lang="perl">&lt;span class="line">&lt;span class="cl">&lt;span class="k">package&lt;/span> &lt;span class="nn">Check::CLI&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">strict&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">warnings&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">utf8&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">Data::Printer&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">Check::CLI::Man&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">sub&lt;/span> &lt;span class="nf">commands&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">my&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nv">$self&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="nv">$function&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="nv">$project_name&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nv">@_&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">exit&lt;/span> &lt;span class="k">print&lt;/span> &lt;span class="s">&amp;#34;check requires function name!\n&amp;#34;&lt;/span> &lt;span class="k">unless&lt;/span> &lt;span class="nb">defined&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nv">$function&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># function によって，実行処理を変更&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nv">$function&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># function が man なら各コマンドの説明&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="sr">/man/&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">exit&lt;/span> &lt;span class="nn">Check::CLI::Man&lt;/span>&lt;span class="o">-&amp;gt;&lt;/span>&lt;span class="n">man&lt;/span>&lt;span class="p">();&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>&lt;span class="k">elsif&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="sr">/IN/&lt;/span>&lt;span class="p">){&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># check in の処理&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>&lt;span class="k">elsif&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="sr">/OUT/&lt;/span>&lt;span class="p">){&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># check out の処理&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="mi">1&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>$functionが定義済みか確認
+受け取ったオプションが何か判断して，それぞれの処理を行うモジュールへ。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-perl" data-lang="perl">&lt;span class="line">&lt;span class="cl">&lt;span class="k">package&lt;/span> &lt;span class="nn">Check::CLI::Man&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">strict&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">warnings&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">utf8&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nn">feature&lt;/span> &lt;span class="sx">qw/say/&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">sub&lt;/span> &lt;span class="nf">man&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">my&lt;/span> &lt;span class="nv">$self&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">shift&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; &amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; check is a easy time logger tool.&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; &amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; check has some functions.&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; check in [project] : You can start logging time.&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; check out : You can stop time logging.&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">say&lt;/span> &lt;span class="s">&amp;#34; &amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="mi">1&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>man()が呼ばれたらとりあえず使い方をsaysaysayしていく。
+&lt;br> これで簡単にmanオプションまでは移行しました。
+&lt;br> 現在はcheck-inの機能の移行を進めているのですが，SQL周りで苦戦してます。
+&lt;br> 現在移行中のリポジトリがこちら⬇︎&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2FNoritomoTaba%2Fcheck%2Ftree%2Fexchange_perl" title="NoritomoTaba/check" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/NoritomoTaba/check/tree/exchange_perl">github.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;h3>広告&lt;/h3>
+&lt;p>&lt;a href="http://blog.yapcjapan.org/">YAPC運営ブログも更新中です！&lt;/a>
+&lt;br> 移動手段や沖縄の美味しい料理のお店，&lt;s>治安のない&lt;/s>お土産の情報などについても公開しております！
+&lt;br>現在トークも絶賛募集中です！皆さん是非お応募しましょう！&lt;/p>
+&lt;p>&lt;iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScQz6HOc2rzQ77y2ckvy3zruAJIuxlDpFFalsNEFFotVTo6hQ%2Fviewform" title="YAPC::Okinawa 2018 ONNASON スピーカー募集" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScQz6HOc2rzQ77y2ckvy3zruAJIuxlDpFFalsNEFFotVTo6hQ/viewform">docs.google.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;h3>検討事項&lt;/h3>
+&lt;ul>
+&lt;li>SQLite3辛い....
+&lt;br> ただひたすらに書いて慣れるしかないんだ...( 返事がない，ただのしかばねのようだ )&lt;/li>
+&lt;li>Moo要素をどこに盛り込もうか
+&lt;br> 実は当初の目的は, Mooを使って移行するぞ！っていう意気込みの元移行に取り掛かっていました....でも書いてるうちに，あれ，これMoo使わないで動くのでは？.....( &lt;code>use Moo;&lt;/code> を消すたばの姿 ) あ....動いた...うっうっ...
+&lt;br> ドキュメントの流し見よくないですね。気をつけます。&lt;/li>
+&lt;/ul>
+&lt;h3>最後に&lt;/h3>
+&lt;p>ここまで読んでくださりありがとうございます。
+&lt;br>年末に移行を終えたらブログを続けて書こうと思ってます。
+&lt;br> ( 投稿されなかったら誰か「移行終わった？」とか「ブログ書いた？」とかもうどんどんナイフを投げてください。)
+&lt;br>
+&lt;br>明日は&lt;a href="https://qiita.com/books">booksさん&lt;/a>です！お楽しみに！&lt;/p></description></item><item><title>YAPC::Kansai 2017 Osakaに参加してきました！</title><link>https://cat2koban.dev/posts/2017-03-08/</link><pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2017-03-08/</guid><description>
+&lt;p>YAPC( Yet Another Perl Conference ) に初めて参加しました！&lt;/p>
+&lt;p>&lt;blockquote class="twitter-tweet" data-lang="ja">&lt;p lang="tr" dir="ltr">I&amp;#39;m at YAPC::Kansai 2017 OSAKA &lt;a href="https://t.co/9yvqAGfFkI">https://t.co/9yvqAGfFkI&lt;/a>&lt;/p>&amp;mdash; たば (@cat2koban) &lt;a href="https://twitter.com/cat2koban/status/837874251696832512">2017年3月4日&lt;/a>&lt;/blockquote>&lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>&lt;/p>
+&lt;p>YAPC::Kansai 2017 Osakaに参加するにあたり, 学生旅費支援制度で交通費等を給付していただいた企業の皆様, 並びにYAPC期間中に宿泊先を提供してくださりました@papixさん, そしてそのご家族の皆様, 大変ありがとうございました. &lt;/p>
+&lt;h3>いくつか聴講させていただいたトークの感想&lt;/h3>
+&lt;h4>2017年 春のPerl : @charsbarさん&lt;/h4>
+&lt;p>&lt;iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/key/eJZlQf8NYGSrn" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""> &lt;/iframe>&lt;/p>
+&lt;p>&lt;cite class="hatena-citation">&lt;a href="https://www.slideshare.net/charsbar/perl-2017spring">www.slideshare.net&lt;/a>&lt;/cite>&lt;/p>
+&lt;p> perl5.24.1が最近出たというのもこのトークで初めて知りました. 正直なところプログラミング言語が今どのような調整がされているか, どのような機能が追加されるのか等,  あまり気にしたことがなかった.  このトークをきっかけに, 少しでもPerlの現状に目を向け, 今自分が扱っているプログラミング言語の動向をちゃんと知っていこうと思いました. &lt;/p>
+&lt;h4>Webアプリケーションのキャッシュ戦略とそのパターン : @moznionさん&lt;/h4>
+&lt;p>&lt;iframe id="talk_frame_381931" style="border: 0; padding: 0; margin: 0; background: transparent;" src="//speakerdeck.com/player/46655138974643fca0c29eb58200b6fa" width="710" height="463" frameborder="0" allowfullscreen="true">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://speakerdeck.com/moznion/pattern-and-strategy-of-web-application-caching">speakerdeck.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>あまり意識したことのないキャッシュについて, レイヤ別, パターン化についての解説をしてくれていました. 正直まだWebアプリケーションを運用したことがなかったために, トークの内容についていけるか心配でしたが, キャッシュを扱う上でのシチュエーションなども例に挙げて話を進めてくれていたり, ところどころに笑いを挟んだりと, とても聞きやすいトークでした. &lt;/p>
+&lt;h4>Mojoliciousで始めるマイクロサービスアーキテクチャ : @masakystさん&lt;/h4>
+&lt;p>&lt;iframe id="talk_frame_381934" style="border: 0; padding: 0; margin: 0; background: transparent;" src="//speakerdeck.com/player/3980481158c249f8a1fc01fd0594898f" width="710" height="596" frameborder="0" allowfullscreen="true">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://speakerdeck.com/masakyst/mojoliciousdehazimerumaikurosabisuakitekutiya">speakerdeck.com&lt;/a>&lt;/cite>&lt;/p>
+&lt;p>Okinawa.pmの@masakystさんのトーク！印象に残ったのがJWT(Json Web Token)によるセキュリティ認証について. 以前のperl入学式後の食事会で小耳に挟んだ程度だったのであまり使い所もわからずそのまま放置していた知見の一つでしたが, ここで@masakystさんの解説を聞き, 少しばかり理解したつもり(ry...になりました. トーク最後のokinawa.pmの紹介でyomitan.pmの頃の話などもあり, 生い立ちを知るいい機会でもありました. &lt;/p>
+&lt;h4>Perl to Go : @code_hex&lt;/h4>
+&lt;p>&lt;a href="http://go-talks.appspot.com/github.com/Code-Hex/talks/yapc-kansai/main.slide#5">http://go-talks.appspot.com/github.com/Code-Hex/talks/yapc-kansai/main.slide#5&lt;/a>&lt;/p>
+&lt;p>まさか友人であるKくんこと@CodeHexくんがYAPCでトークをするとは...と思いながら複雑な気持ち?でトークを聴講させていただきました. といっても正直Go言語についてはさっぱりで, 話について行くのは少し大変でした. Perlのオブジェクト指向の話や, ポリモーフィズム界隈の話が出てきた際はPCでところどころ調べながら(笑)くらいついて聞いていました. &lt;/p>
+&lt;h4>GUEST : 木本裕紀さん&lt;/h4>
+&lt;p>終盤からの聴講でした, リモコンを操作し, ウインドウ内に表示された猫を移動させるWebアプリケーションのデモを行なっていました. いつもわからないことがあると参考にさせていただいている以下のサイトの管理者で, お初にお目にかかれて大変光栄でした. &lt;/p>
+&lt;p>&lt;iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="PerlならサンプルコードPerl入門 - PerlならサンプルコードPerl入門" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fperlcodesample%2F30000101%2F1458218846" frameborder="0" scrolling="no">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="http://d.hatena.ne.jp/perlcodesample/30000101/1458218846">d.hatena.ne.jp&lt;/a>&lt;/cite>&lt;/p>
+&lt;h4>PerlのWebアプリケーションをデプロイするときに僕たちが考えたこと : @papixさん&lt;/h4>
+&lt;p>まずデプロイとは？という入りでした. 正直なところ今までも単語の意味がわからない際はトーク中にグーグル先生に聞いたりして発表に食らいついていたのですが, @papixさんのトークは, 僕の印象では細かくわかりやすく「なぜ？」が淡々と解消されて行くトークですごくためになるよう進め方でした. その重要性や無停止の必要性について, 今後エンジニアとして業務に携わる際必要な知識なんだと, 改めてわかったトークでした. Perl入学式の生徒としては, 校長先生のYAPCでのトークを聞けて, 大変うれしく思いました. 次年度沖縄で行われるPerl入学式では, サポーターとして頑張っていけたらなと思います！&lt;/p>
+&lt;h3>まとめ&lt;/h3>
+&lt;h4>&lt;strong>トークでも, LTにおいても, みなさん笑いを取る技術が素晴らしかった.&lt;/strong>&lt;/h4>
+&lt;p>-&amp;gt; そのおかげで終始飽きずに聞き入ることができました. &lt;/p>
+&lt;p>&lt;strong>&lt;span style="text-decoration: underline;">自分の知識が浅いことを知った&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>-&amp;gt; トーク中にわからない単語を調べる自分を思い浮かべると, やはりまだまだだと実感しました....これからも学習を続け, Perl Monger, またWebエンジニアになれるよう尽力していこうという固く決意しました.  &lt;/p></description></item><item><title>dereference</title><link>https://cat2koban.dev/posts/2016-05-17/</link><pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate><author>cat2koban</author><guid>https://cat2koban.dev/posts/2016-05-17/</guid><description>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-perl" data-lang="perl">&lt;span class="line">&lt;span class="cl"> &lt;span class="k">my&lt;/span> &lt;span class="nv">@favorite_foods&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nv">@&lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nv">$int&lt;/span>&lt;span class="o">-&amp;gt;&lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="n">favorite_foods&lt;/span>&lt;span class="p">}};&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>の@以降で$intに渡されているハッシュリファレンスのfavorite_foodsの要素を&lt;a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%C7%A5%EA%A5%D5%A5%A1%A5%EC%A5%F3%A5%B9">デリファレンス&lt;/a>してる。&lt;/p>
+&lt;h3 id="確認">確認&lt;/h3>
+&lt;p>&lt;img class="hatena-fotolife" title="f:id:sorehaedamame:20160517211628p:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/sorehaedamame/20160517/20160517211628.png" alt="f:id:sorehaedamame:20160517211628p:plain" />&lt;/p>
+&lt;h3 id="参照記事">参照記事&lt;/h3>
+&lt;p>&lt;iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="perl-entrance-org/workshop-2015-03" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fperl-entrance-org%2Fworkshop-2015-03%2Fblob%2Fmaster%2Fslide.md" frameborder="0" scrolling="no">&lt;/iframe>&lt;cite class="hatena-citation">&lt;a href="https://github.com/perl-entrance-org/workshop-2015-03/blob/master/slide.md">github.com&lt;/a>&lt;/cite>&lt;/p></description></item></channel></rss>

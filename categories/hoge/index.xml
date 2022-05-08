@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hoge on cat2koban.dev</title><link>https://cat2koban.dev/categories/hoge/</link><description>Recent content in hoge on cat2koban.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cat2koban.dev/categories/hoge/index.xml" rel="self" type="application/rss+xml"/><item><title>いざ朝型と言っていたあの頃の僕へ</title><link>https://cat2koban.dev/posts/2022-01-15/</link><pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-15/</guid><description>今日 はなんと、昨日の夜更かしのせいで11時くらいに起きてしまった。いざ朝型と意気込んでいたあの頃の私はどこに行ったものか。。。まぁ起きてからグータラ、というよりは、昼頃に届いたダイニングテーブル、とセットになってた椅子4脚、と自分の部屋用のシェルフ、とサイドテーブルの組み立てをやっていた。
+ダイニングテーブルはニトリのこれを購入。
+https://www.nitori-net.jp/ec/product/5620875-5620872s/?rc=set
+サイドテーブルもニトリで、これを購入。
+https://www.nitori-net.jp/ec/product/8760899s/
+シェルフは amazon でこれを購入。
+https://www.amazon.co.jp/dp/B07GBNHT8H/
+どれも買って初日だけど、満足です。
+ふと 思ったけど、何かものを買った時の「これ買ったよ〜」っていう共有コメントのために、iframe とかでリンクテキストだけじゃなく、物の画像が見えるような装飾をしておくのもありかも。というかシンプルに OGP 用意してくれてるサイトならそれを使いたい。手が空いたら shortcode 作っておいても良いね</description></item><item><title>YAPC::Japan::Online 2022 に応募した</title><link>https://cat2koban.dev/posts/2022-01-14/</link><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-14/</guid><description>今日 は Twitter で YAPC のチケット販売のツイートを見かけたので、早速応募した。
+チケットの販売を開始しました🎉https://t.co/ZgrCNnb2bw
+&amp;mdash; yapcjapan (@yapcjapan) January 14, 2022 というかこの shortcode 、デフォで入ってるの知らなかった。とても便利。 このサイトを参考に埋め込んでみたけど、普通にいけたっぽい。
+https://takaken.tokyo/dev/hugo/hugo-embed-code/
+そしてそして 「あれ、今何やってたっけ？」ってよくなる僕にうってつけなアプリを見つけた。インストールしようと思ったが、まだ macOS 12.1 以上にしてないので使えてない。明日アプデしつつ、触ってみようかなと思っている。
+アプリへのリンク（https://apps.apple.com/app/id1604176982）
+アプリの紹介記事（https://applech2.com/archives/20220114-one-thing-for-mac-put-task-in-menu-bar.html）</description></item><item><title>元気でやってると伝えたい</title><link>https://cat2koban.dev/posts/2022-01-13/</link><pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-13/</guid><description>今日 は久しぶりに元研究室の同期と会話をした。ゲームを通じて。元気そうでよかった。会社がフルリモートOK らしく、引っ越すそう。車も買ったとのことで、なんとホンダ フリード。羨ましい。
+インスタの話をしたり、今どんな仕事をやってるのかの話だったり、亡くなった元担当教諭の実家に挨拶に行きたいねという話をしたり。転職意欲のことを聞いたが、全くないらしい。残念だ。いや、良いことか。
+研究室のメンバーで早く焼肉に行きたい。先輩も後輩も集めて。コロナが落ち着いたら、絶対誘うと決めている。計画すると決めている。まぁ先に先生に挨拶に行きたいな。元気でやってると伝えたい。</description></item><item><title>個人的に8時起きまでは「早起き」</title><link>https://cat2koban.dev/posts/2022-01-12/</link><pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-12/</guid><description>今日 は結局9時過ぎに起きた。これは早起きと言い難い、、個人的に。せめて8時だ。8時こそ、早起きのラインではないだろうか。まぁどっちでもいいな。
+というか今日一日を通して大問題だったのはかなり仕事に集中できなかったことだ。睡眠はしっかり取っていたので眠気が原因という訳でもないはず。
+一先ず、明日ポモドーロテクニックを復活させよう、4、５日ぶりに。</description></item><item><title>いざ朝型</title><link>https://cat2koban.dev/posts/2022-01-11/</link><pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-11/</guid><description>今日 は 6:30 に起きて午後まで用事を済ませていた。そっから仕事。
+仮眠取ったけど今もとても眠たい。生活習慣が壊れて夜型になってしまっていたので、今日を機に朝型に変更できそうだ。
+面白い記事 当社の QA エンジニアのメンバーが書いた記事がとても良い。というか刺さるものがありすぎてつらい。みんなもぜひ読んでみてほしい。
+https://note.com/morita_masami/n/nce741735a5cf</description></item><item><title>U-NEXT カクカクするんだけどどうして？</title><link>https://cat2koban.dev/posts/2022-01-10/</link><pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-10/</guid><description>今日 は午前中に散髪に行ったり、 UNEXT でワイルドスピードの新しいやつ見てた。カクつきが酷くてびっくり。なんというか急に FPS が 30 くらいの世界線に来たようなイメージ。所々フレームがカクつく。んーーーその様子を動画に撮って共有したいけどできないのでやらないが。ちなみに死霊の盆踊りの時は一切カクつきが無かった。 あれはカクついてた方が面白かったかもしれない。そんなわけないか。
+そういえば明日は午前中お休みをもらっており、用事を片付ける予定。6:30 には起きるという予定なのにまだ起きている。なんてことだ。</description></item></channel></rss>

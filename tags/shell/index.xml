@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>shell on cat2koban.dev</title><link>https://cat2koban.dev/tags/shell/</link><description>Recent content in shell on cat2koban.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://cat2koban.dev/tags/shell/index.xml" rel="self" type="application/rss+xml"/><item><title>Shell Scriptで書かれた作業時間管理ツールをPerlに書き直す (序章)</title><link>https://cat2koban.dev/posts/2017-12-20/</link><pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2017-12-20/</guid><description>これはPerl Advent Calender 2017 20日目の記事です。
+広告
+YAPC::Okinawaは現在，カンファレンス参加チケット・トークプロポーザルを絶賛募集中です！
+yapcjapan.org
+この広告は，90日以上更新されていないブログにのみなんちゃらかんちゃr
+はじめに
+普段は南の島の大学の4年生やってます。絶賛卒業研kうっ...頭が..(ノートはここで途切れているようだ...)
+よくバイトや研究をしていて，作業の開始時間と終了時間を簡単に記録できたらいいななんて思うことがありました。
+Terminalで簡単に管理できる作業時間ツールでも作るか，と意気込んでいたその時。
+タイミングよく友人がShell Scriptでそのツールを書いていたので，勉強がてらそれをPerlに書き直すことにしようと決めました(┐「ε:)
+友人の作成した作業時間管理ツールがこちら。
+github.com
+checkは研究時間を記録するために作られました。基本的な使い方は指定したプロジェクトにcheck-in, check-outをするというシンプルな機能です。複数のプロジェクトに対応しているので毎日の活動を記録するのに最適です。check-inした後もバックグラウンドで動いていないのでコンピュータを再起動したりしても問題ありません。
+ふむふむ，すごい(語彙ry..
+Perlへ移行
+僕がPerlで書き直す上で年内に移行したい機能たち
+check man
+使い方を表示してくれる help みたいなもの
+check in &amp;lt;project_name
+作業時間の記録を開始。
+check out
+作業時間の記録を終了。
+今回は序章ということもあり(ｵｲｵｲ...)，項目1. check manまでの移行に関してまで書きます。
+生暖かい目で見守っていただけますと幸いです。
+manオプションの移行
+書き直す前のShell Scriptではこんな感じ
+- 受け取ったオプションを if 文で分岐かけてそれぞれの処理に流す感じ。
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 main() { #$1がないなら終了する check_nonactive $1 #コマンドの実行環境の確認 check_database #$HOME/checkに移動する(( )) cd $dirpath #実行状態の確認 if [ $1 = &amp;#34;in&amp;#34; ] ; then check_in $1 $2 elif [ $1 = &amp;#34;out&amp;#34; ] ; then check_out ~~ 省略 ~~ elif [ $1 = &amp;#34;man&amp;#34; ] ; then check_man fi #元のディレクトリに移動する cd - &amp;gt; /dev/null } main $1 $2 $3 ひとまず，terminal上で check &amp;lt;オプション てな感じでやりたい。
+モジュールを自分で作って使ってみたいなとか考えて，Shell で書かれたものとは違うファイル構成にしました。下図がその構成</description></item></channel></rss>

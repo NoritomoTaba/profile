@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vim on cat2koban.dev</title><link>https://cat2koban.dev/tags/vim/</link><description>Recent content in vim on cat2koban.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cat2koban.dev/tags/vim/index.xml" rel="self" type="application/rss+xml"/><item><title>初めての vim プラグイン作成</title><link>https://cat2koban.dev/posts/2020-12-08/</link><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-12-08/</guid><description>この記事は Vim2 Advent Calendar 2020 - Qiita の8日目の記事です。
+昨日は Hasu さんの 高校生がVimプラグインを作った話 でした。
+はじめに
+この記事では、アルパカ隊長 さんに教わりながら作成した はじめての Vim プラグイン作成の話を書きたいと思います。
+作ったもの
+github.com
+複数行選択をしたのちに、 :Ghlink とコマンドを入力すると、選択した行がハイライトされたページへのリンクがクリップボードに保存される、と言うものです。
+vim-plug の場合は、vim の設定ファイルに以下の通りに記述するとインストールされると思います。
+1 Plug &amp;#34;cat2koban/ghlink.vim&amp;#34;; 簡単なデモを下に載せておきます。
+選択した後に : を押すと、コマンド入力部分に既に '&amp;lt;,'&amp;gt; が入力されていると思いますが、続けて Ghlink と打ちます。
+もともと Slack などで質問する際に、複数行ハイライトされた状態のページへのリンクをさくっと取得できるようにしたいなと思ってこう言うプラグインを作ろうと思いました。
+まぁ特に調べもせずに、Vimプラグインがどういうふうに作られるのか気になっていたので、車輪の再発明は気にせず学び目的で作成しました。
+まだいくつか TODO が残っているので、引き続き実装は進めていこうと考えています。
+作るときに便利だったもの
+github.com
+便利関数が多数定義されているプラグイン。これからのプラグイン開発では、こいつは必須になってくるのかなぁと思った代物です。ghlink.vim のコードでもその定義された関数を使っていて、便利さを 1行で実感しました。
+2行目の s:Prelude.path2project_directory(a:path) の部分が vital の中で定義された関数を呼び出している箇所になります。
+とはいえ実際の上の行では vital のインスタンスを作成していたりと、vital の関数を使う前にいくつかすることがあるのですが、それはドキュメントを参照してください。
+1 2 3 4 function! s:current_git_path(path) let git_root = s:Prelude.</description></item><item><title>vim-startify に indent line をつけないようにする</title><link>https://cat2koban.dev/posts/2020-08-30/</link><pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-08-30/</guid><description>Tl;dr
+1 let g:indentLine_fileTypeExclude = [&amp;#39;startify&amp;#39;] 経緯
+nvim でコードを書く際に、ネストが深くなってしまってどうしても読み辛い箇所がでてきたりしたので、以下のプラグインを導入してみた。 するとインデントが簡単に可視化され、コードが読みやすくなったのは良いが、 vim-startify の出力でもインデントが生成されていて、非常に気持ち悪い見た目になってしまった。
+github.com
+解決方法
+fileType が startify の時はインデントをつけないようにする。
+1 let g:indentLine_fileTypeExclude = [&amp;#39;startify&amp;#39;] すると起動後の画面はこんな感じに（カラースキーマの設定のせいで微妙過ぎて見えない&amp;hellip;）
+初めは以下のリンクを参考にしました。この Issue では、vim-indent-guides という似たようなインデント可視化用のプラグインにおいて、 startify という fileType の場合は可視化させない方法が記載されています。
+github.com
+次に、似たような設定用の変数がないかどうか、自分が導入した indentLine で help を確認し、それを参考に設定を記述しました。
+(上部 :help indentLine) (下部 ~/.config/nvim/init.vim)
+最後に
+最初から :help で探していれば、ブラウザを開くこともなかったですね・・・。もしプラグインを使っていてプラグインの機能を修正したい場合、以下のようにしてまずはドキュメントから調べる。という癖をつけるようにしたいなと思いました。
+1 :help &amp;lt;plugin&amp;gt;</description></item><item><title>vim-startify + figlet + boxes を利用して vim を起動時にロゴを表示する</title><link>https://cat2koban.dev/posts/2020-06-14/</link><pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2020-06-14/</guid><description>経緯
+黒い画面と睨みっこをしていて、なんとなく遊び要素が欲しいなとふと思ったのでやってみました。
+環境
+macOS Catalina 10.15.5
+fish v3.1.0
+Neovim v0.4.3
+vim-plug v0.10.0
+brew 2.4.0
+vim プラグイン
+vim-startify
+CLI ツール
+figlet
+boxes
+github.com
+boxes.thomasjensen.com
+www.figlet.org
+インストール
+vim-startify
+＊vim-plug を使用している場合
+1 Plug &amp;#39;vim-startify&amp;#39; figlet
+1 $ brew install figlet boxes
+1 $ brew install boxes vim-startify の設定
+自分は以下のように vim の設定ファイルに記入しています。
+人によって異なると思いますが、プラグイ 別に設定ファイルを分けていないようであれば、
+neovim だと、 ~/.config/nvim/init.vim で、 vim だと ~/.</description></item><item><title>dereference</title><link>https://cat2koban.dev/posts/2016-05-17/</link><pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2016-05-17/</guid><description>1 my @favorite_foods = @{$int-&amp;gt;{favorite_foods}}; の@以降で$intに渡されているハッシュリファレンスのfavorite_foodsの要素をデリファレンスしてる。
+確認 参照記事 github.com</description></item></channel></rss>
