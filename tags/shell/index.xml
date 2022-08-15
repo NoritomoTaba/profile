@@ -16,7 +16,7 @@ Perlへ移行
 僕がPerlで書き直す上で年内に移行したい機能たち
 check man
 使い方を表示してくれる help みたいなもの
-check in &amp;lt;project_name
+check in &amp;lt;project_name>
 作業時間の記録を開始。
 check out
 作業時間の記録を終了。
@@ -25,5 +25,6 @@ check out
 manオプションの移行
 書き直す前のShell Scriptではこんな感じ
 - 受け取ったオプションを if 文で分岐かけてそれぞれの処理に流す感じ。
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 main() { #$1がないなら終了する check_nonactive $1 #コマンドの実行環境の確認 check_database #$HOME/checkに移動する(( )) cd $dirpath #実行状態の確認 if [ $1 = &amp;#34;in&amp;#34; ] ; then check_in $1 $2 elif [ $1 = &amp;#34;out&amp;#34; ] ; then check_out ~~ 省略 ~~ elif [ $1 = &amp;#34;man&amp;#34; ] ; then check_man fi #元のディレクトリに移動する cd - &amp;gt; /dev/null } main $1 $2 $3 ひとまず，terminal上で check &amp;lt;オプション てな感じでやりたい。
-モジュールを自分で作って使ってみたいなとか考えて，Shell で書かれたものとは違うファイル構成にしました。下図がその構成</description></item></channel></rss>
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 main() { #$1がないなら終了する check_nonactive $1 #コマンドの実行環境の確認 check_database #$HOME/checkに移動する(( )) cd $dirpath #実行状態の確認 if [ $1 = &amp;#34;in&amp;#34; ] ; then check_in $1 $2 elif [ $1 = &amp;#34;out&amp;#34; ] ; then check_out ~~ 省略 ~~ elif [ $1 = &amp;#34;man&amp;#34; ] ; then check_man fi #元のディレクトリに移動する cd - &amp;gt; /dev/null } main $1 $2 $3 ひとまず，terminal上で check &amp;lt;オプション> てな感じでやりたい。
+モジュールを自分で作って使ってみたいなとか考えて，Shell で書かれたものとは違うファイル構成にしました。下図がその構成
+CLI/ 以下にIN, OUT, Man, etc.</description></item></channel></rss>

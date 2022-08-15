@@ -65,8 +65,7 @@ AWS 認定クラウドプラクティショナーの本を読み終える 模試
 参加予定の勉強会はこれ。面白そうだなと。
 https://gorillavim.connpass.com/event/236945/
 なので 今日は超絶早く寝ます。なんと21時に寝ます。もう32分くらい過ぎてます。なので切り上げて寝ます。はい。</description></item><item><title>会社で出た ActiveRecord の Nested transactions のクイズが解けなかた</title><link>https://cat2koban.dev/posts/2022-01-26/</link><pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-26/</guid><description>どの ユーザーが作られる？っていう問題。会社で出たんだけど、解けなくて死んだ。
-1 2 3 4 5 6 7 User.transaction do User.create(username: &amp;#39;Kotori&amp;#39;) User.transaction do User.create(username: &amp;#39;Nemu&amp;#39;) raise ActiveRecord::Rollback end end
-Q. どのユーザーが作られる？
+1 2 3 4 5 6 7 User.transaction do User.create(username: &amp;#39;Kotori&amp;#39;) User.transaction do User.create(username: &amp;#39;Nemu&amp;#39;) raise ActiveRecord::Rollback end end Q. どのユーザーが作られる？
 kotori kotori と Nemu どちらも作られない 答えはこちら ▼ https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html</description></item><item><title>資格対策本の5章を読んだ</title><link>https://cat2koban.dev/posts/2022-01-25/</link><pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate><guid>https://cat2koban.dev/posts/2022-01-25/</guid><description>今日 は昨日の復習と5章を読んだ。長い。5章長い。仕事で疲れてるだろうからと、半分だけ読んで寝るつもりだったのに。結局一気に全部読んでしまった。まぁ会社の研修でやったような内容もあったし、そもそも難しいこと書いてなかったのもあって、一気に読めたではある。。ていうか疲れてないのか俺？って感じ。
 EC2やらAuto ScalingとかELBとかLambdaの説明が延々と書かれてた。ちょくちょく Code Pipeline の話も出てた。以上です。所感、以上です。
 加湿器買った んですよ、実は。想像していたよりも大きくて笑ったけど、まぁベットの横とか、頭上に置いて使うとかそう言う想定はしてないので、シンプルに地べたに直置きして使っている。さくらチェッカーで高評価だったのと、youtube でいいレビューがあったのでこれを買った。もうさくらチェッカーの犬です、はい。

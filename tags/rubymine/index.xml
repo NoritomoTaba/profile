@@ -7,4 +7,5 @@ blog.corocn.jp
 一通り読んでみると、この記事の著者は Intellij Ulitimate を使用している際に、同様の現象に遭遇した様子。
 解決方法
 IntelliJのapp内にもconfig.fishがあってそっちを読んでるのが問題っぽい。 stackoverflow見るとfunctionsの読み込み処理追加しろよ〜っ&amp;hellip;
-Intellij が Terminal tab を開くときに読み込んでいる shell の設定ファイルは、/Applications/RubyMine.</description></item></channel></rss>
+Intellij が Terminal tab を開くときに読み込んでいる shell の設定ファイルは、/Applications/RubyMine.app/Contents/plugins/terminal の中にあるものが呼び出されているらしい。 実際に見に行ってみると、
+1 2 3 4 5 6 7 8 9 10 11 $ tree .</description></item></channel></rss>
